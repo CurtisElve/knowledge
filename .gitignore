@@ -35,14 +35,6 @@ dist/
 build/
 *.egg-info/
 
-# --- Generated knowledge-base artifacts (rebuild with scripts) ---
-raw/
-chunks.json
-chunks_openrouter.json
-chunks_checkpoint.json
-chunks_local/
-chunks_local_checkpoint.json
-
 # --- Model / download caches ---
 .cache/
 models/

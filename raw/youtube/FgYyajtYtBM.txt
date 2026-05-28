@@ -1,0 +1,85 @@
+Last question from Jeff says, "I thought, I remember you saying in one of your podcasts that fat
+burning doesn't yield as much energy output, ATP maybe, than glucose burning does, but I'm not sure
+about that.
+Could you clarify that for me?
+Also, if so, how does that compare with fat containing more calories per gram than glucose shouldn't
+fat yield, more energy?" First of all, you should never, ever, ever, ever think of metabolism
+through the perspective of calories per gram.
+You want to I think from the perspective of ATP yield.
+I mean, you could think of the perspective as ATP yield per molecule, I mean, I don't know why you
+would even look at it per molecule.
+What you really want to look at is, you could look at ATP yield per calorie, if you're trying to say
+that.
+It's conceivable that you get a different level of ATP yield per calorie, but generally calories are
+going to be roughly equivalent to ATP yield.
+But I mean, calories per gram is so totally irrelevant because your body doesn't care about grams.
+For example, if you're looking at burning the carbon dioxide produced between a carbohydrate and a
+fat, that's some by-product of energy metabolism that differs, right?
+So the way you would want to look at that is really per ATP yield, or you could look at it per
+calorie to be more general.
+But it would be silly to look at it per molecule because the molecules have different amounts of
+energy.
+It would be silly to look at it per gram because your body doesn't calculate grams of anything.
+If you put in nine grams of fat, your body doesn't know that it's burning nine grams of that.
+It knows that it's burning X amount of ATP yield of fat, and that's what it regulates things by.
+But fat burning doesn't yield...
+Okay.
+So you said, "I thought, I remember you saying on one of your podcasts, that fat burning doesn't
+yield as much energy output, ATP maybe, than glucose burning does." I don't remember saying that.
+I don't remember saying that, and I'm not sure what that refers to.
+But I'm trying to think of what I might've said.
+So glucose can generate ATP in more diverse ways.
+So glucose can generate ATP in the cytosol through glycolysis and fat can't, that's one thing.
+Then there's also lots of things you can do with glucose that you can't do with fat.
+So glucose can support the pentose phosphate pathway, fat mostly can't.
+Glucose can support anaplerosis, which is providing citric acid cycle backbones in order to keep it
+running, fat can't do that.
+So glucose can do more things to support energy metabolism than fat can.
+Glucose can yield ATP in the cytosol.
+It's possible that in something in the past, maybe I did do something about yielding...
+I don't know if I did anything on ATP yield per calorie.
+I might've said that.
+Let me just see if there's something, let me see.
+One second.
+So I just pull up this paper.
+"How does the ratio of ATP yield from the complete oxidation of palmitic acid to that of glucose
+compared to the relative energy contents of fat and carbohydrate?" So this seems to answer the
+question as it should be stated.
+This paper is from 1998, and it says, "The authors of many recent popular textbooks of biochemistry
+quote values for the energy content of triacylglycerol and dry carbohydrate on a weight basis, as
+well as presenting calculations for the yield of ATP obtained when a molecule of glucose or palmitic
+acid is completely oxidized to CO2 and H2O.
+"By extending these calculations and computing the yield of ATP in terms of the weight of glucose or
+palmitic acid oxidized to CO2 and H2O, it can be shown that the value for the ratio of the energy
+content of fat to that of carbohydrate is almost identical to the ratio of the yield of ATP per gram
+of palmitic acid oxidized, compared with that of glucose.
+Therefore, the efficiency on a per gram basis by which energy is made available as ATP is comparable
+for both the oxidation of fat and carbohydrate, thus underscoring the fact that the catabolic
+pathways for both fat and carbohydrate ultimately use the same means of generating ATP, namely
+oxidative phosphorylation." So they said comparable, see if they have exact numbers.
+You know what?
+This paper's real short, let's just read it.
+It's two paragraphs.
+"The following calculation makes use of the more recent figures of 2.5 molecules of ATP form per
+molecule of mitochondrial NADH oxidized by the electron transport chain, that is coupled to
+oxidative phosphorylation and 1.5 molecules of ATP form per molecule of an enzyme bound FADH2
+oxidized by the same process.
+The complete oxidation of glucose to carbon dioxide water, either 30 or 32 molecules of ATP can be
+formed, depending on whether cytosolic and NADH is oxidized via the glycerol phosphate shuttle or
+the malate aspartate shuttle respectively.
+For the complete oxidation of palmitic acid, 106 molecules of ATP can be formed.
+If we averaged ATP yield for glucose and use a value of 31 ATP molecules, then on a weight basis, we
+find that 0.17 molecules of ATP and 0.41 molecules of ATP are formed when one gram of glucose and
+one gram of palmitic acid are completely oxidized, respectively." So I hate people that...
+I don't hate the people.
+I hate the use of this sentence with "respectively" at the end, it just makes it harder to read.
+So what that means is, "We find that 0.17 molecules of ATP are formed when one gram of glucose is
+oxidized and 0.41 molecules of ATP are formed, when one gram of palmitic acid are completely
+oxidized.
+Thus, the ratio of the yield of ATP per gram of palmitic acid oxidized to that of glucose oxidized
+is 2.4.
+Thus, over twice as much chemical energy in the form of ATP is obtained per gram of palmitic acid
+that is completely oxidized to carbon dioxide and water compared with oxidizing glucose.
+If we make use of the values usually quoted for the energy content of fat, 37 kilojoules per gram
+dry weight and carbohydrate 16 kilojoules per gram dry weight." Of course that's nine and four-ish
+Calories per gram.

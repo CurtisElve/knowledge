@@ -1,0 +1,88 @@
+Gary Krieger says, "Hi Chris, in your last AMA, you mentioned using milk thistle or sulforaphane to
+move iron from serum to ferritin.
+Would this be considered a normal physiological option or more a backdoor approach to lower elevated
+transferrin saturation?
+I understand hypothyroidism and MTHFR single nucleotide polymorphisms can cause elevated
+transferrin, transferrin saturation, and low ferritin.
+How would you best address these conditions to lower transferrin saturation?
+Recent labs of mine put transferrin saturation in the range of 39 to 46 and ferritin 60 to 70, TSH
+2.85, reverse T3 18, free T3 mid range.
+Thank you." If that was me, I would be giving blood.
+And the way that I look at this is I think there's a lot of confusion that is driven by looking at
+ferritin as if it's a universal singular marker of iron status, which it is completely not.
+I think there's a lot of muddled thinking that that comes around the diagnostic criteria used for
+hemochromatosis.
+And so, what gets lost in the observation that people with diagnosable hemochromatosis have really
+high ferritin, is that the mechanism that begins decades before that's found is that the
+communication between elevated transferrin saturation and the hepcidin system that lowers iron
+absorption and increases ferritin is broken.
+So what should happen if that situation is working correctly, is that as your transferrin saturation
+moves up between 30 and 40%, there's a cascade of physiological responses to that, that lower your
+iron absorption and that increase your ferritin.
+So if you were to find someone when that first happened, not after they had diagnosable
+hemochromatosis.
+If you were to find someone who was in the initial stages of recognizing that pattern, what you
+would find is that their transferrin saturation would be quite high and their ferritin would be much
+lower than you would expect it to be.
+Because the thing that's broken is the ferritin doesn't respond to the transferrin saturation.
+So, the default for me is to read a transferrin saturation that's consistently above 40%.
+And now granted 39 to 46 is only a little bit above 40%, right?
+So I am homozygous for H63D when I first discovered that I had iron overload issues, my transferrin
+saturation was at 55% and I was in my 20s, in my early 20s.
+So 39 to 46 is like barely out of the range.
+And I guess maybe, I mean, it's not as if giving blood once is dangerous for most cases.
+So I don't see that as a problem.
+Although, maybe if you're worried about COVID or you hate needles, or you're not, whatever.
+You might want to wait it out and see where that goes.
+But if that's an increasing trend, I personally am going to, if that were me, I'd be interpreting
+that as early iron overload.
+And yeah, the ferritin is 60 to 70.
+And it'll go down with iron overload, but I mean, with blood donation.
+But personally, when I'm concerned about iron overload, I'm okay letting ferritin go down to 20 to
+40.
+Whereas if I'm concerned about anemia, iron deficiency anemia, I'm not.
+I'm going to want to make sure ferritin stays above 60.
+So, the question arises: Why does someone...
+If in hemochromatosis the communication between high transferrin saturation and ferritin is broken,
+why does ferritin go up so high?
+And the answer is that oxidative stress results from high free iron, which correlates with high
+transferrin saturation.
+And it's the oxidative stress that drives the ferritin so high.
+And the logic in the last AMA in talking about milk thistle and sulforaphane was to help get the
+hormesis or the perception of oxidative stress from those supplements to jack up the oxidative
+stress response to get a higher ferritin reaction.
+But if your ferritin is 60, 70, and you're giving blood, then you probably want to do what the blood
+donation people will already do for you, which is make sure you don't become iron deficient.
+But you could enhance that a little bit by making sure that your hemoglobin, hematocrit, red blood
+cells, and whatnot, don't go low.
+Now, the last thing is, if your transferrin saturation is a little bit high.
+You really should make sure that your albumin doesn't run a little bit low.
+Because if your albumin and runs a little bit low, it's going to make your transferrin saturation
+look a little bit high and it's going to be false.
+Transferrin saturation is sort of like calculated LDL.
+It's not the thing you want, but most of the time it's good enough.
+And so with borderline high transferrin saturation where you're not convinced of iron overload, you
+really should look at actual transferrin saturation.
+And there's a formula in Testing Nutritional Status: The Ultimate Cheat Sheet to calculate that.
+But the measurements required would be, at the same time you get the iron panel, get the serum
+transferrin.
+And I personally would say, get the, I mean, you could do it just serum iron and serum transferrin,
+but my preference would be get serum ferritin, get serum transferrin, and get the iron panel.
+That way you can correlate them.
+So, you can say when my iron saturation is 40%, what does my transferrin saturation calculate to?
+And is iron saturation actually a good proxy or is it not?
+And that would require like three measurements where you take them together to look at their
+correlation.
+So I guess number one would be, see if it's a fake correlation by looking at actual transferrin
+saturation.
+Number two would be, make sure it's an uptrend and it's not a fluke.
+Like if it was 39, it was 46.
+Next time it's 37.
+It's probably a fluke.
+But if it's an uptrend, you probably want to do something about it.
+And yes, you could try the...
+Someone in that situation could try the Nrf2 stimulators, like milk thistle and sulforaphane.
+But if it is a genuine uptrend in early stage iron overload, that might be a situation that giving
+blood once a year would be the best solution.
+All right.
+Thank you, Gary, for your question.

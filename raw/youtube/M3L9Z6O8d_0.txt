@@ -1,0 +1,313 @@
+The winner of this month's question contest is John Needham whose question I would summarize as,
+"Can plant foods and their phytochemicals be used to reduce arterial plaque?" Before I get to John's
+full question, I want to give a background of the mechanisms of atherosclerosis and how they inform
+how I would think about such a question.
+So, I'm going to go to a paper that has some great figures.
+This paper is Role of Oxidized LDL and Atherosclerosis by Leiva, Wehinger, Guzman, and Orrego, and
+it's, you can see the information there.
+I want to skip to a couple of figures that they have down here.
+So, what's going on in the development of atherosclerosis according to modern knowledge is that
+lipoproteins in the bloodstream with an emphasis on LDL particles will travel in and out of the
+subendothelial space.
+And so, the subendothelial space is this space behind the endothelium.
+And, the endothelium is the innermost layer of blood, innermost layer of cells of a blood vessel
+that is in contact with the lumen of the blood vessel.
+So, the lumen is where the blood is flowing.
+It's the open space in the blood vessel for the blood, and then the blood vessel wall is composed of
+three main layers.
+The innermost layer is the endothelium, and the endothelium is, this is probably not exactly true,
+but is, generally, described as a single layer of cells.
+And, there are gaps between the cells, and there is opportunity for things of various sizes to float
+in and out of those spaces, going in and out of the subendothelial space.
+And, the subendothelial space, which is behind the endothelium on the other...
+So, this is the blood up here, not depicted.
+The subendothelial space is on the other side of the endothelium, and it is between the endothelium
+and the other layers of the blood vessel.
+And, although it's not depicted here, these LDL particles are not just coming in and getting caught.
+They're coming in, and they're going out.
+So, if you added more detail to this picture, what you'd see is these LDL particles are coming in
+here, some are leaving over here, and they're just constantly going in, coming out.
+It's totally normal.
+There's nothing wrong with it.
+It's going to happen throughout your entire life.
+Now, inside the subendothelial space, you have a much more oxidative environment because of the
+types of enzymes that are produced over on this side of the blood and due to the antioxidant balance
+and due to the constant surveillance and presence of immune cells in this place.
+And, the LDL particle does not have to get caught on proteoglycans, which are these green structures
+here, but there are proteoglycans that can catch the LDL particle, and if they catch the LDL
+particle, they'll keep the LDL particle there for longer.
+Now, there are reactive oxygen species that can oxidize the LDL particle in here, and they can
+oxidize any LDL particle that's in here.
+They, and of course, LDL particles can also oxidize in the blood, so they don't have to get caught
+on the proteoglycans to oxidize.
+But, if they do get caught on the proteoglycans, they will spend a longer period of time in the
+subendothelial space, thus a longer period of time exposed to the reactive oxygen species.
+And, thus, they will be more likely to exceed the threshold of their own antioxidant protection.
+So, although not depicted in this picture, one of the things that has to happen during LDL oxidation
+is that, if you just take an LDL particle in vitro, and you expose it to oxidants, and you just
+watch what happens, there's what's called the lag phase.
+And then, all of a sudden, you have this dramatic explosion of oxidation at some period of time
+afterwards.
+Why is that?
+It's because the LDL particle, often originating from VLDL particles that had left the liver,
+whichever lipoprotein, there is LDL secreted from the liver, but generally, most LDL in plasma is
+metabolized down from VLDL that was secreted from the liver.
+It doesn't really matter.
+The point is when lipoproteins leave the liver, the liver has packaged them with a bunch of stuff
+that includes antioxidants.
+And so, if there's a little bit of contact with reactive oxygen species, it doesn't really matter
+because all that happens is you lose a little bit of the antioxidants in the LDL particle.
+But, if that LDL particle is exposed to enough oxidants for enough time, then a threshold will be
+crossed, and the first thing to oxidize will be the polyunsaturated fatty acids in the membrane of
+the LDL particle.
+The oxidation of PUFAs in the LDL membrane will eventually lead to the oxidation of the protein in
+the membrane, and the oxidation of the protein will change its interaction with receptors.
+So, it'll no longer be taken up by the LDL receptor if it were to encounter the liver, but it will
+be taken up by macrophage scavenger receptors, which plays an important role in atherosclerosis.
+Now, there is oxidation of the cholesterol in the LDL particle, and that's not irrelevant, but it's
+also not the main story going on.
+And so, if you look at quantitatively what is present in oxidized LDL that does the most to
+stimulate the process of atherosclerosis, it's actually the oxidized, or the products of PUFA
+oxidation, polyunsaturated fatty acid oxidation in the LDL membrane that are driving the process the
+most.
+In any case, you also have immune cells called monocytes.
+And, monocytes, their role is primarily surveillance.
+So, they're circulating through the blood.
+They're circulating through the subendothelial space.
+They're doing the same thing that these LDL particles are doing.
+And, everything else that fits between the endothelial cells, all of it is coming in and going out,
+coming in and going out all the time.
+But, if these monocytes...
+Now, this picture is a little misleading.
+So, this picture shows that the endothelial cells are secreting adhesion molecules and
+chemoattractants such as intracellular ICAM and VCAM, so intracellular adhesion molecule, vascular
+cellular adhesion molecule and implying that this is what brings the monocytes over.
+There's truth to that, but actually, the monocytes are always there.
+They're always coming into the subendothelial space, they're always leaving.
+However, more of them will come if there is inflammatory process induced by the oxidized lipids to
+make the adhesion molecules and chemoattractants.
+Moreover, and more importantly, more of them will stay there.
+So, one of the key events here is that, and this really isn't depicted in this picture, but if you
+have oxidized LDL in here, you'll have these monocytes deciding to stay, and they will morph into
+resident macrophages.
+And, that's, basically, saying the monocytes are surveilling.
+They're saying, "Is there anything to clean up?" And then, they found something to clean up.
+It was the oxidized LDL.
+And so, they stay there in the subendothelial space, and they say, "You know what?
+I'm going to be a bigger cell.
+I'm going to be a macrophage, and I'm going to just stand here and watch out for oxidized LDL
+because I've seen it here before, and I'm going to make sure it gets cleaned up." And, over time,
+that leads us to things that are happening in the next figure.
+Okay.
+So, they depict this process much better in this figure.
+So, the monocytes come in.
+In the presence of oxidized LDL, they differentiate into macrophages.
+The macrophages specialize in taking up the oxidized LDL, and as they do so, they become like giant
+cleanup sites.
+And, they turn into these foam cells, which is basically like, "I'm just going to be a giant
+warehouse for all this gunk." Okay.
+Now, that's the process as we know it now.
+And, if we go back to what was known back in, say, 1930 something, when Nikolai Anichkov wrote an
+absolutely fantastic English-language review of all the Russian literature since the 1800s up to
+that point, one of the things that was known was that you could produce this process in a rabbit by
+feeding it cholesterol.
+But, another thing that was known was that if you stop feeding the rat cholesterol, it was totally
+reversible.
+And, there's been nothing ever to contradict the principle that was learned from these animal
+experiments, that the only thing you need to do to reverse atherosclerosis is remove the cause.
+And, if you remove the cause, it'll go away.
+Now, that might not be true if you have advanced atherosclerosis characterized by successive
+ruptures of the plaque and re-healing with scar tissue and clots that build up.
+All right?
+You may get to a point where there are certain sites that have advanced characteristics that are not
+totally reversible, but I'm not so sure because even in an advanced plaque where you have successive
+rupture and re-healing and successive and repeated instances of clotting, it's still the buildup of
+oxidized lipids in the area promoting inflammation that's degrading the collagen in the cap that is
+overcoming the rate of collagen synthesis, thus causing a rupture.
+And so, if you just remove the accumulation of the oxidized lipids, you should reverse even that
+process.
+And so, you might not get the artery to look like a brand new artery, but you should be able to
+return an unstable plaque to a stable plaque, and stable plaques don't cause cardiovascular events.
+Stable plaques are not the cause of ischemic strokes, and they're not the cause of myocardial
+infarction.
+The only way that you can get a cardiovascular event from stable plaques is if they are so
+overwhelmingly enormous and obstructive in all three coronary arteries that you have a chronic
+reduction in the blood supply to the heart.
+And, that's not the usual cause of a heart attack, and that's not the likely case at all in someone
+who's relatively health-conscious.
+Okay.
+So, that said, with that in mind, let's take a look at the studies that John was talking about.
+So, John's full question is: "Reducing the level of cholesterol buildup in the wall of arteries.
+This paper contains the statement in the introduction that cholesterol efflux, the initial step of
+reverse cholesterol transport, is known to enhance the export of excessive cholesterol from
+peripheral tissues, in particular macrophages, and thereby to inhibit the accumulation of
+cholesterol in the wall of the arteries.
+Later.
+It states that falcarindiol is a typical constituent of roots and rhizomes of apiaceae plants," I
+don't know if I'm pronouncing that correctly, " used worldwide including in Europe such as commonly
+used vegetables and herbs, carrot, celery.
+My own research suggests parsley and coriander, cilantro in the US are also members of this family."
+Then, John says, "This paper, this next paper, stated that in the control group that did not consume
+pomegranate juice, common carotid intima-media thickness increased 9% during one year, whereas
+pomegranate juice consumption resulted in significant intima-media thickness reduction up to 30%
+after one year.
+I understand the IMT, the intima-media thickness, to represent the buildup of plaque in layman's
+terms.
+Question one, what would Chris support?
+Would Chris support drinking smoothies with an emphasis on celery, parsley and coriander and
+cilantro?
+Question number two, would Chris support deliberately eating pomegranates?
+The sample size was small, but other studies also suggest beneficial effects.
+Question three, does Chris have suggestions for other foods that may have an effect on reducing the
+IMT or indeed stopping buildup in the first place?" All right.
+So, in this paper, this paper is just totally focused on a very narrow mechanism.
+So, they took this compound in carrots.
+This is a graphical abstract, summarizes what they did.
+And, what they, basically, found is, we were talking a minute ago about macrophages taking up the
+lipoproteins.
+And so, one of the paradigms of reversal of atherosclerosis is reverse cholesterol transport, where
+these macrophages not only have the receptors that take up the oxidized lipoproteins, but they also
+have means of removing cholesterol to HDL particles.
+Now, I think reverse cholesterol transport is true, although I think it also became a very narrow,
+overly narrow focus that really hasn't played out the way anyone wanted it to.
+So, when it was discovered that there was differences in the associations between LDL and HDL with
+heart disease, people tried to explain it, and their first explanation was that the HDL can take the
+cholesterol out of the blood vessel wall, basically, in the way that's shown on the screen.
+However, if you look at the lipoprotein cycle, one of the things that HDL does is it passes that
+cholesterol onto LDL particles that then bring it into the liver.
+And so, one of the things that they've done with this hypothesis is come up with cholesterol ester
+transfer protein inhibitors as a means of pharmacologically increasing the HDL cholesterol content
+based on this hypothesis.
+And, they haven't worked.
+So, I think it's important to not get caught up in a narrow mechanism like this.
+Now, it's quite possible that, if what this study is saying is true, is that carrots are more
+effective than these pharmacological inhibitors because they're not focused on keeping the
+cholesterol in the HDL, they're just focused on getting it into the HDL in the first place.
+But, I don't really agree that this is so obviously central to the processes we were talking about
+before because once you have a ton of oxidized lipids in the subendothelial space, you want them
+secured in the macrophages because they're toxic to the cells.
+And, the key driver of the process is not the total cholesterol content in the macrophage.
+It's the total amount of oxidized lipids driving inflammatory gene transcription that then in...
+What you really care about if you have advanced atherosclerosis is the plaque stability, and it's
+oxidized lipids driving inflammatory degradation of collagen that is relevant there.
+All right.
+You're getting robust activation of cholesterol export from the cell, mediated by the apoprotein
+from HDL, and it's rivaling that of a drug.
+So, one of the questions that you would want to get is like, "How many carrots do you have to eat?"
+Or, "How much of this stuff do you have to pop to get your falcarindiol levels up to 20 micromolar?"
+Pomegranate juice consumption for three years by patients with carotid artery stenosis reduces
+common carotid intima-media thickness, blood pressure, and LDL oxidation by Michael Aviram and
+colleagues.
+All right.
+So, they randomized people to either their patient, well, they started with 19 patients from their
+vascular surgery clinic, five women and 14 men age 65 to 75 years, non-smokers with asymptomatic
+severe carotid artery stenosis defined as 70 to 90% stenosis in internal carotid arteries.
+And, they randomized the patients to either pomegranate juice or placebo.
+They don't state what the placebo was, and that's a little odd in the case of drinking pomegranate
+juice because I would like to know what fake pomegranate juice they gave and what constituents were
+in it, and what was the sugar content and all this stuff.
+So, it's weird not to have an explanation of that.
+10 patients got the pomegranate juice.
+Nine got the, nine did not consume pomegranate juice and served as a control group.
+So, the way they described the results is sketchy.
+All right.
+So, what you would expect is take this graph of the primary endpoint here, carotid intima-media
+thickness.
+You would expect to see the placebo group plotted against the treatment group.
+This is time after pomegranate juice consumption in the 10 patients who had the pomegranate juice
+for up to a year.
+And, it's like you randomized them to a placebo and pomegranate juice.
+Where's the placebo group?
+So, to find the placebo group, you have to go up here, and you have to read it.
+And, it says, "Mean intima-media thickness of the left and right common carotid arteries from severe
+carotid artery stenosis patients that did not consume pomegranate juice increased significantly by
+9% during one-year period from 1.52 to 1.65.
+In contrast, mean IMT in the patients that consumed the pomegranate juice for up to a year was
+reduced after 3, 6, 9, and 12 months by 13, 22, 26, and 35%, respectively, in comparison to baseline
+values." In a randomized, controlled trial, the primary endpoint, the primary statistical analysis
+should be the primary endpoint at the end of the trial in the treatment group versus the placebo
+group.
+And so, you have to go to the paragraph to find the values for the placebo group, and you have to go
+to the graph to find the values for the treatment group.
+Why are they so adverse to putting them together?
+That's extremely weird.
+Now, one of the things that I look for in these percent change from baseline comparisons is the
+possibility that regression to the mean affected the results because regression to the mean
+basically means if you have a randomly high value, chances are it's going to be lower later.
+If you have a randomly low value, chances are it's going to be randomly higher later.
+And, this is just built from, it's almost like a law of physics, although it's a probability effect
+rather than a...
+It's not a guaranteed effect, it's a probability effect that just results from the fact that if you
+find people with a higher than normal value, everyone's value varies up and down.
+And so, chances are you caught some of those people when they were just randomly higher than their
+own mean value.
+Therefore, the overwhelming probability is those people are going to be closer to their mean value
+later.
+So, one of the things I would want to look at is, did the placebo group and the pomegranate group
+have a similar or different baseline value?
+And, the placebo group here had 1.52 millimeters for a baseline value, which is very similar to what
+they show in the graph and never state for the pomegranate group.
+Is that right?
+One...?
+Yeah, that's right.
+So, it's just over 1.5 here.
+So it, excuse me.
+It doesn't look like there's a regression of the mean effect.
+It looks like there's a real effect, but the fact that their presentation of this data is so
+terrible makes me not want to jump on the findings of this study.
+It's just a little sketchy, and it's inappropriate.
+And, I have to be caught up with wondering, why did they not want to show us the placebo group's
+data here?
+My guess is that the placebo group's data was really noisy and that the differences were not
+statistically significant at any time point and that it went up and down in a way that made it a
+messy story rather than a clean story.
+So, the fact that they were, I'm reading into it, but in my mind, the fact that they had to remove
+the placebo group to show a clean story that had a graph that they liked means that this graph is
+misleadingly clean.
+So, overall, my opinion is, basically, go back to the original principle.
+All you have to do to reverse atherosclerosis is remove the causes of atherosclerosis.
+So, I don't think being caught up in narrow mechanisms of reverse cholesterol transport is the right
+way to think about it.
+And, partly, part of this is I'm biased towards root cause thinking.
+And so, I look at the process that we showed before and I say, "What's going wrong here?" The
+primary problem in atherosclerosis is not that you have a deficiency of the stability of the export
+protein in the macrophages.
+The problem is that you have too much oxidation of lipids.
+And, part of that is poor clearance of the LDL particles due to low thyroid signaling, due to
+genetics, due to whatever can slow the turnover of the LDL particles, anything that can contribute
+to a low metabolic rate.
+And, you have a deficiency of the protective factors, and you have a deficiency of things that help
+regulate inflammation and things that control oxidative stress.
+And, you have a deficiency of collagen synthesis being able to, in the advanced stage, you have a
+deficiency of collagen synthesis being able to keep up with the inflammatory degradation of the
+collagen.
+So, I prefer to think, I prefer to focus on those.
+And, if I'm trying to say, "Where do these plant compounds fit into that," then I think there are
+many thousands of such phytochemicals in plants that have a wide variety of independent effects that
+are very hard to tease apart.
+But, they also have some effects in common, which is that they tend to be, generally, stimulatory
+towards antioxidant and xenobiotic defense because they are xenobiotics, our bodies treat them as
+such, and our bodies respond to them.
+In the same way that we respond to increased fitness from exercise, we respond to the wide variety
+of these plant compounds with improved fitness of antioxidant and xenobiotic defense.
+And, that will help play a role in protecting against the oxidative environment and the antioxidant
+depletion in the LDL particles that contribute to that process.
+Now, would I advocate specifically carrots and specifically pomegranates?
+No.
+Do I think pomegranates can be a great plant food?
+Sure.
+I've eaten pomegranates.
+I think they taste good.
+I think they're nutritious.
+I think their antioxidants are great, but my position on this remains what it is.
+Same way that we covered a couple months ago when I believe you asked a similar question.
+And that's, if you eat a plant-inclusive diet designed to get your vitamins and minerals at their
+targets that includes a wide variety of fruits, vegetables, herbs, and spices, then I think you have
+your bases covered with this.
+And, if pomegranate fits into that, great.
+Or, if you just like pomegranate, great.
+But, I don't see any point whatsoever in using low quality studies of people's pet phytochemical to
+list out specific targets for carrots, parsley, coriander, or pomegranate.
+So, that's how I see that.
+Thank you, John, for your question.
+Hope that helped.

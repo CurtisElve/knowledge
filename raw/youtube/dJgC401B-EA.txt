@@ -1,0 +1,47 @@
+here might be some negative feedback for more incoming..." No, Tracey, I see what you're saying, but
+I don't think that's the case.
+So as Pippa had brought up originally, the issue is that so generally, if there's a buildup in
+citric acid cycle metabolites because you have a lot of carbs in the fed state, what that is doing
+is increasing cytosolic citrate and also increasing mitochondrial citrate.
+Actually forget the cytosolic citric.
+The mitochondrial citrate is going to be one of the factors along with insulin that's going to shut
+down the carnitine palmitoyltransferase (CPT) shuttle, which is the entry way for long chain fatty
+acids and mitochondrion.
+One of the reasons that MCT oil is ketogenic in the presence of carbs and insulin is because the
+MCTs get into the mitochondrion without the need for the carnitine shuttle.
+So the buildup of citric acid metabolites due to carbs, yes, will shut down the input of long-chain
+fatty acids in the mitochondrion, but not the input of short- and medium-chain fatty acids.
+And Pippa's saying "Yes, but won't it supply the oxaloacetate to allow the acetyl-CoA generated in
+beta-oxidation from those MCTs to enter the citric acid cycle?" And yes, in principle oxaloacetate
+does that, but I believe the answer is just, you can't make enough oxaloacetate under those
+conditions fast enough, maybe partly due to limiting capacity of oxaloacetate and in general,
+oxaloacetate production from pyruvate in general, and probably also due to the influence of insulin
+shoving pyruvate towards being oxidized into acetyl-CoA.
+Probably from both of those things, you can't make enough oxaloacetate fast enough to deal with that
+acetyl-CoA load.
+And remember it's not like there should be a situation other than this, where you would expect to
+need to make that much oxaloacetate because generally when you don't have the carbs, you're not
+trying to make oxaloacetate.
+You're sending oxaloacetate to gluconeogenesis, and you're sending acetyl-CoA to ketogenesis.
+Generally operating in one of those two states.
+Either you have enough carbs and you replete the oxaloacetate, but your main thing you're doing with
+carbs is burning them for energy, or you don't have enough carbs, and you're not even trying to
+replete oxaloacetate, you're using it to make gluconeogenesis.
+There really isn't a situation physiologically where you would want to take a carb load and mostly
+make oxaloacetate from it.
+And I guess that the exception is when you're dealing with medium-chain triglycerides, but obviously
+we haven't evolved a need to specifically deal with that one exceptional situation where you have an
+influx of medium-chain triglycerides with carbs.
+Pacific Island diets have that and they have high-starch, high-coconut diet, but apparently the
+Pacific Island diet doesn't cause a big enough problem to cause human mitochondria to evolve the
+ability to suppress ketogenesis in response to eating starch with coconut.
+And so if eating starch with coconut just isn't that harmful then there's no pressure to evolve an
+exception to the rule of biochemistry that generally when you have a lot of carbs, you want to burn
+them for energy and when you don't have a lot of carbs, you're using oxaloacetate up to make
+glucose.
+And there's never a situation where you have a lot of carbs and you're trying to mostly make
+oxaloacetate with them.
+So I hope that...
+I think that answers it.
+Actually, I'm very sure that answers the question, but hopefully it was clear enough.
+I know that was very complicated.

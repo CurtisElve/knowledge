@@ -1,0 +1,320 @@
+The first runner-up is from Dora C..
+She says, "Can you clarify what the real issue with seed oils is?
+Is it the way they're processed oxidation linoleic content or something else?
+I get confused with all the online noise about this issue." All right.
+I think the appropriate place to go to learn about this topic is to the courses on the Masterpass,
+and we're going to go down to the antioxidant system, and I think the two relevant courses that are
+most valuable to look at are lesson two, Pathological Roles of Oxidants and lesson four, Vitamin E.
+So if you go to Pathological Roles of Oxidants, we're going to skip over oxidative stress, and we're
+going to look at oxidative damage.
+Oxidative damage to lipids is the real problem with seed oils.
+This is irreversible modification of macromolecules, such as lipid, protein, or DNA.
+Oxidation of lipids is a subset of oxidative damage, and oxidative damage to lipids is often what
+comes first to drive oxidative damage of these other things.
+So for example, in a lipoprotein, it's the polyunsaturated fatty acids in the membrane of the
+lipoprotein, such as LDL that oxidize before the protein in the lipoprotein Apo B oxidizes, and
+that's a contributor to atherosclerosis, and the oxidation of the lipids is more sensitive than the
+oxidation of the protein, but it also drives the oxidation of the protein, and in a cell, if you
+have cell membrane lipids that oxidize, they fragment into highly soluble and highly reactive
+products, such as malondialdehyde or 4-hydroxy-nonenal that can then slide into the nucleus and
+conduct oxidative damage to the DNA.
+So we're going to focus on oxidative damage to lipids, but we're going to realize that the things
+we're talking about here can cause oxidative damage to other macromolecules such as proteins and
+DNA.
+If you look at a saturated fatty acid in the upper left versus a monounsaturated fatty acid in the
+upper right versus a polyunsaturated fatty acid in the lower left, and the example is linoleic acid,
+which was mentioned in the question, the difference is the number of unsaturated bonds, and so what
+we mean by saturated is all carbon atoms, regardless of whether they're in a fatty acid or any other
+molecule, have four binding sites.
+In a saturated fatty acid, they are all bound to other carbon atoms, and any excess binding sites
+are bound to hydrogen atoms, and so if you have a carbon on the end, it can be bound to three
+hydrogen atoms and use its one remaining binding site for the carbon next to it, but any of these
+carbons in the middle are bound to two carbons on either side.
+That's two binding sites, that leaves two more binding sites to bind to hydrogen.
+This carbon on the end is what makes this a fatty acid.
+This is the carboxylic acid part, and this carbon is actually bound to one carbon, and then it's
+double-bonded to one oxygen and it's single-bonded to another oxygen, and that also is four binding
+sites.
+So again, this is a general feature of chemistry.
+It's not specific to organic chemistry, and it's not specific to biochemistry.
+All carbon atoms in the universe have four binding sites that must be occupied.
+Okay.
+Now, in a monounsaturated fatty acid, you have two carbon atoms that are not saturated with
+hydrogen, and because two are missing, you have a double-bond between these two carbon atoms that is
+replacing the hydrogen atoms, right?
+So this carbon, instead of bonding to hydrogen, is binding a second time to this carbon.
+This carbon, instead of binding to its missing hydrogen is double bonding to this carbon.
+That double-bond satisfies the fourth binding sites of both of these two carbons.
+Now, because this double-bond, because of the distribution of mass and charge around it, the double-
+bond introduces a kink into the molecule.
+This is why polyunsaturated fats do not stack together as well as saturated fats, and that's why
+they tend to be liquid at room temperature instead of solid, although if you put olive oil in the
+refrigerator and you put corn oil, which is a seed oil, which is high in polyunsaturated fatty acids
+in the refrigerator, you'll find that the corn oil does not solidify, but the olive oil does, and
+that's because polyunsaturated fatty acids have more than one double-bond, which introduces more
+than one kink, which introduces an even more complicated structure that packs together even less
+well than the monounsaturated fatty acids, so they're even more liquid, even as you drop the
+temperature down.
+The problem with polyunsaturated fatty acids is that the carbon between two double-bonds, or rather
+the ...
+Chris Masterjohn: Two double bonds or rather the...
+Yep.
+So, the carbon between...
+Oh, right.
+This carbon right here, sorry.
+So, you take one double bond, that's right here.
+You take the second double bond, that's right here.
+It's the carbon that is between those two double bonds that is destabilized and will easily
+peroxidize, which means that it gets oxidized, oxygen in the air then binds to it, turns it into a
+lipid peroxide.
+And that can either induce a chain reaction where it now becomes an oxidant that oxidizes the
+polyunsaturated fatty acids that are next to it, or it can fragment into something like
+malondialdehyde and 4-hydroxynonenal that can leave a cell membrane and rummage through the rest of
+the cell and cause damage.
+You go on a rampage and cause damage.
+In a little more detail, we have simplified this molecule to show two double-bonded carbons by the
+double lines.
+By inference, every point between a line is a carbon in this simplified model.
+And what we're showing is that this carbon up here between these two double-bonded carbons is the
+one vulnerable to oxidation and an oxidant can oxidize it and steal this hydrogen away, steal the
+electron there.
+Now, you have an unpaired electron in that carbon that's looking for something to bind to.
+Oxygen comes in and binds to it, but that makes a lipid peroxyl radical that can stabilize by doing
+this to another nearby fatty acid and take its hydrogen and turn into a lipid peroxide, or it can
+destabilize from there and turn into something like malondialdehyde, which I would liken this to
+breaking a bottle of glass.
+You had something that was delicate and fragile but useful.
+You broke it into shards, and now instead of being something that's useful, it's now something
+that's harmful.
+And this is like a shard of glass that can spread all over the place and damage whatever it comes
+into contact with, such as your foot if you're walking around the house.
+Now, the role of vitamin E comes in to break what's known as the lipid peroxidation chain reaction.
+So, if you have a bunch of polyunsaturated fatty acids or PUFAs in the cell membrane, you have an
+oxidant that can oxidize it, that is called initiation.
+So, let's say you had a hydroxyl radical, it would take this hydrogen and become water with it, but
+now you've oxidized this and you've made this a lipid radical.
+That lipid radical will now look for something else to oxidize.
+And the most likely thing it'll oxidize is a nearby PUFA in the membrane, another one, that restarts
+this process.
+It takes the hydrogen and the associated electron away.
+Rather than becoming water, it becomes a lipid peroxide, but it's generated a new lipid peroxyl
+radical, which...
+excuse me, a new lipid radical, which then interacts with oxygen to become a lipid peroxyl radical,
+oxidizes the new PUFA, generates one more lipid peroxide itself, but the new PUFA it oxides becomes
+a lipid radical.
+And this just operates in an endless circle until all the PUFAs in the membrane are destroyed.
+And so, that's why you have something like in glucose-6-phosphate dehydrogenase deficiency, where
+you have a defect in the recycling of glutathione secondary to a defect in the pentose phosphate
+pathway to generate NADPH, which is a derivative of the vitamin B3 or niacin, which recycles
+glutathione using a riboflavin-dependent enzyme glutathione reductase.
+If you compromise that process, you compromise the recycling of vitamin E through vitamin C through
+glutathione.
+And what happens is hemolytic anemia, because if you peroxidize all the cell membranes in a lipid
+peroxidation chain reaction in the cell membrane, the membrane will fall apart.
+It's dead.
+It just falls apart, and that can happen anywhere.
+But in a red blood cell, that means the cell membrane falls apart, the contents spill out, that
+gives you...
+And now, you've destroyed your red blood cells, so you have anemia, because anemia doesn't mean iron
+deficiency.
+It means, A, absence of eme, blood, ia, condition of an absence of blood, right?
+And so, hemolytic anemia is a subvariant of anemia that has nothing to do with iron deficiency and
+has to do with peroxidation of the cell membrane.
+Now, vitamin E is known as a chain-breaking antioxidant.
+Contrary to the assertions of Fleetwood Mac, you can break the chain reaction with vitamin E.
+However, vitamin E does not break the initiation part.
+It breaks the propagation step.
+And the reason is that vitamin E is 1000 times more reactive towards lipid peroxyl radicals than
+other PUFAs are.
+And so, if you have enough vitamin E in the cell membrane, you will break the chain, and you'll stop
+the propagation step.
+But you can't do anything to stop the initiation reaction because vitamin E is situated in the
+membrane.
+Both its position in the membrane and its reactivity prevent it from stopping a water-soluble
+oxidant from reaching the edge of the membrane and oxidizing a new PUFA.
+It is only is good at stopping lipid peroxyl radicals from oxidizing other PUFAs in the cell
+membrane.
+So, what that means is that your production of oxidants, your water-soluble antioxidant protection
+and having the right amount of PUFA in the cell membrane cannot be replaced by having vitamin E.
+And what that means is that you do need more vitamin E when you have more PUFA, but vitamin E can
+never, ever, ever, ever, ever, ever, ever protect you against consuming too much PUFA.
+And so, you want the right amount of PUFA, but you don't want any more than that in your cell
+membranes because if it is increasing in the cell membrane in response to diet beyond its utility,
+all it's doing is providing an oxidative liability.
+Now, PUFAs don't cause oxidative stress, they are vulnerable to oxidative stress.
+And one of the problems in looking at the research is that you could do a short-term study that
+shows benefits of PUFA and no harms by providing the PUFAs in a context that does not have any
+serious oxidative stress.
+The problem is, that as you age, you develop more and more oxidative stress and have more and more
+demands on your antioxidant protection.
+And circumstantially, you will come into conditions of elevated oxidative stress.
+Some of those might be semi-permanent.
+For example, you became mercury toxic.
+Others may be very transient, for example, you got sick, but you will come into contact with
+oxidative stress as a guarantee over the course of your life.
+And so, it does not make sense to excessively build up oxidative liabilities in your body just
+because someone did a two -week study showing that you can reduce liver fat by eating sunflower oil.
+All right?
+So that's the context.
+And that context is very important for understanding the limitations of the studies, which is part
+of why there's so much controversy on it because there is a lot of conflicting evidence about the
+clinical impact of eating vegetable oils.
+And I've analyzed them elsewhere.
+I'll link in the description.
+I'm not going to redo my analysis of that issue here, but I am going to say that you cannot properly
+understand the research if you don't understand the fact that having an oxidative liability is
+different from having an acute cause of oxidative stress.
+PUFAs are an oxidative liability.
+They are not the acute cause of oxidative stress.
+And if you want to know what happens when you have conditional liabilities in excess on your balance
+sheet, look at all the bank failures that have taken place this year.
+Why did they happen?
+Well, because someone did a study of stress testing banks years ago, that showed that you can raise
+interest rates from this to this and that's not going to cause banks to fail.
+And so, some banks said, "Well, we can just be concerned about our short-term profit because these
+don't cause us harm to buy all these interest rate risk assets because it doesn't cause harm until
+it does." But then, when this particular stress is placed on the system, the bank implodes, right?
+So, this is not different from that.
+You have to consider that PUFAs from seed oils are an oxidative liability under conditions of
+oxidative stress.
+They may not cause you harm right now, but you can spend years increasing the saturation of your
+tissues with PUFAs by eating a high-PUFA diet.
+And the chickens may come home to roost at the end of the day, but the difference with the bank
+analogy is that we very much know the exact types of stress that make PUFAs an oxidative liability.
+And we know that they will happen, right?
+Getting sick, getting nutrient deficiencies, getting heavy metal toxicity and the cumulative stress
+of aging, so your oxidative stress will increase in the future.
+I'm not saying that you can't decrease it now by eating better, by living better, et cetera, it's
+just as a function of age, you will eventually accumulate enough stress in your system that your
+level of oxidative stress increases.
+And at some point, you go beyond the threshold where the accumulation of PUFAs as a liability
+manifests.
+Now, that was all from lesson two.
+Lesson four is the other relevant lesson.
+And what I would add here...
+Oh, this is a useful point.
+The way that vitamin E prevents a lipid peroxidation chain reaction is to turn an oxidized PUFA into
+a lipid peroxide.
+So, vitamin E creates one lipid peroxide to avoid the lipid peroxidation chain reaction from causing
+many lipid peroxides.
+This just goes back to the point that you cannot fully protect against excess PUFA with vitamin E
+because vitamin E, in a best-case scenario, makes each one oxidant generate one lipid peroxide
+instead of many, which means that if you have more oxidants or you have more PUFAs, you get more
+lipid peroxides, and vitamin E makes that happen in order to avert a worse scenario of many lipid
+peroxides in a chain reaction.
+So, get it out of your head that vitamin E protects you from PUFA.
+Vitamin E protects you from the worst-case scenario of PUFA.
+Now interestingly, in the DRI for vitamin E, the dietary reference intakes, they said the following:
+"Vitamin E requirements have been reported to increase when intakes of polyunsaturated fatty acids
+are increased.
+Based on these data, it was suggested that a ratio of at least 0.4 milligrams of alpha-tocopherol
+per gram of PUFA should be consumed.
+However, the method of determining the vitamin E requirement generated by PUFA intake is not
+universally accepted because the amount of vitamin E required to stabilize PUFAs and tissues is
+influenced to a greater extent by their degree of unsaturation than by their mass." What that means
+is that highly unsaturated fatty acids that are, for example, arachidonic acid, DHA and EPA, are
+more vulnerable to oxidation than the ALA in flax oil or the linoleic acid in corn oil.
+All that means is that the degree to which you need vitamin E to stabilize PUFA is greater than what
+those studies suggested because those studies were based on alpha-tocopherol to protect you against
+linoleic acid, right?
+So, this does not mitigate the point.
+It exacerbates the point.
+And notice they say it's not universally agreed on.
+Not the principle.
+They don't say the principle is not universally agreed on.
+They say that the method of determining the amount of vitamin E you need per gram of PUFA is not
+universally accepted.
+I mean, nothing's universally accepted in science.
+That's not very interesting.
+But notice that what they're saying is not universally accepted.
+It's not the principle that you need more vitamin E when you get more PUFA.
+It is the method of determining the amount you need.
+"Moreover, PUFAs are not deposited in the tissues in the same proportions that they occur in the
+diet." So you would have to have some adjustment factor for...
+It's not really per dietary amount, it's per amount in your tissues.
+But that point actually is not that powerful.
+It's actually a weak point because the turnover of PUFA is a lot higher than the turnover...
+excuse me, turnover of vitamin E is a lot higher than the turnover of PUFA.
+Actually, it's not even the amount deposited in the tissues that you want to know.
+It's really the turnover rate of the vitamin E because of the tissue saturation that was induced by
+the diet.
+Really, what you want is dietary studies that are long-term and really the long-term stuff is
+largely...
+In terms of lifelong, you're only going to find that in animals and the only long-term dietary study
+in humans is really limited to the LA Veterans Administration Hospital study.
+They go on to say finally, "Dietary PUFAs are modified by elongation and desaturation and are
+catabolized to various degrees depending on energy status." And then, the final point is,
+"Although," and I'm quoting, "Although it is clear that the relationship between dietary PUFA and
+vitamin E needs is not simple, high-PUFA intakes should certainly be accompanied by increased
+vitamin E intakes." Now, the end result of this was they didn't factor this into the DRI at all
+because they couldn't agree on the quantitative determination of the requirement per gram of PUFA,
+right?
+So, if you don't read the DRI report, what you don't find is that "certainly." How often do you see
+scientists say this?
+Totally unhedged.
+"Certainly," you have more PUFA, you need more vitamin E.
+This manifests nowhere in the numbers and tables that are used to calculate the Daily Values that
+the Registered Dietitians are using to look at people's intake.
+It factors nowhere.
+You have to read the report to see this, okay?
+Now, when you look at different oils, what you find is that seed oils such as corn oil are not
+terrible as a source of vitamin E even normalized to milligrams, vitamin E per gram PUFA, right?
+Corn oil still outshines regular commercial butter as a source of vitamin E.
+Red palm oil, where you really see this shine is that wheat germ oil looks really good when you
+don't take into account its PUFA on the left.
+But when you do, all of a sudden it's massively outshined by red palm oil, and it doesn't even look
+that much better than the other fats.
+Olive oil looks way behind wheat germ oil when you don't adjust for PUFA, but actually olive oil
+looks fairly competitive with wheat germ oil, and it's even better than corn oil when you do take
+into account per gram PUFA.
+The DRI tables don't point you in the direction of the graph on the right.
+But when you read the DRI report, it says certainly you want to look at the graph on the right
+instead of the graph on the left.
+And so, the principle is true that something with more vitamin E per gram PUFA is what you want.
+That makes palm oil look excellent, and it really diminishes the importance of wheat germ oil, but
+it still doesn't make corn oil look that bad.
+One of the points I make in this lesson is that plants need vitamin E to protect them against
+photosynthesis.
+And as a result, green leaves are extremely high in their vitamin E-to-PUFA ratio.
+And as a result, animals that eat green leaves have much better vitamin E-to-PUFA ratios than
+animals that eat corn or other grains.
+And if you look at grass-fed beef, it's generally 1.3- to 5.4-fold higher in vitamin E than grain-
+fed beef.
+And if you put grass-fed butter in here, it's slightly better than olive oil, and it is not a lot
+better, but it is better than corn oil.
+So, the reason that corn oil looks better than average butter is because it's average butter, if you
+have completely hay-fed butter, it's really pathetic.
+So, butter is very dependent on what the animal is eating.
+And when the animal is eating grass, this looks better than corn oil.
+But what you have to go back to is the point that I made at the beginning, which is that vitamin E
+cannot protect you against all the harms of PUFA.
+And so, because of that, that's why you don't want to eat corn oil.
+Now, there are secondary points such as, seed oils have to be extracted using chemical solvents, and
+there's always traces of chemical solvents such as hexane left in the food, and these are toxic.
+The toxicity is obviously low enough that no one is getting acute solvent toxicity from eating
+vegetable oil, but you could say, "Well, it's an added source of oxidative stress." In the grand
+scheme of things, how much does it play a role in the totality of oxidative stress?
+I don't know.
+There's not a good clinical demonstration of the harms of residual solvents in these oils, but why
+would you want to eat residual solvents in your oils, right?
+And I think the real big issue is that the stress that causes the PUFAs to eventually manifest as
+oxidative liabilities is going to be partly made worse over time by the accumulation of chemical
+solvents.
+It's just that the real problem is the oxidative liability.
+Oxidative stress increases with aging.
+You know you will age, right?
+Pretend that you could go back in a time machine, and you were reading all the news about the bank
+failures that happened recently, and you can go back and you're consulted on "with interest rates of
+this and knowing what will happen in the future like, should the balance sheet of this bank be the
+70% interest rate risk assets?" What are you going to do?
+You're going to say, "Oh no, I know the future, so I'm not going to load up on things that are not
+going to harm me now, but are probably going to harm me later." I think you should take this very
+similar with the exception that we really know how human physiology works, whereas these other
+things are economics, which is a less hard science than nutrition, believe it or not, and certainly
+than biology.
+Maybe a physicist is going to slam their head at me calling biology a hard science, but it's a hard
+enough science that we know some basic principles will be true about the course of physiological
+events as we age, and we know that PUFAs are an oxidative liability.
+I mean, that's the central reason why you want to moderate them by not consuming a lot of seed oils.
+So, that is my answer.
+Thank you very much, Dora, for that question.

@@ -1,0 +1,250 @@
+If your hair's thinning, most people are going to tell you it's stress, it's age, it's genetics, and
+you got to deal with it.
+But the actual mechanism behind thinning hair operates on a specific enzyme, but more importantly, a
+specific receptor.
+There's actually a compound that's found in relatively common foods that works on both at the same
+time, which is key.
+It has to work on both at the same time.
+Then on the graying side, for decades, reversing gray hair was considered legitimately impossible.
+Like, it's just part for the course.
+It turns out it's definitely not.
+There was a 2021 study that found that gray hairs actually regained pigment mid hair shaft after the
+graying had already started.
+So between thinning and graying, like we can tackle these things, okay?
+Neither thinning nor graying requires medication to move the needle.
+I mean, there's definitely places where that applies.
+But here's what actually works.
+And I'm going to give you honest caveats in all of it because nothing's a miracle.
+Okay, we're going to cover two very separate problems.
+First, on the thinning side, we're going to talk about DHT signaling a little bit.
+Okay, dehydrotestosterone.
+And we're going to talk about like why the same mechanism that we can tackle through food is not the
+same as what you would get with something like finasteride, which is what people use to kind of stop
+that from happening because DHT can trigger balding, right?
+We're going to talk about the clinical data as well.
+And then secondly, we're going to talk about the graying side, like the oxidative stress piece, the
+stem cell exhaustion, and also some genuinely interesting data on reversibility.
+And then I'm going to give you a practical protocol that covers both.
+So let's go ahead and dive into this.
+Now, an interesting biohacking way that actually can impact hair loss and legitimately has evidence
+behind it is using some red light therapy on your head.
+I know it sounds really weird.
+So, before I get into the food, before I get into that stuff, I put a link down below.
+You can do your own research.
+It's a company called Boncharge.
+The red light therapy stuff.
+If you're still thinking it's woo woo, you're living in 2015.
+Cuz the research is very robust.
+Okay?
+The hair requires energy.
+And when that system is working again because of red light, because it's helping that cytochrome C
+oxidase in that complex 4 of the mitochondria, it can have a significant improvement.
+So I put a link down below.
+They have a variety of different red light devices.
+There's panels.
+You can use their red light therapy mat, which is like a sleeping bag you climb in.
+They have an actual hat you can use for legitimately this.
+Anyhow, I put a link down below.
+You can use that code that gets you 15% off when you use that link.
+It's in the top line of the description.
+Trust me, at least do research on it because this isn't weird fly by night stuff.
+This is very real and a lot of labs and clinics use this now.
+So that link down below for that special discount.
+I want to start with the hair loss piece and then we'll move into the grang piece.
+Male pattern hair loss is primarily driven by what's called DHT.
+Okay, so this is a testosterone issue generally, okay?
+Because you're converting testosterone from this enzyme that's called five alpha reductase.
+What happens is DHT is converted from testosterone and then it binds to an androgen receptor on the
+hair follicle.
+Okay, this triggers this miniaturization over successive growth cycles until the follicle stops
+producing visible hair.
+So basically the follicle gets smaller and smaller and smaller until it stops producing.
+Plain and simple, the thinning hair.
+So for context, finasteride suppresses circulating DHT by about 60 to 65%.
+That's roughly the threshold where like follicle preservation kind of begins and you don't thin
+anymore.
+But there are natural five alpha reductase inhibitors, okay?
+including literally the delta 7 steriles that are in pumpkin seeds, specifically in pumpkin seeds.
+Okay?
+And these are moderately active when we look at the research.
+Now, this is early stuff, but we have to be cutting edge.
+There's not any real invivo data measuring actual serum DHT from pumpkin seed oil specifically in
+humans, but we've seen some pretty good research early on, and I think it's coming.
+Now, broadly, we have these natural thigh alpha reductase inhibitors.
+They really do seem to suppress total DHT by around 40%.
+Okay, so that's still a good significant reduction, but it does seem to be slightly below that
+clinical threshold.
+But 40%, I mean that's significant.
+What if you were flirting on the edge?
+Like if you're dealing with thinning hair, not full-on balding, this could be that's a 40%
+improvement essentially.
+So if five alpha reduction inhibition is the only lens that you look at, pumpkin seeds would be sort
+of sub therapeutic, but would still be effective.
+Okay?
+I mean, you're not going to find any foods that have those like steriles like pumpkin seeds.
+So it's a very specific food.
+So, it's something that works.
+And I've done other videos on pumpkin seeds because of the zinc and stuff.
+They're interesting male food.
+But there is a second mechanism, too.
+Okay.
+Because there was a 2018 study in pharmarmacology and pharmacy.
+This looked at very isolated delta 7 steriles, also pumpkin seed oil, and a pumpkin seed extract.
+Okay.
+And they tested it against competitive binding at the androgen receptor.
+And all three of them competed with DHT for receptor binding in a dose dependent way with the
+isolated steriles being the most potent.
+So basically they took these compounds from pumpkin seeds and they looked to see if they will bind
+to the DHT receptor and they competed with DHT and they actually bound to that receptor.
+So what that means that the steriles aren't just slowing DHT production, they're actually occupying
+the receptor site that DHT would normally bind to.
+So you're reducing DHT's signaling capacity at the hair level regardless of how much DHT is actually
+circulating.
+Now where does that DHT go otherwise?
+We don't necessarily know but that's a fundamentally different mechanism from finasteride.
+Okay?
+It doesn't require that 60% DHT suppression to have an effect.
+So that 40% suppression you get from pumpkin seeds is flipping great considering it also blocks the
+receptor.
+Now on the clinical side, there was a randomized placeboc control trial in evidence-based
+complimentary and alternate medicine.
+Took like 76 grown adult men with mild to moderate androgenetic alopecia.
+So they were like losing their hair.
+Put them on 400 milligrams per day of pumpkin seed oil for 24 weeks.
+Okay, so that's like, you know, almost 6 months.
+Their mean hair count increased by 40% compared to 10% in placebo.
+There is a very important caveat here.
+The capsule they used also had other compounds that were proprietary.
+No pharmaceutical intervention, but they didn't tell us what was in it alongside the pumpkin seed
+oil.
+Although the pumpkin seed oil was the predominant thing.
+So, it wasn't a clean single ingredient test, but it does tell us that outside of pharmaceutical
+intervention, there is a way.
+There is a way and pumpkin seed oil is at the root of it.
+The honest framing about this is that this is a food level intervention.
+Okay?
+I mean, we have to be very honest when we look at this stuff because we don't want to make insane
+claims, but the honest framing is that this is a very promising food level intervention because it's
+operating through receptor competition.
+It comes with no documented side effects and the clinical signal is very positive.
+So, it's only upside.
+Now, it's not pharmaceutical grade DHT suppression, but if you're wanting to go the natural route
+and not like loading up on finasteride, this is one of the stronger options available being very
+real.
+But I want to shift over to graying because most people are dealing with both or you know they're
+concerned at least with graying.
+Hair loss is a DHT and androgen receptor issue whereas hair graying is an oxidative stress and a
+stem cell story.
+So hair pigment depends on melanocytes these cells that produce melanin and they deposit it into the
+growing hair shaft.
+So what happens is these melanocytes are replenishing like each hair cycle by melanocy stem cells.
+Okay, they sit in the follicical bulge.
+It's a stem cell thing and as long as that reservoir stays intact, you get pigmented hair.
+But when those stem cells are damaged or depleted or forced to differentiate too early, the follicle
+starts to produce gray or white hair which happens as we get older.
+There was a study in international journal of tririccology that found that gray follicles show
+elevated hydrogen peroxide and reactive oxygen species.
+So basically they have less antioxidants and more oxidative stress.
+Basically it's killing off the tyrosnise which is the pigment making enzyme.
+And if we look at applied sciences, there was a study on these stem cell behaviors under stress.
+And it found that oxidative stress and inflammatory stress caused these stem cells in the follicle
+to differentiate prematurely or actually even leave their niche altogether.
+They left the hair follicle and it disrupted the future hair cycles.
+So it made it so they just turned gray.
+So it's like they're like, "Peace out.
+I'm done." So underneath all of that is the mitochondria.
+So we have testosterone and we have mitochondria between thinning and graying.
+These are two separate things, but they're so important because testosterone functions better if the
+mitochondria is working.
+There was a study in cell regeneration showed that mitochondrial dysfunction.
+Okay, specifically in this case, the deletion of a particular enzyme, it led to more reactive oxygen
+species production in the actual follicle tissue and also suppressed the stem cells.
+So basically mitochondrial dysfunction from like poor metabolic health leads to oxidative stress
+leakage which damages the melanocytes which means more grain plain and simple.
+Now the thing is is people always say that that's not reversible like you cannot do anything about
+it because once the stress is done the follicles damaged period the stem cells are out of whack.
+But there was a study about 5 years ago in EIE and analyzed hundreds of individual hairs and
+actually digitally mapped pigment density across their length and it compared those timelines with
+self-reported stress history.
+They found that some gray hairs actually regained their pigment midshaft and repigmentation occurred
+after graying had already started.
+So those reversals aligned with periods of reduced psychological stress.
+So balding is seems to be less about the stress.
+Graying seems to be more about the stress.
+Acute stress periods corresponded with rapid graying segments.
+The great news though, this suggests the pigmentation machinery isn't dead when the gray hairs
+appear.
+It can switch off under stress and back on under recovery.
+That's why I actually mentioned red light.
+Whether you, you know, use the product I recommended or not, that's totally up to you.
+Point is that that's helping the mitochondria, which is reducing the stress at the hair follicle
+level.
+There was a clinical study in applied sciences.
+It tested in this case it was a proprietary polyphenol blend.
+It was on cultured cells on hair follicles that were under a lot of stress.
+They after 4 months there was a statistically significant reduction in the proportion of gray hairs
+and the number of gray hairs per square centimeter.
+So the first pieces of clinical data actually pointing to reversibility.
+So to recap all of this hair loss that's a DHT signaling problem, right?
+So pumpkin seeds, pumpkin oil, okay, this works through the receptor competition and could be
+extremely powerful.
+Okay, very real world clinical data behind it.
+Hair graying is an oxidative stress thing.
+So you want to focus on reducing that oxidative stress.
+So yes, psychological stress, but also metabolic health.
+Okay, reducing the refined carbohydrates, reducing the sugars.
+Who would have thought that that actually affects gray hair?
+Maybe this is the motivation you need to cut out the sugar, to cut out the refined carbs because
+this is when you're metabolically dysfunctional, causing significantly more oxidative stress.
+Methylene blue could actually be potentially good because it's actually reducing the amount of
+oxidative stress because you need a little help getting the actual electron through the chain on the
+mitochondria because when an electron goes through the mitochondria goes through these different
+complexes if your mitochondria is busted these electrons bounce out and when those electrons bounce
+out they are reacting with things and causing oxidative stress.
+Methylene blue carries that electron and makes it go through there faster.
+So even if it's just temporary to kind of help you get through a hump it could work but there's a
+little protocol, right?
+So for the thinning side, if you're going the natural route, like pumpkin seed oil is probably the
+most aligned.
+So using straight oil, but eating pumpkin seeds actually gives you the zinc, too.
+So there's a benefit there.
+The hair count trial used 400 milligs per day, and you have to give it about 3 to 4 months to
+actually start really working.
+Now, a daily handful of pumpkin seeds still has those delta 7 steriles, but it's a lower
+concentration per gram.
+So you might need more like 100 g of good pumpkin seeds, okay?
+But you're getting zinc and getting a good benefit there.
+Now, on the gray side, it's more about oxidative stress.
+So, nutrient-dense diet, all the usual stuff.
+Vitamin C is actually really good.
+Okay.
+Vitamin E, selenium, zinc, magnesium, which you also get from the pumpkin seed.
+Okay.
+An acetylcysteine very very good here.
+Okay.
+It's a precursor to glutathione.
+So, it can help actually help with the oxidative stress that is directly linked with the follicle
+and with those stem cells.
+Another thing that's quite interesting is NMN here, nicotanide monucleotide.
+Okay, this directly can impact here.
+So, you've seen my videos on NMN prioritizing sleep of course.
+So using things like glycine to help with sleep, cutting the carbs out like 3 hours before bed,
+managing stress, breath work, all these things.
+Mamleian response, one of my favorite things to do before bed, splash cold water on the face.
+It sounds like it would wake you up.
+It actually does the opposite.
+It triggers this mamalian response that actually helps you better, helps you off, helps you uh it
+triggers this mamleon response that actually calms you down.
+Now again, on the supplement side like NMN, CoQ10, we've seen pilot trials seeing that this could be
+very effective.
+So you could also add CoQ10 in.
+Now, I know these aren't pharmaceutical interventions, so you know, the expectations should be
+scaled, but this is very preventative, and if you did it early on, you might never have to go there.
+Finasteride has nasty side effects, right?
+I mean, these are evidence-based things that we're talking about, so they work well.
+There's mechanisms that medication doesn't even target.
+If you want to go deeper on the graying side specifically, I did do a full video breakdown on the
+mechanisms and very specific research on graying specifically, doesn't even talk about thinning.
+So, it's more about like just the graying side.
+So, I'll link to that video right here.
+That is a great one to watch next.
