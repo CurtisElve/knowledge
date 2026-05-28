@@ -1,0 +1,57 @@
+# --- Python venv (this repo uses an in-folder venv: Lib/, Scripts/) ---
+.venv/
+venv/
+env/
+ENV/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+pip-selfcheck.json
+
+# --- Config / secrets ---
+.env
+.env.*
+!.env.example
+*.env
+config.local.*
+secrets.*
+**/credentials.json
+**/*secret*
+**/*api_key*
+
+# --- Python bytecode / tooling ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# --- Generated knowledge-base artifacts (rebuild with scripts) ---
+raw/
+chunks.json
+chunks_openrouter.json
+chunks_checkpoint.json
+chunks_local/
+chunks_local_checkpoint.json
+
+# --- Model / download caches ---
+.cache/
+models/
+
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
