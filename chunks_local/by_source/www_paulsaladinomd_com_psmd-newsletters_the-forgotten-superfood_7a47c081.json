@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "01f71882-abc1-4bd6-b0fa-6d2ac3a65b31",
+    "content": "Beef liver is rich in real vitamin A (retinol), which is more absorbable by the body than plant-based sources.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8f1dc557-b73a-4e04-82dd-008c1f8651ae",
+    "content": "Beef liver contains B12 and heme iron, essential for energy, mood, and blood oxygenation.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "71ca9294-4d5b-4adc-b363-be3ec4f0969d",
+    "content": "Beef liver provides folate, crucial for fertility and methylation processes.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "53a9e21e-840b-438f-9ccc-21325d485ed9",
+    "content": "Beef liver offers zinc, copper, and selenium in precise ratios beneficial for overall health.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2cb8358f-5147-4e7d-a4a0-b297e8aeb821",
+    "content": "People experiencing fatigue, mood swings, skin issues, or hormonal imbalances may benefit from consuming beef liver regularly.",
+    "topics": [
+      "nutrition",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "62fb656f-69ab-401e-9416-10d804f65f3d",
+    "content": "Lineage meat sticks, made with 100% Australian grass-fed beef, liver, and heart, provide 64 grams of protein per pack.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  }
+]

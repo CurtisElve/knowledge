@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "id": "f45859e4-face-439c-b191-0956ee43f432",
+    "content": "Adrenal fatigue is characterized by symptoms such as general fatigue, sleep problems, lack of sex drive, and lack of motivation.",
+    "topics": [
+      "adrenal fatigue",
+      "adrenal glands",
+      "cortisol"
+    ],
+    "embed": []
+  },
+  {
+    "id": "0624d15d-3918-49e6-bcbd-b6c8b31c13ef",
+    "content": "To combat adrenal fatigue, one can consume an adrenal cocktail consisting of 4 oz of orange juice mixed with 1/4 teaspoon of cream of tartar and Himalayan pink salt.",
+    "topics": [
+      "adrenal fatigue",
+      "adrenal cocktail"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c43b7f4f-a9cd-4748-b4c8-8f5f188c423e",
+    "content": "Ashwagandha is an adaptogen that increases GABA, a neurotransmitter blocking signals between nerve cells, helping to better adapt to stress.",
+    "topics": [
+      "adrenal fatigue",
+      "ashwagandha",
+      "GABA"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c3759c41-c68d-41f1-8e6c-116e1b817922",
+    "content": "Fish oil has a direct effect on lowering the body's response to stress as it pertains to mental stressors such as work, home life.",
+    "topics": [
+      "adrenal fatigue",
+      "fish oil"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f4ea7632-e594-4f05-84b9-17fcf43b4a75",
+    "content": "To give your adrenal glands a break, lay off stimulants like coffee, tea.",
+    "topics": [
+      "adrenal fatigue",
+      "stimulants"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "137a5cea-5178-45bd-9638-1da8bb8d86c5",
+    "content": "Branch chain amino acids (BCAAs) are forms of amino acids that help with protein synthesis and are not degraded by the gut, allowing them to enter the bloodstream quickly.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5ff511f3-9d0d-41c2-93f1-36b20d8f4d22",
+    "content": "BCAAs, particularly leucine, spike insulin levels, which can cause ketosis to reverse, as ketosis requires the absence of insulin for ketone production.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "31674c02-5739-4ff8-b1c1-51bd1eea14e0",
+    "content": "A study found that injecting a person in ketosis with insulin caused their ketone bodies to disappear within 30 minutes, proving that BCAAs can disrupt ketosis.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "682fc27a-123a-4a5d-b718-cb16dade36a5",
+    "content": "In a study comparing carbohydrate and fat diets, individuals in ketosis experienced a decrease in gluconeogenic amino acid levels, indicating less muscle breakdown, and an increase in naturally occurring BCAAs in the body.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2bdf76b6-a131-4ae4-8ed7-88e636c3efc5",
+    "content": "A study showed that replacing carbohydrates with fats led to higher levels of ketone bodies and lower levels of gluconeogenic amino acids, suggesting that BCAAs are not necessary for ketosis and may even contribute to muscle loss.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2b522c90-09f2-47f9-9765-8850eeb0734b",
+    "content": "Consuming BCAAs while in ketosis can lead to muscle loss due to the spike in insulin caused by BCAAs, as ketosis requires the absence of insulin for proper ketone production and muscle preservation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  }
+]

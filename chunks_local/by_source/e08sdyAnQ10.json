@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "fafd3864-8bf0-4657-a091-5a03e30310d3",
+    "content": "Garlic is part of the alium family and contains sulfur, which helps metabolize fats and reduces homocysteine levels, thereby decreasing liver inflammation.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "liver health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "01b1fc9f-d492-403d-a7d2-7d1d5c19e34e",
+    "content": "Turmeric improves liver health by increasing the absorption of LDL cholesterol and reducing liver enzymes like alanine aminotransferase.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "liver health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b325fb68-4269-409f-935d-056a9c157a2c",
+    "content": "Beets contain pectin, which binds to and excretes toxins from the liver, and betaine, which aids in the detoxification process and glutathione production.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "liver health"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "834795a6-bda6-403e-a17f-c5b6a959d005",
+    "content": "Vegans need to consume 1 gram of protein per pound of body weight to support muscle function.",
+    "topics": [
+      "nutrition",
+      "protein"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9cf03950-887d-45ff-8333-912ea67c1529",
+    "content": "Plant proteins generally lack all 9 essential amino acids compared to animal proteins.",
+    "topics": [
+      "nutrition",
+      "protein"
+    ],
+    "embed": []
+  },
+  {
+    "id": "af1f38d5-09de-41e6-8ebe-9d35c213b914",
+    "content": "Vegans can accumulate amino acids throughout the day without combining proteins with every meal.",
+    "topics": [
+      "nutrition",
+      "protein"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2b16790a-2bd0-41bd-888e-bc39e616e4c2",
+    "content": "Vegans are deficient in Omega-3 fatty acids, leading to an excess of Omega-6 fatty acids and potential inflammation.",
+    "topics": [
+      "nutrition",
+      "omega-3"
+    ],
+    "embed": []
+  },
+  {
+    "id": "34b68feb-de50-46f2-82a4-e4ac57ff84e2",
+    "content": "Seaweed supplements containing DHA can help vegans increase their Omega-3 levels.",
+    "topics": [
+      "nutrition",
+      "omega-3"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "4856b4e3-f935-4c87-b076-749f0ca765fb",
+    "content": "Magnesium is stored in approximately 50 to 60% of the body in bones and the remaining 40 to 50% in soft tissues.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8962617f-53e0-42d0-8d63-e7c1d1e3e859",
+    "content": "Serum magnesium levels represent the magnesium concentration in the bloodstream, which may not reflect magnesium absorption into bones or soft tissues.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b4d84132-3229-4858-a110-7e8ea4399e7c",
+    "content": "An alternative test to assess magnesium status is the red blood cell (RBC) magnesium test, which measures magnesium in red blood cells, reflecting magnesium levels in bone marrow.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d037742c-b3ed-422e-9b5b-28b21f9be246",
+    "content": "Decreased RBC magnesium levels indicate potential magnesium deficiency and suggest the body is pulling magnesium from bones and soft tissues to maintain serum levels.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b3bad85d-acac-48d8-afa2-158b1c8ace57",
+    "content": "A comprehensive approach to assessing magnesium status includes both serum magnesium levels and RBC magnesium tests, along with considering clinical symptoms of magnesium deficiency.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  }
+]

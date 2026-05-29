@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "032ca363-f035-4dfd-823e-dd56fca6cfb1",
+    "content": "Stevia is a plant extract that is 200 times sweeter than sugar and has medicinal properties such as treating colic and digestive issues.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2d98f25e-86b1-4814-b23f-76ed85bdfb3a",
+    "content": "Rabio side is a portion of stevia that is still sweet but not the actual plant extract, and it is still considered natural and derived from the plant.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d05ffa1c-d4ed-4774-a293-c90ef6ac6b80",
+    "content": "A 2010 study published in the Journal of Appetite found that subjects consuming Stevia were less likely to overeat and had lower blood sugar levels compared to those consuming other artificial sweeteners or traditional sugar.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7d1b8a30-0a9f-419d-a460-771bd71651ed",
+    "content": "Truvia is a blend of stevia extract and sugar alcohol (arob), and its primary sweetener is a sugar alcohol that the body struggles to break down, potentially causing digestive issues and nutrient absorption problems.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f4881e96-261b-469c-bccf-bbda13dfb790",
+    "content": "Stevia is generally considered safer for those who like their food or coffee extra sweet due to fewer digestive issues and unknown negative effects, while Truvia may be better suited for those who prefer a milder sweetener.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

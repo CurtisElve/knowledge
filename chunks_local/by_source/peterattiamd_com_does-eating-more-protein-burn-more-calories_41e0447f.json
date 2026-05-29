@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "f7bc1fdc-62a6-4fc5-ac84-f3da473e71f2",
+    "content": "Metabolizing dietary protein requires more energy than metabolizing other macronutrients, but the effect is not large enough to matter.",
+    "topics": [
+      "nutrition",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2126ec77-2244-4c21-a60b-ea4458175986",
+    "content": "In a meta-analysis of 522 randomized controlled trials, high-protein meals and diets increased total energy expenditure (TDEE) compared to lower-protein meals.",
+    "topics": [
+      "nutrition",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7a60a0cd-f8a8-4cfc-bac5-89bd9e717b13",
+    "content": "The high-protein diets increased TDEE over a longer period of time than a few days, but the diet's therm-induced thermogenesis(DIT) was not increased.",
+    "topics": [
+      "nutrition",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a68e86f4-fcdd-419a-95a9-87e8a126ec34",
+    "content": "The high-protein diets increased TDE by 0.29-0.49 calories per day, but the amount of protein intake necessary to drive significant increase in energy expenditure exceed amounts that are practical and realistic for most people.",
+    "topics": [
+      "nutrition",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "16ad658b-0b3b-4cac-b39e-1cd427d78f92",
+    "content": "Although the high-protein diets increased TDE, they don't support the notion that this constitutes a viable strategy for achieving weight loss.",
+    "topics": [
+      "nutrition",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5f85e7f8-9ceb-4ce0-843d-b09ed805fe5a",
+    "content": "The metabolism of protein may consume more energy than metabolism of other macronutrients, but we don't want to be metabolizing protein for fuel, we want to go towards building and repairing muscle and other tissues.",
+    "topics": [
+      "nutrition",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  }
+]

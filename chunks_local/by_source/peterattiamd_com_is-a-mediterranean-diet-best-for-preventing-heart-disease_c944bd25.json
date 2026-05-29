@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "f43dae6b-c693-4062-a707-f0d23fa10a6a",
+    "content": "The objective of this study was to study the impact of a Mediterranean Diet on the primary prevention of CVD.",
+    "topics": [
+      "nutrition",
+      "exercise",
+      "metabolism",
+      "healthspan"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ef0e6221-b703-44eb-b909-9922a2c04f00",
+    "content": "The two variants of the Mediterranean Diet were (i) one that emphasized extra virgin olive oil (EVOO) and (ii) another that emphasized nuts.",
+    "topics": [
+      "nutrition",
+      "exercise",
+      "metabolism",
+      "healthspan"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1213d7a9-5117-4248-9be7-6f7e45e25708",
+    "content": "The study enrolled about 7,500 patients who were at high risk for CVD, but had not suffered any MACE, and randomized them to one of three diets \u2013 two variants of a Mediterranean Diet, and a low fat diet.",
+    "topics": [
+      "nutrition"
+    ],
+    "embed": []
+  }
+]

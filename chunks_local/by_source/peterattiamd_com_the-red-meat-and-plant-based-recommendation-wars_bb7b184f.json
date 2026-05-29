@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "26b35209-4880-4e93-aaaa-74ecd5cc9731",
+    "content": "A group of investigators published 6 papers in the _Annals of Internal Medicine_ investigating the impact of unprocessed red meat and processed meat on cardiovascular disease, cancer, and all-cause mortality.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "274ae185-6c2a-486a-8c32-7cb87d67b2e6",
+    "content": "The investigators defined red meat as mammalian meat and processed meat as meat preserved by smoking, curing, salting, or adding preservatives.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c7290bc1-7aa2-4349-84b2-7cf0b70fee78",
+    "content": "The group ultimately recommended that adults continue eating the current levels of red and processed meat while acknowledging that this was a 'weak recommendation' based on evidence that is limited due to confounding factors and lack of accuracy in design.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "54bad12c-cb02-4d5f-8f45-d75f706230ab",
+    "content": "The evidence for adverse outcomes associated with meat consumption is too weak to recommend reducing its consumption, according to the investigators.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fe5297c1-f1b7-4064-a03d-e97e093071de",
+    "content": "The investigators concluded that there is a very small absolute risk reduction in 9 major cardiometabolic and cancer outcomes for dietary patterns lower in red or processed meat, but no statistically significant differences were found for 21 additional outcomes.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "study"
+    ],
+    "embed": []
+  }
+]

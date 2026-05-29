@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "301edce3-c646-40fa-b235-642961832b47",
+    "content": "Stress is a natural bodily response triggered by the hypothalamus, which releases CR (corticotropin-releasing hormone) that activates the pituitary gland to release cortisol.",
+    "topics": [
+      "stress",
+      "hormones",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "080d03c9-ef0f-4036-b775-2284a29919fd",
+    "content": "Cortisol is essential for raising blood pressure and providing energy during peak performance, but chronic exposure can lead to oxidative damage and various diseases.",
+    "topics": [
+      "stress",
+      "hormones",
+      "health risks"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e7256311-7956-4485-ab12-0a23e37bda20",
+    "content": "Increasing omega-3 fatty acid intake, particularly through fish oil supplements, can help lower cortisol levels and reduce inflammation associated with stress.",
+    "topics": [
+      "nutrition",
+      "stress management",
+      "omega-3 fatty acids"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f0949e81-e978-40bd-9c29-46e6567371d9",
+    "content": "A 2003 study by the Diabetes Metabolism Society found that participants who took 7.2 grams of fish oil daily had significantly lower serum cortisol levels in response to mental stress.",
+    "topics": [
+      "research",
+      "stress reduction",
+      "omega-3 fatty acids"
+    ],
+    "embed": []
+  }
+]

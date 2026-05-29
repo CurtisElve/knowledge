@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "9cfbb88a-b498-4145-bb1f-88116052e17e",
+    "content": "To make a Ginger Elixir, boil water with 4-5 slices of thinly sliced ginger for 2-3 minutes.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7c7d5576-ee20-4165-a2ab-ccbf8ee5805d",
+    "content": "Add a quarter to half of a lemon squeeze and a tablespoon of organic honey to the mixture.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6aee492d-fc20-4b81-ba84-d674a4d62329",
+    "content": "Steep the mixture for 3-5 minutes before drinking it first thing in the morning.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1384dd48-4247-41f0-9a40-e578817df7ad",
+    "content": "The Ginger Elixir is said to help burn more fat, increase digestion, and reduce nausea.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

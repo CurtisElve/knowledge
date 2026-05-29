@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "49b93a1f-838d-43a9-ad2b-b0a4c6db078a",
+    "content": "Tea consumption has a long history in Japan and China, with medicinal benefits recognized for centuries.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2e881706-af8f-4b7a-999a-69e96c9168a3",
+    "content": "Catechins, antioxidant flavonoids, are responsible for the health benefits of tea, including anticarcinogenic, antibacterial, and cholesterol-lowering effects.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c1b8648f-e02c-4e1b-8250-6766d01fdeb8",
+    "content": "Matcha green tea contains 137 times the catechins compared to traditional Chinese green tea, due to its finely powdered form.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cfb1f00f-a27b-4d6d-b652-69a06b920bad",
+    "content": "A 2011 study found that matcha's smaller particle size (2.83 \u03bcm) allows for greater absorption of catechins compared to regular green tea leaves (average 20 \u03bcm).",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "41ef1fcc-85e8-48f3-861e-6361c0f051f9",
+    "content": "Higher quality matcha has a finer particle size (5 to 10 \u03bcm), while lower quality matcha has larger particles (over 10 \u03bcm).",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a5b22153-6fc8-4b33-8087-4828902712e6",
+    "content": "Adding soy bean and black pepper to matcha can enhance the bioavailability of EGCG, the main catechin in green tea.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "62c1965a-fb92-41c5-badc-b7b3abfa1f85",
+    "content": "High levels of estrogen are associated with lower levels of testosterone and higher aromatase activity, which converts androgens into estrogen.",
+    "topics": [
+      "nutrition",
+      "endocrinology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a1a6c084-7a68-4059-88b1-0a1d7f86bb45",
+    "content": "Refined sugar and excess carbohydrates lower sex hormone binding globulin, leading to elevated estrogen levels.",
+    "topics": [
+      "nutrition",
+      "endocrinology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6f979063-4eba-4398-9188-f2cf9dd3bed3",
+    "content": "Conventional dairy products contain estrogen and progesterone, suppressing testosterone production according to a Japanese study.",
+    "topics": [
+      "nutrition",
+      "endocrinology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a6c183e5-edf6-49ae-a126-d35a1c4416e4",
+    "content": "Organic milk or goat's milk is recommended as a healthier alternative to conventional dairy.",
+    "topics": [
+      "nutrition",
+      "endocrinology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "763973f1-aca2-448e-9877-d861c8b65a6d",
+    "content": "Soy contains xenoestrogens that mimic estrogen and can increase estrogen levels in the body.",
+    "topics": [
+      "nutrition",
+      "endocrinology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d7203a1b-de98-459d-8658-e169601e3022",
+    "content": "Cruciferous vegetables, such as broccoli and cauliflower, contain indole-3-carbinol, which reduces estrogen levels in the body.",
+    "topics": [
+      "nutrition",
+      "endocrinology"
+    ],
+    "embed": []
+  }
+]

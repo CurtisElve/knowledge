@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "b4068157-d80d-40b8-a9f9-7c6a267a083b",
+    "content": "Alpha-GPC (alpha-glycerylphosphorylcholine) is recommended at a dose of 1200 milligrams per day, taken with breakfast and lunch.",
+    "topics": [
+      "nutrition",
+      "memory",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e70ae51b-a4a9-4cb3-9264-01d1fa3ac9b2",
+    "content": "Ginkgo biloba is suggested as an herb with acetylcholinesterase inhibitors, which can promote circulation and cognitive function.",
+    "topics": [
+      "nutrition",
+      "memory",
+      "herbs"
+    ],
+    "embed": []
+  },
+  {
+    "id": "98770f1c-6bee-41a6-9e79-dbc770ef698c",
+    "content": "Lion's mane mushroom is highlighted as having neurological benefits, particularly in improving cognitive function.",
+    "topics": [
+      "nutrition",
+      "memory",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "34b11d29-49cf-421f-a1e5-864237cd091d",
+    "content": "Testing nutritional status is advised, including comprehensive screenings and lab tests to identify deficiencies.",
+    "topics": [
+      "nutrition",
+      "memory",
+      "testing"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ea80cb0a-9921-4fca-babb-c7625738141f",
+    "content": "Iron status should be tested due to its impact on cognitive function, with both excess and deficiency affecting memory.",
+    "topics": [
+      "nutrition",
+      "memory",
+      "iron"
+    ],
+    "embed": []
+  }
+]

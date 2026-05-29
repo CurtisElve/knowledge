@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "2a2cf743-4cd6-40c0-a89e-92d9f5a9fde0",
+    "content": "To prevent iodine deficiency, ensure a daily reliable source of iodine in the diet.",
+    "topics": [
+      "nutrition",
+      "thyroid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5e298059-e7f5-46db-adba-2d3668d4d23d",
+    "content": "Seafood, such as fish, shellfish, and seaweed, are reliable sources of iodine.",
+    "topics": [
+      "nutrition",
+      "thyroid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "22bad548-5f27-4199-870e-30027ae0d509",
+    "content": "Celtic sea salt and pink Himalayan salt are not good sources of iodine.",
+    "topics": [
+      "nutrition",
+      "thyroid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6e0c7cbe-d2d4-4862-b932-98e5ed81ca00",
+    "content": "Cruciferous vegetables, including broccoli, kale, and cauliflower, contain compounds that inhibit iodine uptake.",
+    "topics": [
+      "nutrition",
+      "thyroid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "19045ca1-1541-4077-bfa2-44da5b7ec977",
+    "content": "Moderation is key when consuming cruciferous vegetables and other foods that release small amounts of cyanide.",
+    "topics": [
+      "nutrition",
+      "thyroid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8969b3c5-fe3e-4b68-8b60-03d08c47560d",
+    "content": "Symptoms of hypothyroidism include fatigue, brain fog, puffy eyes, cold hands and feet, and hair loss.",
+    "topics": [
+      "nutrition",
+      "thyroid"
+    ],
+    "embed": []
+  }
+]

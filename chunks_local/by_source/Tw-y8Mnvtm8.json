@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "e5807453-011d-4560-92f7-4f05c97bcb2d",
+    "content": "Glutathione is composed of cysteine, glycine, and glutamate, and is known as the mother of all antioxidants due to its presence in virtually every cell of the body.",
+    "topics": [
+      "antioxidants",
+      "glutathione",
+      "immune system"
+    ],
+    "embed": []
+  },
+  {
+    "id": "66f780e7-b66a-4fde-a318-0a846d3b2ecf",
+    "content": "A healthy immune system identifies 'good' and 'bad' substances using T-cells, which label 'bad' substances as invaders. White blood cells, including phagocytes and macrophages, then attack these invaders.",
+    "topics": [
+      "immune system",
+      "glutathione",
+      "white blood cells"
+    ],
+    "embed": []
+  },
+  {
+    "id": "521d79c2-bcfd-4916-81cc-97a62b11bd1a",
+    "content": "Without glutathione, white blood cells cannot form, leading to a suppressed immune system. Glutathione is crucial for the production of phagocytes and macrophages, enhancing the immune response.",
+    "topics": [
+      "glutathione",
+      "immune system",
+      "white blood cells"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2be67ca1-f9a8-4ebc-adb5-39168057de3e",
+    "content": "Studies show a correlation between decreased glutathione levels and a suppressed immune system. For example, mice infected with the influenza virus had increased inflammation and oxidative stress, accompanied by depleted glutathione levels.",
+    "topics": [
+      "glutathione",
+      "influenza",
+      "immune system"
+    ],
+    "embed": []
+  },
+  {
+    "id": "633870ec-24fe-4173-b53d-2bd0700eafa4",
+    "content": "In another study, tuberculosis bacteria increased nitric oxide levels, which can cause inflammation. However, glutathione neutralized some of this nitric oxide, potentially reducing inflammation and improving the immune system's ability to heal.",
+    "topics": [
+      "glutathione",
+      "tuberculosis",
+      "immune system"
+    ],
+    "embed": []
+  }
+]

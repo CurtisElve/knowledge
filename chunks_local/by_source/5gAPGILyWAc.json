@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "ee6ecc84-cd2a-4029-8bac-31f184d82974",
+    "content": "When breaking a 36-hour fast, digestion may take time and difficulty digesting foods could be common.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "98dc519f-f89f-4125-ba4f-70f2ec88fb64",
+    "content": "Feeding syndrome occurs due to depleted phosphorus, magnesium, potassium, and ATP levels during fasting.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9e951477-da20-4f6e-8710-fb1ab582e6f0",
+    "content": "To mitigate feeding syndrome, consider supplementing with 100 mg of magnesium, 200 mg of potassium citrate, and 200-300 mg of phosphorus.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cf7e2155-4e9d-4b50-bbec-45df109d2af8",
+    "content": "High-potassium and high-magnesium foods, such as meat, eggs, and potassium-rich vegetables, should be included in the diet to replenish nutrients safely.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "nutrition"
+    ],
+    "embed": []
+  }
+]

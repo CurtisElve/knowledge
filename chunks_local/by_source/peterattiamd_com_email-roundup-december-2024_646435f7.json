@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "id": "65575e92-17a8-4711-9e5c-833dcbb5c1c5",
+    "content": "Regular exercise is associated with reduced risks of all the most deadly and debilitating chronic diseases.",
+    "topics": [
+      "exercise",
+      "chronic diseases"
+    ],
+    "embed": []
+  },
+  {
+    "id": "56a3b1a8-b942-40a5-98b7-0eb79612ec66",
+    "content": "Maintaining muscle mass with age is a common theme on The Peter Attia Drive podcast.",
+    "topics": [
+      "nutrition",
+      "exercise",
+      "muscle mass"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d5a7a129-6f15-448c-abec-e2f1ff6e89ff",
+    "content": "Dietary protein consumption is necessary to stimulate muscle protein synthesis (MPS).",
+    "topics": [
+      "nutrition",
+      "protein",
+      "muscle protein synthesis"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9798bcea-1bb8-473f-bd06-69f27c5c9941",
+    "content": "Maximal muscle protein synthesis (MPS) is believed to occur within approximately 3 hours after protein ingestion.",
+    "topics": [
+      "nutrition",
+      "protein",
+      "muscle protein synthesis"
+    ],
+    "embed": []
+  },
+  {
+    "id": "de341b01-e1e7-412b-a2a0-336e8dfc99a4",
+    "content": "Exercise training for five years reduces all-cause mortality in older adults according to the Generation 100 study.",
+    "topics": [
+      "exercise",
+      "mortality",
+      "longevity"
+    ],
+    "embed": []
+  },
+  {
+    "id": "099dc929-f700-4228-8f10-02c8bcd9d65b",
+    "content": "The Peter Attia Drive podcast offers exclusive Ask Me Anything episodes and best-in-class show notes.",
+    "topics": [
+      "podcast",
+      "exclusive content"
+    ],
+    "embed": []
+  }
+]

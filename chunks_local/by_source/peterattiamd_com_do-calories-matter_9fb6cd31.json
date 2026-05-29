@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "id": "4b6720ac-61ce-4053-b22c-e21abedfbcb2",
+    "content": "Calories are a unit of energy measurement for heat energy required to raise one gram of water from 14.55 to 15.5 degrees Celsius at atmospheric pressure.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7828dee9-86f1-442d-b253-41b77780ef56",
+    "content": "One-thousand calories is equal to 1 kilocalorie, or 1 kcal for short. Most people use the term \"kilocalorie\" and \"calorie\" interchangeably.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8b75972d-6344-4625-abfd-58878d294fe4",
+    "content": "A calorie (or kcal) tells you how much energy you get by burning the food. In the \"old days\" this is how folks figured out the energy content of food using a device called a calorimeter.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "90e63147-198e-49d9-8c84-9046fcc327a5",
+    "content": "Conventional wisdom, perhaps better referred to as Current Dogma says that you gain weight because you eat more than you expend. This is almost true!",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "72c28c8f-15e7-4a10-9665-4e1bb848088e",
+    "content": "To be 100% true, it would read: when you gain weight, it is the case that you have necessarily eaten more than you expended.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6c1ce01a-3de5-4212-8551-c5dd42ec810f",
+    "content": "The change in our fat mass is equal to what we eat and drink (the only source of energy entering our system) less all of the energy we expend.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c5078577-5aeb-4563-9f3c-e6a61e76cdca",
+    "content": "We expend energy in four ways: Digestion (all the energy we require to break down food, plus the undigested portions that leave our body); Exercise (everyone knows what this is, but I tend to separate it from daily activity since people really like to focus on exercise); Daily activity (the non-exercise activity we carry out); Basal expenditure (the energy we expend underlying any activity \u2013 e.g., when you are resting).",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "d76771f7-a064-4571-94c1-0866f103c48f",
+    "content": "wild-caught salmon has less PCBs (polychlorinated biphenylols) than farm-raised-caught-cah, which can cause autoimmune issues.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "306c43cc-6bea-479d-86a6-93341b8a017e",
+    "content": "omega-6 in salmon is higher than omega-3, leading to inflammation and foggy feeling.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5440206c-63c1-40af-9723-80a1d8513904",
+    "content": "sockeye-salmon is lower in omega-6 than atlantic-salmon.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1ff724f4-3009-4375-8ffc-2b3f21853da1",
+    "content": "Bulgarian-yogurt contains more diverse bacterial profile than greek-yogurturt.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e354ff9c-878e-4c16-a8e7-ee9fccfa79ed",
+    "content": "tilapia is fed pig feces and chicken feces, which is not ideal for human consumption.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  }
+]

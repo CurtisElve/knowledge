@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "5c4bff92-2ec3-44f8-aa3d-69b46685e665",
+    "content": "Amines are byproducts of protein degradation and microbial decarboxylation, causing allergic responses.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "allergy"
+    ],
+    "embed": []
+  },
+  {
+    "id": "412286f1-7a26-4303-88ce-87c8f15dcc41",
+    "content": "Histamine is one type of amine, which can cause swelling and itching within the body.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "allergy"
+    ],
+    "embed": []
+  },
+  {
+    "id": "51e0e1ee-a948-4355-ba2d-ab0447666cb7",
+    "content": "Cooking proteins every two days can reduce amine production and improve nutrient absorption.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "dietary recommendations"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7bffc0b3-6e04-48e2-8e81-47f363a59422",
+    "content": "Meats, fish, red meats, and cheeses are common sources of amines that can trigger allergic reactions.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "allergy"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bf55a7e1-5049-4766-912a-0bdb61749a4f",
+    "content": "Individuals with digestive issues such as leaky gut or candida may be more susceptible to amine-related problems.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "allergy"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d291a482-5a7d-495a-9cb9-a5b737f76b6c",
+    "content": "Red meat and fish spoil faster due to higher amine content, emphasizing the importance of cooking these foods more frequently.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "allergy"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "367d1cc8-8239-405e-8bfe-282e2b5ce6b6",
+    "content": "CoQ10 is a cofactor in the electron transport chain that helps convert glucose and fatty acids into ATP, the primary energy source for cells.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "cellular function"
+    ],
+    "embed": []
+  },
+  {
+    "id": "09105bf7-9eff-4f26-a300-810320e03049",
+    "content": "CoQ10 acts as an antioxidant by neutralizing free radicals, reducing oxidative stress, and protecting the mitochondria from damage.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "cellular function"
+    ],
+    "embed": []
+  },
+  {
+    "id": "98c29d27-4cd6-47a2-b34a-7f5da260f608",
+    "content": "A systematic review of 12 studies involving 352 participants found that CoQ10 supplementation significantly reduced systolic blood pressure by an average of 15-19 mmHg and diastolic blood pressure by 8-10 mmHg.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "clinical trials"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dd01cba8-73bc-41ca-b237-0d689d6235c7",
+    "content": "CoQ10 has a positive impact on cholesterol levels, particularly beneficial for individuals on statin medications who may experience depleted CoQ10 levels.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "cardiovascular health"
+    ],
+    "embed": []
+  }
+]

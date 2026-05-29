@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "079310a9-eb04-48c8-8205-e2486a4b4bb1",
+    "content": "A 2000 study found that _Lactobacillus reuteri_ supplementation before a cholesterol-raising diet reduced the need for parenteral nutrition and hospitalization by 11 days compared to non-fat milk supplementation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "probiotics"
+    ],
+    "embed": []
+  },
+  {
+    "id": "62ddaee6-c197-4a45-9cb8-3d61e5e50771",
+    "content": "_Lactobacillus reuteri_ supplementation in preterm infants reduced the risk of sepsis by 66% and mortality by 79%, according to a 2016 meta-analysis.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "probiotics"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1757f419-3a09-4c90-9a14-a2fe34390b83",
+    "content": "A 2018 meta-analysis found that _Lactobacillus reuteri_ supplementation reduced time spent crying or fussing in breastfed infants with colic compared to placebo.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "probiotics"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3b784e20-cce3-4f39-975c-f4c760241724",
+    "content": "_Lactobacillus reuteri_ is an interesting microbe with diverse effects, including strengthening the gut barrier and immune system, improving metabolism, and protecting against digestive diseases.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "probiotics"
+    ],
+    "embed": []
+  },
+  {
+    "id": "609e2e61-d543-4d6b-92ea-6a0ea7065829",
+    "content": "There are no established clinical dosage recommendations for _Lactobacillus reuteri_ or most other probiotics, as research into the use of probiotics is still relatively new.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "probiotics"
+    ],
+    "embed": []
+  }
+]

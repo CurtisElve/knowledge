@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "756f9762-0783-48d3-95af-9ab118f65da4",
+    "content": "Three to five grams of glycine taken before a meal can blunt the blood glucose response to that meal.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5479aed3-daa3-4776-b809-5c78b1265efa",
+    "content": "Fifteen grams of glycine daily has been shown to improve metabolic health in individuals with type 2 diabetes.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bde4b149-b178-407c-8f71-d8a4893b0176",
+    "content": "Hydrolyzed collagen provides approximately 1 to 1.67 grams of glycine per serving.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1888abbd-cb1d-4265-acbd-84f33535f74a",
+    "content": "Bone broth is a source of glycine but its exact amount varies depending on conditions and protein content.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f64d1fba-f782-4ee3-b47e-9af9a154ddb6",
+    "content": "Using a hydrolyzed collagen or glycine supplement is recommended for obtaining 3 to 5 grams of glycine per meal.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "supplements"
+    ],
+    "embed": []
+  }
+]

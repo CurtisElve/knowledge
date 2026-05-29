@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "9be64efb-8ace-4076-b18e-7749f5ce7a30",
+    "content": "Asparagus is one of the lowest carbohydrate vegetables, typically containing 4 grams of carbs and 2 grams of fiber per 10-15 grams, providing minimal net effective carbs due to its high prebiotic fiber content.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "ketosis",
+      "vegetables"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e37f9adf-ee74-40e6-97ed-710c70987e4f",
+    "content": "Cabbage is a cruciferous vegetable rich in sulfur, which can help heal acid reflux and promote gut health. It also contains probiotics, aiding in the establishment of beneficial gut bacteria during ketosis.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "ketosis",
+      "vegetables"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a7de552d-aee3-48cc-902b-ac6d291a1ad7",
+    "content": "Bok choy is a cruciferous vegetable containing indole-3-carbinol and diindolylmethane, which are estrogen modulators. These compounds can help reduce bad estrogens in the body, potentially leading to reduced body fat, especially beneficial for individuals in ketosis.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "ketosis",
+      "vegetables"
+    ],
+    "embed": []
+  }
+]

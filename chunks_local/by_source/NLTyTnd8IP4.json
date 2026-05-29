@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "5fc309a6-0199-4eec-be45-5670fb751583",
+    "content": "Liver, red meat, and shellfish are rich in zinc and copper, essential minerals.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "647b8de0-41fc-49e2-bf24-fbc7eaa042cd",
+    "content": "Eating 10 ounces of red meat a day provides less than a tenth of the daily requirement for iron.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "121bab00-6b33-4d39-9a0d-cbdba6256bdb",
+    "content": "Eating liver once a week can provide a significant amount of nutrients, including iron, zinc, and copper.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5f607ea6-499a-4e8b-a460-b1a43a3beb00",
+    "content": "Cutting out legumes and vegetables can lead to deficiencies in folate and polyphenols, among other nutrients.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "91f6e67d-2927-4137-a140-a7de0894b098",
+    "content": "Phytates in natural foods can inhibit iron absorption, but adding phytate-rich foods like legumes and vegetables is recommended.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "40435ef8-d32b-4949-9474-2d295490c036",
+    "content": "Calcium supplementation can reduce iron absorption, but should be done in moderation to avoid excess calcium intake.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "23e2f6cc-199d-4956-93aa-e225db9a3fcf",
+    "content": "Donating blood is the first-line defense for managing iron status, as 90% of body iron is in red blood cells.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

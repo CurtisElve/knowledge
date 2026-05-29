@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "abe831e2-be68-42bc-a441-92465f3a1c84",
+    "content": "Let's rate dairy options from best to worst with scientific backing. Ghee is the best option for a keto diet due to its pure butter fat and short chain fatty acids, especially butyricic acid, which is anti-inflammatory.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "11f47dbe-4b85-4a8a-a34c-5bf13de4488f",
+    "content": "Whey protein isolate is also clean, but choose grass-fed organic. It's second best for a keto diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6243b464-cf79-495a-ae95-e0463ac86973",
+    "content": "Greek or Bulgarian yogurt is third best for keto diet. It has cultures that drive down pH, making calcium and phosphorus more soluble, reducing inflammatory stress.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5a82bf17-ee9b-4fba-b4ef-4ecbf31f0783",
+    "content": "Heavy cream is fourth best for keto diet. It has less milk solids and casein proteins, but still has lactose and a1 casein.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4750fd72-da4c-401a-a044-70bf4d611914",
+    "content": "Cottage cheese is fifth best for keto diet. Organic is better than non-organic. It has casein protein that can be good or bad depending on milk type.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "63333c58-033f-4f5b-b5e7-1c2c01f83b64",
+    "content": "Milk is the worst for keto diet. Raw organic is not exactly what we want and not keto friendly.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

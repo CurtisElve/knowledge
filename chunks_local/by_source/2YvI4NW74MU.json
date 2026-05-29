@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "b428cc21-e23b-49fe-a6f7-ef22ea986ca0",
+    "content": "Fresh ginger is dominated by gingerols, while dried ginger is predominantly shogaols.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "08694d1a-3bc7-49b5-bcbe-f8baffa3ab2a",
+    "content": "Hot air drying ginger at 1500\u00b0C for 6 hours produces the highest concentrations of shogaols and strongest antioxidant activity.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f9c0b5ff-aa23-460a-bc2b-e11623eadb92",
+    "content": "Shogaols consistently outperform gingerols in anti-inflammatory assays, antioxidant activity, and TRPV1 receptor.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "01fac96c-5dad-496a-aa7f-ff1a8678cce7",
+    "content": "Three distinct mechanisms make ginger effective for glucose control, insulin resistance, and visceral fat.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3b325500-2ea0-4dd3-92c2-780d2c407da5",
+    "content": "Shogaols bind more tightly to TRPV1 channel than gingerols due to longer hydrophobic tail.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d541efee-37fb-4596-8b81-f5aed8384ad1",
+    "content": "10-shogaol produced during steaming or drying achieves all of fat loss mechanisms without spicy sensation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6a4e8233-2c8a-4a3f-9f1e-8e7074dcacb0",
+    "content": "Fresh ginger ginger promotes white adipose tissue conversion into metabolically active brown fat.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ad6afab7-aa90-4778-ad7d-9071e216ad14",
+    "content": "Dry ginger activates TRPV1 and adrenaline secretion for thermogenic signaling without spicy sensation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

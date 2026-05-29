@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "5ef2ce1c-a93f-4405-be95-4e1d0a6e11e4",
+    "content": "Fish oil can help lower triglycerides in some individuals, such as those with insulin resistance or high triglycerides due to genetic predisposition.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1494679a-0c42-45bc-afb8-f8fd314d41d8",
+    "content": "For people who do not consume fish or pasture-raised eggs, fish oil supplementation may be beneficial to ensure adequate intake of omega-3 fatty acids.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d3f1d0de-d652-46a3-a689-d2cf5d5d3e27",
+    "content": "Cod liver oil, a form of fish oil, is rich in fat-soluble vitamins, particularly vitamin A, which can be difficult to obtain from food sources.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ace57858-0c3f-425c-98e8-26c2e9158ed6",
+    "content": "For individuals who cannot consume liver, cod liver oil can serve as an alternative source of vitamin A, making it a viable option for those needing additional vitamin A.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d23dee0e-3d8f-41e4-957e-62fb0ee49527",
+    "content": "Fish oil supplementation should be limited to around 250 milligrams of EPA and DHA combined per day for most individuals, as higher doses may not be necessary for general health.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e7dbcddd-263f-4976-b9a4-b1b331ce8dff",
+    "content": "Krill oil and EPA-rich fish oils have shown potential benefits in certain psychiatric conditions, such as depression, anxiety, and ADHD, suggesting that individual needs may vary.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "05fc763c-a32a-4eae-9fc8-1b16f0b844dd",
+    "content": "Liver is packed with critical nutrients for childhood development, including vitamin A, heme iron, and vitamin B12.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "928e142d-fc59-48e6-bf4c-4e878905b304",
+    "content": "CoQ10, taurine, and zinc are powerful nutrients found in heart, supporting cellular energy, brain development, and immune resilience.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2fa362b0-4b6e-4c00-b4f1-1f5d98a022b6",
+    "content": "Grass-fed meat is highly bioavailable, making it easier for kids to absorb and utilize protein.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fbcfed2f-eda9-40ec-a4f8-d18388e7b338",
+    "content": "Lineage Meat Sticks deliver 64g of protein, zero carbs, and a full spectrum of micronutrients.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c29f2f3d-1b57-466f-8b6a-c44ca5a53b49",
+    "content": "Organ meats like liver and heart are nutrient-dense and can be included in snacks without being noticeable.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

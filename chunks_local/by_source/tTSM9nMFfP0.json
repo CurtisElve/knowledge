@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "69db07b8-56cc-40ac-aae9-f33479f4b339",
+    "content": "Probiotics are live microorganisms that provide health benefits when consumed in adequate amounts.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "119457a3-4e75-4815-9b7e-393906790723",
+    "content": "Short-chain fatty acids are produced during the fermentation of prebiotics by gut bacteria and provide energy to probiotics.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "572b4f1e-ab54-4249-849b-afca0ee3a84f",
+    "content": "Probiotics help maintain a balance of nutrients and organisms in the gut, preventing bad bacteria from causing harm.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8c797984-ea3f-4326-ac14-2e3695e1a708",
+    "content": "Antibiotics can negatively impact gut flora by wiping out both good and bad bacteria.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "321f81a7-ce4f-4b69-9257-34857af2b290",
+    "content": "Triclosan, found in some hand sanitizers, can also negatively affect gut flora.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "88b2997b-3e7d-4ce4-b894-671dd37ceec1",
+    "content": "Poor diet and increased inflammation can lead to a decline in gut flora health.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "475d72c6-6519-4747-9930-da51f047a25d",
+    "content": "Probiotic supplements are equal ratios of prebiotics and probiotics, promoting a balanced gut flora.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "supplements"
+    ],
+    "embed": []
+  }
+]

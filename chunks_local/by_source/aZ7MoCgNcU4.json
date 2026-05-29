@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "92726194-f6d3-48a1-bb1f-45cea6721a58",
+    "content": "Coconut cream is a very condensed coconut milk with a consistency similar to sour cream.",
+    "topics": [
+      "nutrition",
+      "coconut products"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b494d07f-9700-4c9a-bfe8-7dd067a072dd",
+    "content": "Light coconut milk is less concentrated and more watery, suitable for cooking rather than beverages.",
+    "topics": [
+      "nutrition",
+      "coconut products"
+    ],
+    "embed": []
+  },
+  {
+    "id": "002ed569-9b9a-4597-931c-8ad08106e4bb",
+    "content": "Coconut butter is made by reducing coconut cream further, resulting in a spreadable product with more fat and fewer fibers.",
+    "topics": [
+      "nutrition",
+      "coconut products"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fc37d035-03ca-4574-915a-c0f17f232fa7",
+    "content": "Coconut water is an electrolyte-rich drink without coconut meat, primarily used for hydration.",
+    "topics": [
+      "nutrition",
+      "coconut products"
+    ],
+    "embed": []
+  },
+  {
+    "id": "219d7600-b758-44cc-8be8-c74b02b5e71b",
+    "content": "Coconut milk in a carton is reconstituted coconut milk with additional water, making it a beverage with higher calorie content.",
+    "topics": [
+      "nutrition",
+      "coconut products"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "d7848efe-5c91-4f88-ba9e-b86dac35f3aa",
+    "content": "Macadamia nut oil contains higher levels of monounsaturated fats compared to olive oil, making it more readily available to the body.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2d074d07-827b-4a13-afc2-875de0632739",
+    "content": "Macadamia nut oil has a 1:1 ratio of Omega-6 to Omega-3 fatty acids, ideal for the human body's balance, while olive oil has a 1:6 ratio.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fe2e41d7-7d8d-40cc-8d69-e0f32c74127f",
+    "content": "Macadamia nut oil has a higher smoke point than olive oil, allowing for higher cooking temperatures without denaturing the fat.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9b9a2244-9b2c-4bcb-9808-29569552b4af",
+    "content": "Macadamia nut oil contains abundant phytochemicals that prevent oxidation, extending its shelf life compared to olive oil.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dcc81860-290c-408c-8b7f-3cd0afa7df04",
+    "content": "Macadamia nut oil has a richer nutty flavor suitable for baking, unlike olive oil.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  }
+]

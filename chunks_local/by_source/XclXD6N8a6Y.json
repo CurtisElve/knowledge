@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "b58c0a5c-76a0-4e51-a6ae-f86ed0dd7f64",
+    "content": "Coffee inhibits zinc absorption, so wait for it to pass before taking zinc.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cd693a68-4f20-4c85-b076-56275e546691",
+    "content": "Waiting 2 hours after eating nuts and 2 hours before taking zinc is sufficient.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e501c445-90ca-4063-8edb-954e67565964",
+    "content": "Waiting 3 hours after eating nuts and taking zinc is ideal for optimal zinc absorption.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

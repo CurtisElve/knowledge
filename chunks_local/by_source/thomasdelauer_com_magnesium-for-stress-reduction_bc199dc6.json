@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "4cefa3b1-bf22-48e5-8351-56889494bd92",
+    "content": "George Eby conducted a study showing that 200 to 500 milligrams of magnesium per meal reduced chronic anxiety, depression, alcoholism, smoking, and sleeplessness.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "55c775ae-b1a1-41e5-bd41-0cff9a2e0100",
+    "content": "Magnesium sits on the NMDA receptor in the synapse between neurons, guarding it from triggering stress responses.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6ddccc87-4456-47a9-81a8-8551d4b48099",
+    "content": "Magnesium prevents the NMDA receptor from being triggered by stressors, thus reducing stress and cortisol levels.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6f21a566-6da3-4507-bde0-f1b8194a06ff",
+    "content": "Cortisol increases fat storage and affects decision-making, potentially rendering the hippocampus less effective over time.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f7afceb0-6471-484e-81b6-de8482dd73ef",
+    "content": "Eating magnesium-rich foods or taking supplements can break the cycle of chronic stress and improve overall health.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

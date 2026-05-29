@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "44256c73-98e4-45d3-a732-76da7ee0fa4e",
+    "content": "Vitamin A toxicity can occur when accumulated in the body beyond a certain threshold.",
+    "topics": [
+      "nutrition",
+      "toxicity",
+      "vitamin_a"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ea5f60ab-949b-4aa0-8810-64e7993b38c1",
+    "content": "Toxicity typically requires more than 10,000 IU of vitamin A daily over months to years for a 150-pound adult.",
+    "topics": [
+      "toxicity",
+      "vitamin_a",
+      "dosage"
+    ],
+    "embed": []
+  },
+  {
+    "id": "51437966-6e65-4c0b-9a16-8d60c4e43a98",
+    "content": "Lab tests showing elevated serum vitamin A, gamma-glutamyl transferase, triglycerlycerides, alkaline phosphatase, prothrombin time, and cholesterol are indicative of vitamin A toxicity.",
+    "topics": [
+      "lab_tests",
+      "vitamin_a",
+      "toxicity"
+    ],
+    "embed": []
+  },
+  {
+    "id": "abe63dd3-3cb3-435f-b2c8-057e581f8f47",
+    "content": "Excess vitamin A can worsen osteopenia and osteoporosis when deficient in calcium and vitamin D.",
+    "topics": [
+      "osteopenia",
+      "osteoporosis",
+      "vitaminamin_a"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "c6905905-bc63-4f7e-b817-1056c4968729",
+    "content": "Cow milk contains casein proteins, primarily A1 casein, which includes BCM7, linked to cancer, digestive issues, and mental disorders.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ae130108-a11e-45df-abd3-7225824d18e6",
+    "content": "Goat and sheep milk contain A2 casein proteins, which are less likely to cause inflammation due to their genetic origin from 10,000 years ago.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4510ce59-be7b-44f4-9149-09f2c862b10b",
+    "content": "Sheep yogurt made from sheep milk has virtually no lactose, making it suitable for lactose intolerant individuals, while sheep milk cheese is nearly lactose-free due to the culturing process.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ababb8ba-39aa-4b06-a16a-a67431a29ce0",
+    "content": "Goat and sheep milk are more bioavailable sources of protein compared to cow milk, enhancing the absorption of vital minerals like phosphorus and magnesium.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d6eaac56-5c07-4b70-83e3-3d4e0fb7c89b",
+    "content": "Goat milk and sheep milk are recommended as alternatives to cow milk for those seeking a healthier, less inflammatory dairy option.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "bfcfdc74-dc85-4871-a0d3-9178b41798f1",
+    "content": "When you are a baby, you are 75% water, but by adulthood, you are typically 50% to 55% water.",
+    "topics": [
+      "nutrition",
+      "hydration",
+      "water"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7d7bb962-fd8f-46c3-a937-a66400f7cf5d",
+    "content": "Electrolytes are minerals that help electrical charges within the body, aiding muscle contraction, nerve function, and mood regulation.",
+    "topics": [
+      "nutrition",
+      "electrolytes",
+      "body functions"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2e7e1b13-2223-4159-a74c-854eefb7ba14",
+    "content": "Electrolyte imbalances can lead to muscle cramps, fatigue, headaches, and irritability.",
+    "topics": [
+      "nutrition",
+      "electrolyte imbalances",
+      "symptoms"
+    ],
+    "embed": []
+  },
+  {
+    "id": "08d7e883-e1cf-48dc-b85a-44c567f138e0",
+    "content": "Consuming too much water can dilute electrolytes, leading to potential imbalances if kidneys cannot process excess water.",
+    "topics": [
+      "nutrition",
+      "hydration",
+      "water intoxication"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a4347ce1-0af2-4b86-920e-d9402fe163d8",
+    "content": "To avoid electrolyte imbalances, focus on a balanced intake of sodium, phosphate, calcium, magnesium, and potassium.",
+    "topics": [
+      "nutrition",
+      "electrolyte balance",
+      "dietary minerals"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6441bfc3-cfb1-4a33-afbc-5673ecd117cd",
+    "content": "Whole foods and magnesium supplements are recommended for maintaining proper electrolyte levels and preventing overabundance of calcium.",
+    "topics": [
+      "nutrition",
+      "electrolyte supplementation",
+      "mineral balance"
+    ],
+    "embed": []
+  }
+]

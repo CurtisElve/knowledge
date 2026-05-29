@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "403cd71a-a9dc-4e58-862f-9b81be4926c3",
+    "content": "Magnesium is necessary for virtually every bodily function, but deficiencies can lead to conditions such as osteopenia/osteoporosis, kidney stones, hypertension, and cardiovascular disease.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6dcb7037-ed0d-4658-9cb0-38cb0569f93e",
+    "content": "Signs of magnesium deficiency include osteopenia/osteoporosis, soft tissue calcification, kidney stones, high blood pressure, and cardiovascular disease. Symptoms can also include migraines, muscle cramps, weakness, and ataxia.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3076c3d3-7662-400a-99dc-52a3d0cab70c",
+    "content": "Magnesium is primarily obtained from unrefined plant foods and is low in diets high in refined foods or animal products. Factors that can lead to magnesium deficiency include proton pump inhibitors, antacids, vomiting, diarrhea, colitis, and genetic transporter defects.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3b8747fe-806c-45d0-a725-8f8ad7df1202",
+    "content": "Magnesium deficiency can be managed by addressing underlying issues such as diet, medical conditions, and drug interactions. For supplementation, a daily dose of 100 mg is recommended, with up to 300 mg per day as needed based on blood work results.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "807e77db-e4be-447c-8a6e-4e352222c990",
+    "content": "High magnesium intake can cause diarrhea, while low magnesium levels can lead to dangerous blood pressure and heart rate abnormalities. Blood tests should measure magnesium in red blood cells, serum, and urine to assess overall magnesium status.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "foodscience",
+      "health"
+    ],
+    "embed": []
+  }
+]

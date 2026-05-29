@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "e3ffb9c1-0673-449e-8cfc-4911f9e6666b",
+    "content": "Cortisol is a hormone I\u2019ve been paying a lot more attention to of late.",
+    "topics": [
+      "metabolism",
+      "hormones",
+      "stress"
+    ],
+    "embed": []
+  },
+  {
+    "id": "764e5f08-dd35-49d6-9590-772f99553cea",
+    "content": "Advanced hormone testing and continuous glucose monitoring are making it more realistic to make educated guesses about cortisol's role.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "measurement"
+    ],
+    "embed": []
+  },
+  {
+    "id": "310dcf37-b462-47d7-9a13-0fecb2b11943",
+    "content": "Elevated cortisol can help save our life in fight-or-flight situations.",
+    "topics": [
+      "metabolism",
+      "stress",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a19c0c93-afa7-4a4e-a5b4-45f305eeb366",
+    "content": "Peter Attia, MD, is the host of _The Peter Attia Drive_ podcast and founder of _Early Medical_.",
+    "topics": [
+      "podcast",
+      "doctor",
+      "healthcare"
+    ],
+    "embed": []
+  },
+  {
+    "id": "81d3fc8c-0dbe-4e22-9053-d7879137ec46",
+    "content": "Early Medical applies the principles of Medicine 3.0 to patients with the goal of simultaneously lengthening lifespan and increasing healthspan.",
+    "topics": [
+      "medical practice",
+      "medicine",
+      "longevity"
+    ],
+    "embed": []
+  }
+]

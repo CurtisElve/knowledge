@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "5fb0f80c-eb7f-464c-951a-64e7c3fc5891",
+    "content": "Sesame oil, peanut oil, and avocado oil are recommended for frying and saut\u00e9ing due to their high smoke points.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ff53f5d8-a70b-4949-a333-493258c4c7e9",
+    "content": "Avocado oil is preferred over sesame and peanut oils for frying due to its lower inflammatory response.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ea0473ca-55b5-4b18-8dae-19fb384afc03",
+    "content": "Coconut oil can be used for saut\u00e9ing and baking due to its high smoke point and ability to be consumed raw.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6e305561-6939-4b92-832f-f287e2b931ff",
+    "content": "Flax seed oil, especially unrefined, is highly recommended for consumption due to its high Omega-3 to Omega-6 ratio and anti-inflammatory properties.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7a490172-2ce8-4c27-a1d8-e6868f5bb1e6",
+    "content": "Macadamia nut oil is suitable for baking and cooking at lower temperatures due to its one-to-one Omega-3 to Omega-6 ratio and low smoke point.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f4a1fc35-550f-4f9f-b269-f63e441494d4",
+    "content": "Olive oil has a higher Omega-6 to Omega-3 ratio and is less easily assimilated by the body compared to monounsaturated fats like macadamia nut oil.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bf2c0010-1282-478f-bfbf-ea8cd34d75cf",
+    "content": "Coconut oil is beneficial for energy utilization and can be used for saut\u00e9ing, baking, or as a snack, thanks to its medium-chain triglycerides and unique metabolic processes.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

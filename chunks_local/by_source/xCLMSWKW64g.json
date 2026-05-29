@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "660da807-3f9b-41ce-991f-6cbeb407a0f8",
+    "content": "The patient has a red patchy, scaly rash around their mouth and nose that flares up periodically.",
+    "topics": [
+      "skin conditions",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7103f0ce-4433-495b-bf93-187e2583e221",
+    "content": "The patient's biotin level was found to be 492.5 Picograms per milliliter, in the bottom 10% of the normal range.",
+    "topics": [
+      "biotin levels",
+      "test results"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2a0052e8-c1f2-4db6-8d8d-f962936d3401",
+    "content": "Plasma or serum biotin levels are not a reliable indicator of biotin status due to their insensitivity.",
+    "topics": [
+      "biotin testing",
+      "reliability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2efb2537-9d82-4c0c-a56a-7815b2771548",
+    "content": "The gold standard test for biotin deficiency is beta-hydroxyisovalerate in the urine after a leucine challenge.",
+    "topics": [
+      "biotin deficiency tests",
+      "gold standard"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d0d6a049-8bb1-46e8-b0c4-c51dee00819f",
+    "content": "A urinary organic acid test with beta-hydroxyisovalerate on the list of analytes is recommended for a more accurate assessment of biotin status.",
+    "topics": [
+      "urinary tests",
+      "biotin status"
+    ],
+    "embed": []
+  }
+]

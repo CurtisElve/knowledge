@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "b3f3250f-a84a-45fa-a4be-742354d3e50f",
+    "content": "Vietnamese F is made with bone broth, which is created by cooking bones for 12 to 36 hours to extract collagen and red blood cells.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "bone broth",
+      "collagen"
+    ],
+    "embed": []
+  },
+  {
+    "id": "38fae011-9181-4c44-a953-260538a188a0",
+    "content": "Bone broth contains collagen that converts to gelatin within the body, which helps heal a leaky gut, improves skin, nails, and hair, and reduces inflammation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "bone broth",
+      "collagen",
+      "leaky gut",
+      "inflammation"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ed2cac70-08ed-4675-a799-cb5e2b38c4a8",
+    "content": "Vietnamese F includes cruciferous vegetables such as broccoli and bok choy, which are high in dandelion methan and indole-3-carbinol. Dandelion methan helps lower high estrogen levels, while indole-3-carbinol raises estrogen temporarily to create a negative feedback loop.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "cruciferous vegetables",
+      "dandelion methan",
+      "indole-3-carbinol",
+      "estrogen"
+    ],
+    "embed": []
+  },
+  {
+    "id": "333161e0-b8c3-4c31-a045-a1f7c367a6fb",
+    "content": "The broth in Vietnamese F is fermented due to the onions used in its preparation, making it rich in probiotics that support gut health. However, individuals with small intestinal bacterial overgrowth (SIBO) may need to avoid higher FODMAP foods like onion.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "fermentation",
+      "probiotics",
+      "gut health",
+      "FODMAP"
+    ],
+    "embed": []
+  }
+]

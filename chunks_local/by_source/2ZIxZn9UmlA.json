@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "id": "213f5d2c-0a44-42c6-8066-7974c9f660d7",
+    "content": "Caffeine works by blocking adenosine receptors, which normally signal drowsiness.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "45aa9dcc-f1c7-4c5c-9ca4-943a2183a562",
+    "content": "The liver enzyme CYP1A2 breaks down caffeine into theabromine, affecting its effects.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "356b4bf8-8660-426f-915e-8609c9ae4ef5",
+    "content": "The AHR gene affects how quickly caffeine is broken down, influencing sensitivity.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c940959f-61e9-452b-a3ce-c7e0c0019582",
+    "content": "Researchers at Harvard found that some people have genes that affect their dopamine response to caffeine.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b9289050-6ac1-4bcf-933b-772755347393",
+    "content": "Blocking adenosine receptors weakens them over time, suggesting a caffeine cycling can enhance fat loss.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  }
+]

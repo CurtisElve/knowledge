@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "857e10e6-f7bd-4cce-bf06-c8d5b36eeffc",
+    "content": "Sweet potatoes are bright orange and rich in vitamin A and beta carotene, while yams are pale and lower in these nutrients.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f7dc8f56-f4cf-4c28-9cd1-e2234f039eaa",
+    "content": "Sweet potatoes contain slightly more protein than yams, but yams have a lower glycemic index and load, making them better for blood sugar control.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c99fd70a-7539-49ef-b8c5-67d484ea63a6",
+    "content": "Yams have a lower sodium content compared to sweet potatoes, which can help reduce hypertension and water retention.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7daec456-5059-4396-8bb0-47134b07a9fb",
+    "content": "Mixing sweet potatoes and yams can provide a balanced combination of nutrients and lower sodium levels.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

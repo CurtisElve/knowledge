@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "145aa703-8205-4b0a-a1e8-0109bde16a46",
+    "content": "Magnesium chloride is highly bioavailable at 12%, useful for metabolic function and detoxification.",
+    "topics": [
+      "Magnesium",
+      "Metabolism",
+      "Detoxification"
+    ],
+    "embed": []
+  },
+  {
+    "id": "92bc7dc9-81df-41ad-8cfc-af0ea1828c84",
+    "content": "Magnesium citrate interferes with celop plasman, leading to potential iron overload and laxative effects.",
+    "topics": [
+      "Magnesium",
+      "Iron",
+      "Copper",
+      "Celop Plasman"
+    ],
+    "embed": []
+  },
+  {
+    "id": "26338ab6-a188-401e-965b-f18e041d4c8b",
+    "content": "Magnesium glycinate is absorbed through the intestine, avoiding laxative effects and providing calming properties.",
+    "topics": [
+      "Magnesium",
+      "Absorption",
+      "Calming Effects"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d458f10f-0d48-434b-92bf-aa1be202a65f",
+    "content": "Magnesium melate enhances ATP production, aiding in energy and muscle contraction, and is a chelated form with higher bioavailability.",
+    "topics": [
+      "Magnesium",
+      "Energy Production",
+      "Muscle Contraction",
+      "Chelation",
+      "Bioavailability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c0a887dc-0d27-4289-8483-04ef1d0ded3d",
+    "content": "Magnesium oxide has low bioavailability and requires daily dosing for sustained release, often bound to fatty acids.",
+    "topics": [
+      "Magnesium",
+      "Bioavailability",
+      "Daily Dosing",
+      "Fatty Acids"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2fb20695-3c05-438f-8c1e-96bd79ad3ca4",
+    "content": "Epsom salt (magnesium sulfate) is not effective for recovery or healing, and may cause laxative effects.",
+    "topics": [
+      "Magnesium",
+      "Epsom Salt",
+      "Laxative Effects"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fc619239-2bd0-499f-8e3f-4de26846410b",
+    "content": "Magnesium orotate penetrates cells, supporting overall cellular health and cardiovascular function.",
+    "topics": [
+      "Magnesium",
+      "Cellular Health",
+      "Cardiovascular Function"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8c895236-f8d2-46be-9928-b1777b27677a",
+    "content": "Magnesium threonate improves short-term and long-term memory, beneficial for anxiety and neurocognitive disorders.",
+    "topics": [
+      "Magnesium",
+      "Memory Improvement",
+      "Anxiety",
+      "Neurocognitive Disorders"
+    ],
+    "embed": []
+  }
+]

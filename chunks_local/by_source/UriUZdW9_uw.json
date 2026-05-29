@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "e38f50e7-d2c8-43e1-b3af-0a16195d03c1",
+    "content": "Omega-7 fatty acids are monounsaturated fats found in cold water fish and macadamia nuts.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "700e4e3c-ba6b-4362-bbc5-f2fc9b38d5a2",
+    "content": "Omega-7 fatty acids, specifically pyic acid, are lipocines that control how other fats function in the body.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "aefe88ce-7a15-4d65-85b5-6c18181f231f",
+    "content": "A randomized placebo study showed that pyic acid, an Omega-7 fatty acid, reduced C-reactive protein, triglycerides, LDL cholesterol, and increased HDL cholesterol in patients with dyslipidemia.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science",
+      "clinical trials"
+    ],
+    "embed": []
+  },
+  {
+    "id": "93b5d958-601a-46f3-a3af-c59b9c1138b8",
+    "content": "Pyic acid, an Omega-7 fatty acid, prevents beta cell apoptosis in insulin-producing cells, improving insulin utilization and reducing fat storage.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "92a0171e-c086-4562-8931-7febeb1a1513",
+    "content": "Studies indicate that Omega-7 fatty acids, particularly pyic acid, can reduce appetite by increasing the production of the satiety hormone kosyainin.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "200d0c34-2ed0-41ba-8df2-ce8236cb930e",
+    "content": "Consuming fatty fish provides both Omega-3 and Omega-7 fatty acids, potentially enhancing the effects of Omega-3 supplementation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "d0d0e676-b7f9-4dfd-9f35-8a7f42ef1fef",
+    "content": "Mendelian randomization offers clearer insights than epidemiology or randomized trials to date.",
+    "topics": [
+      "food science",
+      "nutrition",
+      "epidemiology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "336338a4-226a-48ec-9053-46e9e058becb",
+    "content": "Biddinger et al. found that all levels of alcohol exposure were associated with increased risk of cardiovascular diseases.",
+    "topics": [
+      "nutrition",
+      "alcohol",
+      "cardiovascular diseases"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e3910e86-c01b-4cb1-9430-849046f09a7a",
+    "content": "Each standard deviation increase in genetically predicted alcohol consumption was associated with a 30% higher risk of hypertension (OR=1.3; 95% CI: 1.2-1.4; P<0.001) over the ten-year follow-up.",
+    "topics": [
+      "nutrition",
+      "alcohol",
+      "hypertension"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8098917b-e814-4e3f-9de8-0bf4f51db734",
+    "content": "Even among the light drinking group, every one-drink per day increase in alcohol consumption was found to significantly raise risk of hypertension by 30% (OR=1.3; 95%CI: 1.1-1.5; P=0.003).",
+    "topics": [
+      "nutrition",
+      "alcohol",
+      "hypertension"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e8d51caf-8742-4bc0-a7dd-6948ed7eb9a6",
+    "content": "A person who drinks, say, three glasses of wine per day (21 drinks per week) can reduce their CAD risk by over two-thirds just by shifting to two glasses per day (14 drinks per week).",
+    "topics": [
+      "nutrition",
+      "alcohol",
+      "cardiovascular diseases"
+    ],
+    "embed": []
+  }
+]

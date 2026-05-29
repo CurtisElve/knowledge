@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "fdaed4cc-3663-4078-8f8b-1ea79a909830",
+    "content": "Spain has the highest risk reduction when adhering to the Spanish Mediterranean diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dedee736-3916-4227-a087-d1522b2a4ff2",
+    "content": "In Spain, the consumption of meat, fish, and eggs is higher compared to other Mediterranean regions.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

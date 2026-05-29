@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "54815eb1-e46a-4887-aa64-46fa7b670104",
+    "content": "Yogurt contains lactobacillus bulgaras, beneficial for lower digestive health and constipation.",
+    "topics": [
+      "Probiotics",
+      "Digestion",
+      "Nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9049e1a5-8e4c-4545-804b-40ddce28514b",
+    "content": "Miso soup contains aspergillus oryzae, good for the upper GI track and can help with ulcers and acid reflux.",
+    "topics": [
+      "Probiotics",
+      "Digestion",
+      "Nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "faa2b776-eace-4697-8ddf-d3f54b2938ca",
+    "content": "Sauerkraut contains lactobacillus plantarum, beneficial for the immune system and naturally abundant good bacteria.",
+    "topics": [
+      "Probiotics",
+      "Immune System",
+      "Nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8cd99c25-33e9-46f3-8f10-fb8edfb73533",
+    "content": "Kimchi contains lactobacillus plantarum and naturally occurring lactic acid bacteria in cabbage, beneficial for gut health and absorption of nutrients.",
+    "topics": [
+      "Probiotics",
+      "Gut Health",
+      "Nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f358c182-3827-4ebe-8542-faaed3889ae9",
+    "content": "Dark chocolate has probiotic effects and prebiotic effects, increasing lactobacilli and decreasing inflammation and C-reactive protein levels.",
+    "topics": [
+      "Probiotics",
+      "Inflammation",
+      "Nutrition"
+    ],
+    "embed": []
+  }
+]

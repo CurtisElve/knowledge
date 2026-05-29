@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "id": "bdd4c9cb-6455-4c37-ac66-220e2d662b29",
+    "content": "Forrest mentions that panic and anxiety are influenced by methylation factors, with rigidity favoring these conditions.",
+    "topics": [
+      "anxiety",
+      "methylation",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "77eff69d-7265-43ef-ac02-5d17f7024050",
+    "content": "Histamine is overactive in the brain, contributing to generalized anxiety and panic episodes when acutely elevated.",
+    "topics": [
+      "anxiety",
+      "histamine",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d9e9c2fa-3bfe-42ad-bbd6-3d52d3715a6c",
+    "content": "Methylation is crucial for minimizing histamine levels naturally, and it decreases the pool of tonic dopamine to promote mental flexibility.",
+    "topics": [
+      "methylation",
+      "dopamine",
+      "flexibility",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e3a06ce5-babf-4a8a-b4b4-5888c8b99721",
+    "content": "Vitamin A is important for mental health, and endocannabinoids derived from arachidonic acid can regulate dopamine metabolism favorably.",
+    "topics": [
+      "vitamin A",
+      "endocannabinoids",
+      "dopamine",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3d38329a-6483-43c9-b048-dc332e6a2514",
+    "content": "B12 is critical for mental health, and a balanced diet including meat, bones, and skin is recommended for vegetarians and vegans.",
+    "topics": [
+      "B12",
+      "diet",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a02fc414-1146-4c09-9ec7-925a7533448e",
+    "content": "Meditation and mindfulness techniques can help step outside of thoughts and become an observer rather than a victim.",
+    "topics": [
+      "mindfulness",
+      "meditation",
+      "anxiety",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3852bed9-a5d4-454f-a7e1-0aa8183889eb",
+    "content": "Therapy and understanding thought patterns can be beneficial for managing anxiety and panic disorders.",
+    "topics": [
+      "therapy",
+      "thought patterns",
+      "anxiety",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ef5d2f41-819a-4729-b28c-db2000685cca",
+    "content": "Supplemental GABA might be helpful for anxiety, as it decreases brain waves associated with anxiety and reduces the stress response to phobias.",
+    "topics": [
+      "GABA",
+      "anxiety",
+      "stress response",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "02ce3bce-2820-475c-abb9-33d3f041b457",
+    "content": "Avoiding triggers in panic disorder can lead to agoraphobia, and exposure therapy is recommended to prevent this.",
+    "topics": [
+      "agoraphobia",
+      "panic disorder",
+      "exposure therapy",
+      "nutrition"
+    ],
+    "embed": []
+  }
+]

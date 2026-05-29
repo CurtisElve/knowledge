@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "7af788fd-be16-4940-9860-e7e3c9a9d4b2",
+    "content": "Water retention occurs when sodium chloride, a liquid solution, creates an isotonic state in the body, causing water to be retained in tissues and under the skin.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "297d47fb-d7fc-4069-b2e9-3f5425b9bfa9",
+    "content": "Dandelion root extract increases urine production, leading to a 5% decrease in fluid retention according to a 2009 study in the Journal of Alternative and Complementary Medicine.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9d10a0aa-007c-4019-bc82-7a166af03133",
+    "content": "Magnesium helps balance sodium and potassium levels, with magnesium deficiency being common among Americans who consume an average of 3.5 grams of sodium daily.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cde274ac-aa04-4b82-968b-ee7d92f7b0f6",
+    "content": "Exercise, particularly active movements like swimming, mechanically moves fluid out of tissues and into the bloodstream, aiding kidney function and fluid excretion.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "86111b8e-e8b7-49b6-8dd1-6b1312c96c70",
+    "content": "Walking reduces fluid retention more effectively than hanging in the Trendelenburg position, with a 30% greater reduction in fluid retention observed in walkers compared to those in the Trendelenburg position.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  }
+]

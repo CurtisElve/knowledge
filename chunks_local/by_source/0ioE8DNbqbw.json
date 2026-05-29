@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "acb1a3af-9f09-4250-b00e-7a8861f03ab8",
+    "content": "It is easier to store dietary fat as fat than it is to store dietary carbs.",
+    "topics": [
+      "nutrition",
+      "dietary fats",
+      "dietary carbohydrates"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8ea9d840-1122-4d0d-92ec-5ef2c2cde352",
+    "content": "When eating excess calories, the effect of carbohydrates is to be used for energy instead of being converted to fat.",
+    "topics": [
+      "weight loss",
+      "caloric balance",
+      "ketogenic diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c3745c72-55ac-4e06-a977-cace7d24db76",
+    "content": "In metabolic ward studies, the advantage of a ketogenic diet over a higher carb diet is not consistently observed due to inaccuracies in self-reported dietary intake.",
+    "topics": [
+      "metabolic studies",
+      "ketogenic diet",
+      "caloric balance"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1f83c288-ce85-4f1b-aca3-0052e4678b56",
+    "content": "There might be a very small metabolic inefficiency on extremely low-carb diets, causing a slight caloric deficit, but this is not common and is very small.",
+    "topics": [
+      "ketogenic diet",
+      "metabolic inefficiency",
+      "caloric balance"
+    ],
+    "embed": []
+  },
+  {
+    "id": "920bb3e8-d76d-42c3-870f-6aa557178f58",
+    "content": "The main benefit of the ketogenic diet for weight loss is improved appetite regulation and sustainability of caloric deficit.",
+    "topics": [
+      "ketogenic diet",
+      "appetite regulation",
+      "sustainability"
+    ],
+    "embed": []
+  }
+]

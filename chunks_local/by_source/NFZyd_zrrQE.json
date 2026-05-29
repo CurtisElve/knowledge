@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "d0661681-b299-436a-9e3b-483f1b9edc3f",
+    "content": "Vitamin A must be converted to retinoic acid, which requires zinc and mitochondrial function.",
+    "topics": [
+      "nutrition",
+      "acne",
+      "vitamin_a",
+      "retinoic_acid",
+      "zinc",
+      "mitochondrial_function"
+    ],
+    "embed": []
+  },
+  {
+    "id": "10577152-84b3-467d-9676-7276a9fe83d4",
+    "content": "Retinoic acid suppresses overproduction of keratin and inflammatory signaling in acne.",
+    "topics": [
+      "acne",
+      "vitamin_a",
+      "retinoic_acid",
+      "keratin",
+      "inflammatory_signaling"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a59f4d87-efae-4bf7-b0de-28a57d3b9a11",
+    "content": "Mitochondria convert food to ATP, producing NAD+ from NADH, which activates vitamin A.",
+    "topics": [
+      "acne",
+      "mitochondrial_function",
+      "vitamin_a",
+      "NAD+",
+      "NADH",
+      "ATP"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ae138e49-65ef-41d0-b160-8975555a8d44",
+    "content": "Accutane is a synthetic form of retinoic acid used when mitochondrial function is insufficient.",
+    "topics": [
+      "acne",
+      "vitamin_a",
+      "retinoic_acid",
+      "Accutane",
+      "mitochondrial_function"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3446bbcb-3149-4b93-87ad-ae9817f61e93",
+    "content": "Zinc deficiency is hypothesized to be a major factor in acne development.",
+    "topics": [
+      "acne",
+      "zinc",
+      "mitochondrial_function",
+      "vitamin_a"
+    ],
+    "embed": []
+  },
+  {
+    "id": "351639e3-29de-4a47-b177-9a7d5bdc6e55",
+    "content": "Fatty acids contribute to acne by fueling the growth of C. acnes bacteria.",
+    "topics": [
+      "acne",
+      "fatty_acids",
+      "C_acnes",
+      "sebum",
+      "bacteria_growth"
+    ],
+    "embed": []
+  },
+  {
+    "id": "77c012e3-e391-4bde-912d-bde1e8bdf66f",
+    "content": "Dermatologists often prescribe tetracycline to treat acne, which can harm mitochondrial function.",
+    "topics": [
+      "acne",
+      "tetracycline",
+      "mitochondrial_function",
+      "C_acnes",
+      "skin_health"
+    ],
+    "embed": []
+  }
+]

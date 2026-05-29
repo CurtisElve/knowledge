@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "68975e3a-c9f6-44dd-a397-ab6d6f2aa4c5",
+    "content": "Boiling and steaming red peppers retain less minerals, vitamins, antioxidants, and phytonutrients compared to stir-frying, according to a 2012 study.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "vegetables"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f8fca5bd-411a-45eb-ba38-83c9a5919081",
+    "content": "Stir-frying retains more nutrients in red peppers than boiling or steaming due to higher heat exposure, which allows for faster cooking without significant nutrient loss.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "vegetables"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fa34d851-d9bb-4078-87ab-c71d7a19d0e0",
+    "content": "High-water soluble vitamins like Vitamin C and B are more likely to leach out during boiling and steaming, making these methods less effective for retaining these nutrients in soft vegetables such as broccoli.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "vegetables"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6e463383-cafa-4b50-bda5-b7a16b494daf",
+    "content": "For vegetables with high levels of fat-soluble vitamins (A, E, D, K), stir-frying is recommended as it helps retain these vitamins better than boiling or steaming, especially those with thick skins like carrots and beets.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "vegetables"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5a9dfec4-9a79-4348-9be4-2d86af051bdf",
+    "content": "Microwaving vegetables increases their bioavailability of antioxidants and nutrients compared to boiling, steaming, and stir-frying, according to a 2009 study published in the Journal of Food Science.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "microwave cooking"
+    ],
+    "embed": []
+  }
+]

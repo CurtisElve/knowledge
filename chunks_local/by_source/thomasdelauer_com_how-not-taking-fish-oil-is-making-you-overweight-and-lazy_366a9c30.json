@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "e7d5d954-bba1-4b0f-b63c-b0e103e2a077",
+    "content": "Our bodies thrive on a 1:2 ratio of omega 6 to omega 3 fatty acids.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4242bac6-a2b2-4f78-bbd0-7c37f9da40d0",
+    "content": "Most of us consume about a 17:1 ratio of omega 6 to omega 3.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ccadd1ce-c346-4bbc-9620-a7863fbb5c47",
+    "content": "Supplementation with fish oil will decrease your cortisol levels, plain and simple.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3e6c0801-e964-4e8b-b007-947a3a50c194",
+    "content": "Fish oil also is shown to suppress the lipogenic genes that are responsible for fat gain.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "0a7205a0-d0bb-4e1b-9c9e-500fb21461c9",
+    "content": "Supplements are just that, a supplement, and it is always best to try your hardest to get your vitamins and minerals from the diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

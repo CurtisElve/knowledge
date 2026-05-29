@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "id": "b7c0ec90-6adb-4688-b4f2-4f9bf3911b65",
+    "content": "Synthetic folic acid is different from natural food folate and requires metabolism that natural folates don't require.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "folate"
+    ],
+    "embed": []
+  },
+  {
+    "id": "242efb43-73c2-42fa-b3d5-e28c64b50ebe",
+    "content": "Folate deficiency and vitamin B12 deficiency can both cause macrocytic anemia, characterized by larger than normal red blood cells.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "folate",
+      "anemia"
+    ],
+    "embed": []
+  },
+  {
+    "id": "947b5a9b-b531-437b-8825-45595152307b",
+    "content": "Methylated folate supports red blood cell development, while natural food folate is predominantly in the unmethylated form.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "folate",
+      "red blood cells"
+    ],
+    "embed": []
+  },
+  {
+    "id": "eff90380-e2de-4acc-9848-5058190f7163",
+    "content": "Synthetic folic acid is less likely to cause folate deficiency anemia if B12 status is adequate, as B12 can methylate folate.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "folate",
+      "anemia",
+      "B12"
+    ],
+    "embed": []
+  },
+  {
+    "id": "515d960c-2727-4b66-a9aa-22b3f0aa41fb",
+    "content": "Synthetic folic acid is more stable and easier to digest compared to natural food folates, leading to higher bioavailability.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "folate",
+      "bioavailability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d063abb1-a445-40ec-a1fa-6c6f85698b52",
+    "content": "Eating refined grains or taking synthetic folic acid supplements can mask folate deficiency symptoms if B12 status is low.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "folate",
+      "anemia",
+      "B12"
+    ],
+    "embed": []
+  }
+]

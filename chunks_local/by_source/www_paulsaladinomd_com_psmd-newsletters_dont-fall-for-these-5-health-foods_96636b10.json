@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "2609fdb5-190a-43bf-b836-651ed466bf99",
+    "content": "Spinach and kale contain high levels of oxalates, which can form calcium oxalate kidney stones in sensitive individuals, with spinach dumping 500-1,000 mg per serving.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "kidney health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bf05a59c-fd98-4cef-97f3-a660c4845641",
+    "content": "Kale is a hyperaccumulator of thallium, a toxic heavy metal, with research showing kale samples containing up to 17.1 mg/kg of thallium.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "heavy metals"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a16b713c-52ec-43a2-8b0f-0b714b3a88eb",
+    "content": "Organic kale often has higher heavy metal levels than conventional kale, highlighting a potential health risk associated with certain 'superfoods'.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "organic vs conventional"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7c1f2d98-1a03-41bd-97e5-9657cfd36e27",
+    "content": "Spinach and kale are rich in saponins, phytates, and protease inhibitors, which can block nutrient absorption and irritate the gut, making them difficult to digest.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "digestive health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fa3f12ea-56a6-4088-8908-36d49aa62667",
+    "content": "Store-bought sourdough often contains additives like seed oils, preservatives, and sugar, deviating from the traditional three-ingredient recipe of flour, water, and salt.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "processed foods"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bbdd1d31-b0a3-431a-b30f-8b9355461ce2",
+    "content": "Manuka honey, marketed as a premium, medicinal honey, was found to contain glyphosate, a toxic herbicide, due to contamination from nearby conventional farming areas.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "honey contamination"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cf1c3abb-182e-4424-9fd5-315598fbd498",
+    "content": "Avocado oil, despite being better than seed oils, is still high in linoleic acid, which can oxidize when heated, leading to potential health risks. Some avocado oil samples were found to be so oxidized they should not have been sold as food.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "cooking oils"
+    ],
+    "embed": []
+  }
+]

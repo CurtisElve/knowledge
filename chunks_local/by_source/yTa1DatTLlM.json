@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "a68ca922-39ae-4668-8401-f023bffb0bc6",
+    "content": "To prevent oxalate absorption, Chris recommends consuming 3 to 400 mg of calcium per meal.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "calcium absorption",
+      "oxalate"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dc037a9a-3e57-4163-b975-1ad663f9b957",
+    "content": "Calcium binds to oxalate in the intestines, preventing its absorption into the bloodstream.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "calcium binding",
+      "oxalate"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5b8a853f-983e-4456-9a4b-356c7a045e9c",
+    "content": "Chris suggests maintaining urine pH between 6.4 and 6.8 to prevent calcium oxalate crystallization.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "urine pH",
+      "calcium oxalate"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c110c98f-af5d-4e9b-a4dc-06cc61620047",
+    "content": "Good alkalinizing foods include potassium salts, such as potassium citrate or malate, which can help maintain urine pH.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "alkalinity",
+      "potassium salts"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fece855d-8438-4f88-b0f3-194707e5443c",
+    "content": "Sodium bicarbonate can increase urine pH, but it is considered a temporary measure due to potential digestion issues.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "sodium bicarbonate",
+      "urine pH"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8c95a317-e607-4004-8557-d42c8219877d",
+    "content": "Chris recommends getting potassium from food sources as the best long-term solution for alkalinizing urine.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "potassium intake",
+      "alkalinity"
+    ],
+    "embed": []
+  }
+]

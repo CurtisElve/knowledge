@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "3a11b3e8-12c7-4201-b999-18e1840d46bd",
+    "content": "Strawberries are low glycemic and can reduce inflammation by lowering inflammatory mediators and insulin levels.",
+    "topics": [
+      "berries",
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ebd99a7c-d5c1-4c9e-98c3-6de7649b8ec8",
+    "content": "Sea Buckthorn berries contain Omega-7 fatty acids, which help reduce inflammation and improve insulin sensitivity.",
+    "topics": [
+      "berries",
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "18ae9f7f-45e2-41d9-b90f-42d95ab84bd0",
+    "content": "Black chokeberry contains finic compounds that help remove excess metals from the body, including iron and mercury.",
+    "topics": [
+      "berries",
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

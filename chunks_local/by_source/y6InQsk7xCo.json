@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": "0c2f310f-c557-4a01-917f-39d1c08c3835",
+    "content": "The Randle Cycle describes how mixed diets can lead to elevated fatty acids or glucose, causing hyperglycemia and increased insulin requirements.",
+    "topics": [
+      "Randle Cycle",
+      "Metabolism",
+      "Diabetes"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c2df1133-272a-44a2-a7e7-2bcee99bc379",
+    "content": "For Steven, a balanced diet with 30% protein, 30% fat, and 40% carbohydrates feels best, while Chris suggests adding fats to foods like potatoes.",
+    "topics": [
+      "Diet Composition",
+      "Nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5bc005a9-554c-4663-868a-5ca4e57f9558",
+    "content": "Chris argues that the Randle Cycle does not directly cause obesity, but rather highlights substrate competition and insulin response, which can contribute to hyperglycemia.",
+    "topics": [
+      "Randle Cycle",
+      "Obesity",
+      "Insulin Response"
+    ],
+    "embed": []
+  },
+  {
+    "id": "14336d2f-38c3-4cb4-b316-903c73c61ab9",
+    "content": "Both Steven and Chris emphasize that the primary cause of obesity is consuming too many calories, not the Randle Cycle or the glycemic response.",
+    "topics": [
+      "Obesity Causes",
+      "Caloric Balance",
+      "Behavioral Modifications"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bb283718-aece-4827-97c8-b2a6d5dd987b",
+    "content": "Hyperpalatable foods leverage the principles of combining flavors, textures, and ratios to enhance consumption, unlike a balanced diet with moderate fat and carbohydrate percentages.",
+    "topics": [
+      "Hyperpalatable Foods",
+      "Food Science",
+      "Behavioral Aspects of Eating"
+    ],
+    "embed": []
+  }
+]

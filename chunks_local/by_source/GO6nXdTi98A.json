@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "6f76392e-f84f-4ef3-bfca-af72609a9ccf",
+    "content": "Acetaminophen (e.g., Tylenol) is metabolized into n-acetyl-p-benzoquinone, which is toxic to the liver and requires glutathione to neutralize; excessive intake can lead to liver cell death and fibrosis.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "liver"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b2ed2a65-016f-494d-b75c-2ebd7611a61a",
+    "content": "Alcohol consumption converts into acetaldehyde, which the liver must metabolize; excessive alcohol leads to insufficient glutathione production, resulting in cell death and fibrosis.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "liver"
+    ],
+    "embed": []
+  },
+  {
+    "id": "845b5b60-68dc-4be9-a8dd-ad0d89fc1178",
+    "content": "Smoking increases free radicals in the liver, leading to fibrosis and impaired liver function; the liver's regeneration occurs during sleep, and lack of sleep impairs this process.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "liver"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9b475eb5-2261-4f36-bd13-5c82a693f2bf",
+    "content": "Curcumin, found in turmeric, promotes liver cell apoptosis and increases glutathione levels, helping to protect against liver damage and oxidative stress.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "liver"
+    ],
+    "embed": []
+  }
+]

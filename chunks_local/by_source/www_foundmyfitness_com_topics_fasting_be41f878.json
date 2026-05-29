@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "b64f531d-eb0a-4cea-9443-77df2be9c349",
+    "content": "Intermittent fasting means different things to different people, even among the research community.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "023c4911-5876-4c39-bd53-209fb65ce1f1",
+    "content": "Periodic or prolonged fasting (multi-day), often referred to as intermittent, can induce a unique set of metabolic events, such as more profound ketosis.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "af981d73-6dbc-48f8-955b-387e4cc7c035",
+    "content": "A typical periodic fast in the research setting lasts between 48 and 96 hours.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dfd3e90c-709b-4cf9-878f-6aa53b7d32ca",
+    "content": "Calorie reductions during fasting can lead to significant weight loss, as seen in the study where the IMF group lost 7.7 kg compared to 4.8 kg for the DCR group.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "667f057a-1eb9-4c89-9889-975cf0bfc764",
+    "content": "Both IMF and DCR increased HDL cholesterol similarly (+2.69 mg/dL for IMF and +2.77 mg/dL for DCR).",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f59e4e38-4391-4a84-b773-d64d5a02b536",
+    "content": "Long overnight fasts, creating a long period without eating, have been associated with increased risk for cardiovascular disease in some studies.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

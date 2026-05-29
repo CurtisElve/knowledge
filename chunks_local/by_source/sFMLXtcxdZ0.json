@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "373eb5bb-0d94-43fd-a5ac-002b2a0d6934",
+    "content": "High stomach acid levels can lead to acid reflux, bloating, and digestive issues.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "digestion"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8ad0a024-dea0-44d6-b1da-ef166eb9da71",
+    "content": "Lack of sleep can cause excess acid production due to increased noradrenaline release.",
+    "topics": [
+      "nutrition",
+      "sleep",
+      "stress",
+      "digestion"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8a038665-c6cd-498c-b381-2380f1c6d233",
+    "content": "Stress reduces mucus production in the stomach, making it more susceptible to acid burn.",
+    "topics": [
+      "nutrition",
+      "stress",
+      "digestion"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fbfc35ea-b4e9-4bad-aac2-a620ab77e7fd",
+    "content": "Red split lentils are recommended as they have a calming effect on the stomach.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "digestion"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7a6e47a2-946e-462e-8967-3bb8148bfc3b",
+    "content": "Parsley is suggested as a digestive aid that neutralizes stomach acid.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "digestion"
+    ],
+    "embed": []
+  }
+]

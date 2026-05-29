@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "8c5dde20-7487-4afb-adac-8f93a345eb17",
+    "content": "Sugar alcohols are neither sugars nor alcohols but a hybrid known as polyols, containing calories per gram.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6556dc2e-fb91-4c64-8eb6-301bb0d77be1",
+    "content": "Sugar alcohols, such as erythritol, sorbitol, and xylitol, are derived from cornstarch and are often found in low-carb products.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5cc83fc6-e6ed-4419-abfb-6a587158fb92",
+    "content": "Sugar alcohols have a lower carbohydrate profile compared to traditional carbohydrates, but they still affect the body's metabolism.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b644df12-5dcc-4a88-8cfc-a1372ee124de",
+    "content": "Incomplete absorption of sugar alcohols can lead to a spike in blood sugar levels and insulin response, potentially disrupting ketosis in individuals following a ketogenic diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6555b486-35e7-4155-bac5-2ea8b5c13d0d",
+    "content": "Consuming sugar alcohols can cause fermentation in the gut, leading to bloating and diarrhea due to their inability to be fully absorbed by the small intestine.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "2e444ce9-76ef-4cb5-bc57-6b1c5831803a",
+    "content": "Some anecdotal reports suggest creatine may cause insomnia, though this is uncommon.",
+    "topics": [
+      "creatine",
+      "side_effects"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3dea0b6d-599a-4759-9b16-7c1686b12230",
+    "content": "For individuals with methylation issues, creatine can reduce the demand for methylation.",
+    "topics": [
+      "creatine",
+      "health_impact"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4b1e5439-15f8-4b7b-9853-f7f968b4d384",
+    "content": "Creatine is primarily beneficial for increasing strength, muscle mass, and athletic performance.",
+    "topics": [
+      "creatine",
+      "benefits"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7315e23c-5653-4b57-8a49-983bbc42ff42",
+    "content": "Most people respond positively to creatine supplementation, experiencing increased strength, hypertrophy, and performance without significant downsides.",
+    "topics": [
+      "creatine",
+      "effectiveness"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "0bf87a93-06d7-4e17-b3f8-4aa8ea2a3a4d",
+    "content": "A non-alcoholic fatty liver is characterized by excess triglycerides and fat in the liver, leading to a fatty liver.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e2b88589-db02-457c-832c-821948ee121f",
+    "content": "De novo lipogenesis is triggered by excessive carbohydrate consumption, particularly fructose, which is converted into fat in the liver.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cf295aec-aa9c-4b74-84d2-a1f781e31da2",
+    "content": "The ketogenic diet reduces intrahepatic triglycerides, decreasing the amount of triglycerides in the liver that can be converted into free fatty acids.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5ef09277-1b59-4946-a3f5-cdbe723ded26",
+    "content": "A study published in the Journal of Digestive Diseases Science found that a low-carb diets, including a ketogenic diet, led to histologic improvements in fatty liver conditions.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "41a039ad-4f57-444d-9c08-e972a91cfecb",
+    "content": "The study hypothesizes that the improvement in fatty liver conditions is due to reduced fasting glucose and insulin levels, enhancing insulin sensitivity and glucose levels.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "afbb2a52-5386-4c1c-ad19-3b7c1a330ed3",
+    "content": "Reducing insulin sensitivity and lowering glucose levels decreases the likelihood of de novo lipogenesis, thus reducing the risk of fatty liver conditions.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  }
+]

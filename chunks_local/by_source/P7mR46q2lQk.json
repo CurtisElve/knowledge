@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "3fe95f58-b621-45aa-bfd1-6151fbd400b7",
+    "content": "Tribulus is derived from ancient Chinese, Indian, and Greek herbs and has been used for centuries to balance hormones, including increasing DHT and DHEA.",
+    "topics": [
+      "nutrition",
+      "hormones",
+      "testosterone"
+    ],
+    "embed": []
+  },
+  {
+    "id": "93b71d1a-2914-4ddd-bb48-283e14610db7",
+    "content": "Protodioscin, an active component in Tribulus, helps increase bioavailable free testosterone levels by separating molecules that allow testosterone to be usable.",
+    "topics": [
+      "nutrition",
+      "hormones",
+      "testosterone"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b24b7031-4510-41b9-876f-90947d3b220c",
+    "content": "Maca root is a hormone modulator that works across all endocrine glands, balancing adrenal, thyroid, and testosterone functions, and modulating estrogen.",
+    "topics": [
+      "nutrition",
+      "hormones",
+      "endocrine"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bcbe10e0-e8da-4070-bc80-9782563e805a",
+    "content": "Dimethylated indole-3-carbinol (dim) is a concentrated form of estrogen modulators found in cruciferous vegetables, specifically targeting 16-hydroxyestradiol and supporting 2-hydroxyestradiol.",
+    "topics": [
+      "nutrition",
+      "hormones",
+      "estrogen"
+    ],
+    "embed": []
+  }
+]

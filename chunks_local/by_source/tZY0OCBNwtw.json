@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "e987562f-a703-4d66-8036-cf02f0d4e448",
+    "content": "Vitamin A is found in two forms: the plant form in red, orange, yellow, and green vegetables, and the animal form in liver and cod liver oil.",
+    "topics": [
+      "vitamin_a",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7dd28937-79e7-4949-b0ce-b806b097fb80",
+    "content": "Signs and symptoms of vitamin A deficiency include poor night vision, dry eyes, and hyperkeratosis, which can manifest as crustiness around hair follicles or bumps on the skin.",
+    "topics": [
+      "vitamin_a",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4a0f9d88-9ee3-49d8-81a1-2e701f2f19f0",
+    "content": "Vitamin A deficiency is associated with poor immune function, increased susceptibility to infections, and other conditions such as kidney stones, disrupted circadian rhythms, and autoimmune disorders.",
+    "topics": [
+      "vitamin_a",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "acb75e9d-4058-4832-b157-4b5df98248e9",
+    "content": "To monitor vitamin A status, serum vitamin A levels can be measured using tests offered by LabCorp, Quest, and Genova, with a desirable range near the middle of the test results.",
+    "topics": [
+      "vitamin_a",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9046103c-fb44-458a-b501-9fd6b673aa51",
+    "content": "Supplementation with vitamin A is recommended for those with a diet low in red, orange, yellow, and green vegetables, especially if they lack liver and cod liver oil.",
+    "topics": [
+      "vitamin_a",
+      "nutrition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "532ffd0b-096e-4857-b1f9-95acbdb024a1",
+    "content": "Vitamin A supplementation should be limited to 10,000 IU per day over several weeks or a couple of months, with higher doses potentially leading to toxicity symptoms such as nausea, vomiting, and headache.",
+    "topics": [
+      "vitamin_a",
+      "nutrition"
+    ],
+    "embed": []
+  }
+]

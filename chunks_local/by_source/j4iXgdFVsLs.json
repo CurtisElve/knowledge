@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "eebc6ec1-bb0b-4775-9a0c-a680c20fca15",
+    "content": "Sodium attracts water, causing the blood volume to expand and potentially raising blood pressure.",
+    "topics": [
+      "nutrition",
+      "blood pressure",
+      "salt"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d810cc87-b089-411a-a956-680ea153675f",
+    "content": "Only 2% of Americans meet the recommended daily allowance (RDA) of 5 grams of potassium.",
+    "topics": [
+      "nutrition",
+      "blood pressure",
+      "potassium"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ecded703-962b-4888-8a29-9c670db6d22b",
+    "content": "Historically, ancestral diets were high in potassium and low in sodium due to a lack of refined foods.",
+    "topics": [
+      "nutrition",
+      "blood pressure",
+      "diet history"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b9c2aa8a-dfa2-4481-b160-331f94291472",
+    "content": "Maintaining a healthy body composition, avoiding excess alcohol, and managing stress are important for blood pressure control.",
+    "topics": [
+      "nutrition",
+      "blood pressure",
+      "lifestyle"
+    ],
+    "embed": []
+  }
+]

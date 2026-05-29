@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "id": "a324ba44-09b4-4e3e-8a93-b3f4b8af8cad",
+    "content": "Polyunsaturated fats, found in modern vegetable oils like soybean oil, can accumulate in the body over four years.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "16a5047e-425e-4763-a736-e94185dcc783",
+    "content": "Switching from soybean oil to coconut oil can reduce polyunsaturated fat levels in the body within four years.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dd48cfbd-5458-45b8-b2e8-43ac7c1442b3",
+    "content": "After switching from a high PUFA diet to a traditional fat diet, vitamin E requirements may remain elevated for up to four years.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "76d37acf-c4ec-405e-baf1-1ce89988d2cf",
+    "content": "To maintain adequate vitamin E levels while reducing PUFA intake, consuming 4 tablespoons of palm oil per day is recommended.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e5fd1740-ea2e-4043-9dcb-e5208768d0e2",
+    "content": "A low-dose vitamin E supplement, such as Jarrow Formulas Toco-Sorb, containing 19 IU of alpha-tocopherol, is recommended for those transitioning from a high PUFA diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  }
+]

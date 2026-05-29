@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "2b6a1c63-97f5-4880-b1d2-1b5afff8c6b0",
+    "content": "In controlled studies, creatine supplementation significantly improved memory tasks in vegetarians and vegans, including working memory and number recall.",
+    "topics": [
+      "creatine supplementation",
+      "vegetarians",
+      "vegans",
+      "memory improvement"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fc15b4e1-a5ce-49b4-82b8-514334fc503e",
+    "content": "Creatine supplementation increased brain creatine levels, leading to better cognitive performance in vegetarians compared to non-supplemented individuals.",
+    "topics": [
+      "creatin supplementation",
+      "cognitive performance",
+      "brain function"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5bc4115a-2bb8-4710-88c4-b0ac30e43318",
+    "content": "The mechanism of creatine supplementation involves facilitating the recycling of ATP in brain tissue, thereby increasing energy availability and cognitive function.",
+    "topics": [
+      "creatin supplementation",
+      "brain tissue",
+      "energy availability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "daa798c9-24c7-40c9-8a3f-6c7045f06212",
+    "content": "In vitro studies show that creatine elevates phosphocreatine and ATP levels, enhancing oxidative phosphorylation and overall brain energy.",
+    "topics": [
+      "in vitro studies",
+      "oxidative phosphorylation",
+      "brain energy"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2676dda7-71a1-47ca-86d8-78b7c4a1c71b",
+    "content": "For optimal cognitive benefits, a minimum daily dose of 5 grams of creatine is recommended, equivalent to consuming about 2.2 pounds of meat daily.",
+    "topics": [
+      "daily dose",
+      "creatin supplementation",
+      "cognitive benefits"
+    ],
+    "embed": []
+  },
+  {
+    "id": "71a65711-e667-43dc-a38f-9d6faaafae38",
+    "content": "Higher doses of creatine, such as 10 or 20 grams per day, have been found to be beneficial, especially in a stressful environment where sleep quality may be compromised.",
+    "topics": [
+      "higher doses",
+      "creatin supplementation",
+      "stressful environments"
+    ],
+    "embed": []
+  }
+]

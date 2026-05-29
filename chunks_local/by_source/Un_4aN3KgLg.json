@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "a95ba6ab-e361-4bee-8df6-269345a149f0",
+    "content": "Measuring waist circumference is recommended during times of weight loss or muscle gain as a proxy for body fat.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "aac5b61c-50b4-4784-85ab-d389eab5f0de",
+    "content": "Waist circumference is impacted by abdominal fat, undigested food, transit time, fiber intake, and water retention.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1953606f-1035-40da-851a-602d21e83268",
+    "content": "To measure waist circumference accurately, it should be taken at a consistent time since the last meal.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fd694c87-c8ff-4f46-bdd6-f6376248aec9",
+    "content": "Transitioning to a higher fiber diet can temporarily increase waist circumference due to slower transit time.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "91ca0e52-82d5-47f9-969e-6f9668b3388b",
+    "content": "Waist circumference may not reflect weight loss if hormonal factors influence water retention, such as during a woman's menstrual cycle.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7c2a1fd9-d2a7-4a46-b205-49c7519f53d5",
+    "content": "Waist circumference can be a useful metric if it declines logically with weight loss and does not show erratic behavior.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "161e3d67-2a59-4771-aeed-0cf88c6bc810",
+    "content": "Digestive processes require significant blood flow, diverting 80% away from organs during exercise.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1e26eaf7-68fd-40f3-a692-7eefff5f4e06",
+    "content": "Intestinal permeability caused by minimal blood flow can result in exercise-induced anaphylaxis.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "817d204b-1bd7-42ce-a42e-b4182d2018c6",
+    "content": "A study found that 52% of Iron Man triathletes who felt nauseous consumed food prior to their race.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "exercise"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8c6e543f-7217-4814-a22a-63206c68e7dd",
+    "content": "Hypertonic beverages have a higher osmotic pressure than bodily fluid and can cause nausea.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "exercise"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d424bca2-c9c0-4a3f-9c60-718b2ad0b00c",
+    "content": "Hypotonic beverages have a lower osmotic pressure than bodily fluid and absorb quickly.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "exercise"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3e21c2dc-c7a6-4a56-9a2b-0a3dad2ccab1",
+    "content": "Isotonic beverages have an osmotic pressure similar to bodily fluid and absorb at a similar rate.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "exercise"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6d6e5bc6-556f-4496-8c0d-20c4f8de45ec",
+    "content": "Consuming isotonic or hypotonic drinks can prevent nausea during exercise.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "exercise"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5dfb5183-3a9f-4485-b70c-7424d777518c",
+    "content": "Omega-3s require mechanical digestion and may not be fully absorbed if consumed close to exercise.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4baf4338-7a4d-45c8-82c6-d329451cd2ff",
+    "content": "Fruits and vegetables are hard to break down and may not be used as fuel during exercise.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "66be4a22-99b2-41e5-be78-0597ff98eb9e",
+    "content": "Protein should be fast-absorbing like whey or PE protein.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

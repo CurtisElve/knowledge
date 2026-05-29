@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "655365d0-3a11-4ca6-b6d7-eba86074fc15",
+    "content": "When you're hungry, the hypothalamus releases neuropeptide Y and agouti, which trigger electrical impulses in the brain to make you feel hungry.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6b0c8b27-b971-4005-8e58-b4f7757b7502",
+    "content": "Neuropeptide Y and agouti are released by the hypothalamus and travel to the brain to trigger electrical impulses that make you feel hungry.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dd8cf31f-f728-42dc-8fd3-cf5b486642f5",
+    "content": "Leptin is a hormone produced by fat cells and it triggers your body to stop being hungry. The more fat you have, the less hungry you are.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2320adf8-aaac-4f8f-8af0-6547ed933e6b",
+    "content": "Cholecystokinin (CCK) is a hormone produced in the upper portion of the small intestine and it tells your brain to stop eating. It works as a counter to the hunger hormone Grayling.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "efe9cea8-5470-4fa9-a449-e2349763a163",
+    "content": "Insulin is a hormone produced by the pancreas and it obviously is going to cause you to have these blood sugar rises and falls that can trigger other actions on the hypothalamus.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4f7f1cfb-b96a-410c-824b-6f49dfd3e8f5",
+    "content": "Dopamine is a neurotransmitter that allows us to feel good. When dopamine receptors are deactivated, it eliminates the ability to balance out and you're being one-sided.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience"
+    ],
+    "embed": []
+  }
+]

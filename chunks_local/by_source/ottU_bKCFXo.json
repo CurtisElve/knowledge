@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "id": "4dc71385-9058-4b4a-9085-f0a4ef125229",
+    "content": "Monosodium glutamate (MSG) is formed when sodium is added to naturally occurring glutamate found in foods like parmesan, tomatoes, peas, and mushrooms.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "408a6a3a-7e0a-4e5e-8a07-29cbd328c032",
+    "content": "MSG increases the umami taste sensation by activating different taste buds and triggering neural responses in the brain.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7e1a9729-6321-4495-8121-30226c54cf9e",
+    "content": "MSG consumption can mask poor quality or spoiled food, potentially leading to health issues if ingested in large quantities.",
+    "topics": [
+      "nutrition",
+      "food safety"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5380c025-1cdf-43fe-acb2-e73ad6dd20d7",
+    "content": "A study on mice found that high doses of MSG led to brain cell swelling and death, suggesting potential negative effects on the brain.",
+    "topics": [
+      "nutrition",
+      "food safety",
+      "research"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ab1d4ad4-2237-4c54-9dd4-049b86c51895",
+    "content": "Vitamin C, particularly in high doses, has been suggested to help counteract the adverse effects of MSG, such as numbness and dizziness.",
+    "topics": [
+      "nutrition",
+      "food safety"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5deef088-295d-4b31-9e19-06e54b0a9a66",
+    "content": "Drinking plenty of water is recommended to prevent MSG-induced water retention, though sodium in general is typically responsible for water retention.",
+    "topics": [
+      "nutrition",
+      "food safety"
+    ],
+    "embed": []
+  }
+]

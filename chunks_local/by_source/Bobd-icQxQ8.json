@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": "ade06a57-6e16-4956-935b-bc62b943b06a",
+    "content": "To lower cholesterol, losing weight is the best approach for those who are overweight or obese; use a BMI calculator to assess weight status.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "79cd9e84-7460-443b-a9f7-e359aba7a6ae",
+    "content": "Addressing inflammation involves managing body composition through regular exercise, quitting smoking, and reducing intake of refined foods; high sensitivity C-reactive protein (hs-CRP) levels over 1 indicate inflammation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "healthcare"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6f64d07d-482d-4a3a-bc84-5a8c2810ede2",
+    "content": "Checking thyroid status is important; a full thyroid panel including TSH, free and total thyroid hormones, reverse T3, and antithyroid antibodies should be utilized by a knowledgeable healthcare provider.",
+    "topics": [
+      "nutrition",
+      "endocrinology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cc53fd43-bed7-442e-a766-08dcd80555a5",
+    "content": "Increasing dietary fiber through unrefined plant foods is beneficial; aim to consume more unprocessed plant-based foods to enhance fiber intake.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f463ea8d-48e9-4b15-91c8-b4e3f772ffb0",
+    "content": "Replacing fat with carbohydrate can help lower cholesterol; test this approach if your cholesterol is very high and you are consuming a high-fat, low-carbohydrate diet.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  }
+]

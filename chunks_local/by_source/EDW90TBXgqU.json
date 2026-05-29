@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "2ed36cc7-1a8a-4ba2-b33f-0ec464321834",
+    "content": "Sugar alcohols are not sugars or alcohols but a hybrid that is not fully digested by the body, yielding 1 to 3 calories per gram.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "74289615-2dc7-4c92-a61e-818cf986fe53",
+    "content": "Fiber is a carbohydrate that passes through the colon partially undigested and can ferment, producing short-chain fatty acids with a caloric impact of approximately 2 calories per gram.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6bb890bd-3e94-40a2-a684-6c826f5eecc8",
+    "content": "Starchy vegetables like zucchini, peas, and corn can affect blood sugar due to their starch content, which expands when heated, converting into individual glucose molecules that the body breaks down quickly.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  }
+]

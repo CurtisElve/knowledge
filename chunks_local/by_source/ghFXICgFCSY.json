@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "cf7d7193-cd50-4f47-b47c-d462b0879bb2",
+    "content": "Processed foods are loaded with refined carbohydrates, which eliminate most nutrients during refinement, leading to an empty carbohydrate state that stimulates insulin production and causes a spike in blood sugar.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ae1e7884-3068-4b59-b635-935db343c924",
+    "content": "High fructose corn syrup in processed foods is more than just sugar; it is genetically modified and lacks nutritional value, potentially causing inflammation in the gut and affecting nutrient absorption.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "96a32a94-0d92-4e99-947c-91d7411ba9f6",
+    "content": "Processed foods often contain MSG and other additives that create a hyper-reward sensation in the body, making consumers more likely to overeat and experience negative health effects such as fatigue and brain fog.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5ef37053-59fe-4b0f-8c3b-02301cef6bce",
+    "content": "Artificial ingredients in processed foods are treated by the body as foreign objects, triggering an immune response that can lower resistance and make the body more susceptible to illness.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3fd0db55-cb31-4911-bfad-3f58c9029220",
+    "content": "Processed foods have addictive properties due to their ability to trigger dopamine responses in the brain, leading to cravings and addiction, despite the negative impact on health.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

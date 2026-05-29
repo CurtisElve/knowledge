@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "1cb039bd-bf8e-475d-9926-15c6b5be121e",
+    "content": "Eating every two or three hours is considered a flat-out myth for boosting metabolism.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1e7b2fff-ebfe-46bc-91b7-1202df9cd32c",
+    "content": "When we eat constantly, our bodies do not have the opportunity to utilize stored energy sources like body fat.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "049ca2c5-4951-4729-a6dc-6fb6da9311d1",
+    "content": "Eating frequently leads to constant insulin secretion, which inhibits fat burning and slows enzyme activity.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fce6e38d-f430-4393-8c8e-562b7e14c093",
+    "content": "Insulin is secreted by the pancreas regardless of whether carbohydrates or proteins are consumed.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c330d15a-f401-4e5a-b3f0-690398a0f22c",
+    "content": "Elevated insulin levels can cause the pancreas to become lazy and less efficient over time, potentially leading to diabetes.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "94d98236-15f6-41fe-8cf5-5a336ad2fd20",
+    "content": "The thermic effect of food is not increased by eating frequently; it depends on the quantity of food consumed.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  }
+]

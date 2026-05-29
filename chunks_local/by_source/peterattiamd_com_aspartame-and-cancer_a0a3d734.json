@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "8b6fcd02-27c1-40a9-9a3e-cd04a856a08e",
+    "content": "The International Agency for Research on Cancer (IARC) classified aspartame as 'possibly carcinogenic,' placing it in the second-to-lowest tier of classification.",
+    "topics": [
+      "supplements",
+      "food safety",
+      "cancer"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4c450d94-baac-4cbe-8c80-e0578224d5cc",
+    "content": "The IARC's classification was based on limited mechanistic evidence, limited evidence from animal studies, and limited evidence from human data, particularly concerning liver cancer.",
+    "topics": [
+      "supplements",
+      "food safety",
+      "cancer"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7b63b8aa-f981-4b42-9413-6875aeb3781e",
+    "content": "Animal studies by the Ramazzini Institute involved aspartame doses exceeding the FDA's acceptable daily intake (ADI) for humans, even when accounting for metabolic scaling.",
+    "topics": [
+      "supplements",
+      "food safety",
+      "animal studies"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7eff4241-38ae-43b7-a49d-ca22cd92a1e7",
+    "content": "Studies by the Ramazzini Institute involved aspartame exposure while in utero and throughout the entire lifespan, raising concerns about potential carcinogenicity secondary to other impacts on key stages of early development.",
+    "topics": [
+      "supplements",
+      "food",
+      "animal studies"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ec788c8a-6724-49d4-b503-22ce536d4d17",
+    "content": "The FDA's acceptable daily intake (ADI) for aspartame is 50 mg/kg of body weight, corresponding to approximately twenty 2 122-oz cans of diet soda soda every day.",
+    "topics": [
+      "supplements",
+      "food",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "08171880-e345-49c3-ba22-c91c2015275c",
+    "content": "The Ramazzini Institute's studies did not account for overall animal health and welfare, and other scientists and organizations have repeatedly called out poor quality control and animal practices.",
+    "topics": [
+      "supplements",
+      "food",
+      "animal studies"
+    ],
+    "embed": []
+  }
+]

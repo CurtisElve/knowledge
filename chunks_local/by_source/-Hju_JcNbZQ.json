@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "e4990243-57cf-46d5-b772-730c786eb263",
+    "content": "Your ability to derive vitamin A from plant foods can be impacted by genetic variations, specifically mutations in the BCO1 gene.",
+    "topics": [
+      "vitamin A",
+      "genetics",
+      "food sources",
+      "conversion efficiency"
+    ],
+    "embed": []
+  },
+  {
+    "id": "253ade0a-1fe4-4fbf-ad41-a2fead18a830",
+    "content": "Dr. Chris Masterjohn reports being heterozygous for two mutations in the BCO1 gene, reducing his ability to convert carotenoids to retinol by 25%.",
+    "topics": [
+      "vitamin A",
+      "genetics",
+      "individual variation",
+      "conversion efficiency"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7b78c5fa-2758-4938-a611-308062493524",
+    "content": "To compensate for genetic limitations, individuals may need to consume 3 to 5,000 IU of retinol per day, primarily through liver intake or cod liver oil.",
+    "topics": [
+      "vitamin A",
+      "dietary sources",
+      "dosage recommendations",
+      "genetic adaptation"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3e6fb9e6-4ff4-4e3a-9777-e67810a7cc7c",
+    "content": "Other factors affecting vitamin A conversion include digestive issues, nutrient deficiencies, insufficient dietary fat, and certain health conditions such as thyroid problems.",
+    "topics": [
+      "vitamin A",
+      "dietary factors",
+      "health impacts",
+      "conversion efficiency"
+    ],
+    "embed": []
+  }
+]

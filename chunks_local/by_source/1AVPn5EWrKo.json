@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "96bdfd25-a558-41b6-bbdd-f617671dc7ad",
+    "content": "Cutting out processed junk food can lead to weight loss regardless of current weight.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1296b21f-b185-44da-87e9-f9d7d72cf167",
+    "content": "Individuals with blood sugar problems or insulin resistance may benefit from a low-carb diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "553a2d6f-0429-46a9-9649-8836bac50c72",
+    "content": "Choosing a dietary approach based on personal preferences can help reduce overeating and promote satiety.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e3559daa-4214-4114-a838-906d6ac4f8d6",
+    "content": "A plateau in weight loss indicates the need to move on to a more reliable method such as calorie tracking.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

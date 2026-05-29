@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "359f9b2b-dac7-4119-8403-977164923903",
+    "content": "Cantaloupe has a glycemic index of 60 and is exceptionally high in vitamin K, aiding vitamin D absorption.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7850c4fc-fa20-4cb7-b3cc-f9744912beb7",
+    "content": "Cantaloupe seeds contain omega-3 fatty acids, similar to those found in fish oil.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "152980bf-2bd4-4b15-a720-bf58c89bca27",
+    "content": "Avocados have a glycemic index of 14 and are rich in healthy fats, slowing the breakdown of carbohydrates.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7abf314e-b6b8-42bf-9920-aeec57b8e613",
+    "content": "Grapefruits have a glycemic index of 25 and are beneficial for lowering blood lipid levels and cholesterol.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2bdeb0c3-adec-4a2e-8b1b-3896f9fce251",
+    "content": "Plums have a glycemic index of 22 and are low in sugar due to their slow digestion and high fiber content.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d2cc3758-4da6-4179-9e58-a6182f4745b9",
+    "content": "Strawberries have a glycemic load of less than 3 per 100 grams, making them a low glycemic fruit with antioxidant and anti-inflammatory benefits.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "bda89a4b-a99f-4abe-9c8a-e40d5019b911",
+    "content": "Kelp is rich in iodine, which the thyroid needs to convert T4 into T3.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "thyroid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6169f989-656f-48a8-a5ef-a5f9985dd8de",
+    "content": "Seaweeds like kelp contain high levels of minerals, particularly iodine, due to the water environment.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science",
+      "seaweed",
+      "iodine"
+    ],
+    "embed": []
+  },
+  {
+    "id": "33fd3451-3707-4260-b014-b5c1b5ca260f",
+    "content": "Iodine affects thyroid peroxidase (TPO), downregulating its activity and potentially increasing autoimmune attacks on the thyroid.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "thyroid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "34a2cbf6-459c-4a85-bd4a-590ac5409c27",
+    "content": "A study suggests balancing iodine intake with selenium to maintain selenocyine levels in the thyroid.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science",
+      "thyroid",
+      "selenium"
+    ],
+    "embed": []
+  },
+  {
+    "id": "65367fa8-5790-48d7-973a-2ad422c5f4b8",
+    "content": "For optimal thyroid health, start with a low dose of kelp and monitor body temperature changes.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "thyroid",
+      "kelp"
+    ],
+    "embed": []
+  }
+]

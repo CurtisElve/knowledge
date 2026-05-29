@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "1b31e939-0251-4447-9ba8-16faff000481",
+    "content": "Vitamin D is a hormone that requires K2 to properly function, as stated in a study published in the Journal of Clinical Nutrition.",
+    "topics": [
+      "vitamin d",
+      "vitamin k2",
+      "calcium absorption",
+      "study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cd82a7f3-eb10-4ea8-a3dc-608213049145",
+    "content": "Vitamin D deficiency affects 80% of the population due to less outdoor activity, leading to insufficient sunlight exposure and subsequent vitamin D production.",
+    "topics": [
+      "vitamin d deficiency",
+      "sunlight exposure",
+      "population statistics"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3e0814ea-7596-4d22-8fa1-062831078d33",
+    "content": "A 12-week resistance training study found that vitamin D supplementation (4,000 IU) led to a lower waist-to-hip ratio compared to a placebo group, indicating vitamin D's role in reducing stubborn belly fat.",
+    "topics": [
+      "vitamin d supplementation",
+      "waist-to-hip ratio",
+      "resistance training"
+    ],
+    "embed": []
+  },
+  {
+    "id": "efd8e07b-4fbc-443b-a6e4-4ed9b17c9a7f",
+    "content": "Vitamin D is absorbed from the sun and undergoes a methylation process in the liver to convert it into a more potent form of hormone, as explained in the passage.",
+    "topics": [
+      "vitamin d absorption",
+      "liver conversion",
+      "sun exposure"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6ea38c49-278a-414a-8b5c-fda4728b767c",
+    "content": "Vitamin D plays a crucial role in calcium absorption, communicating with the parathyroid gland to regulate calcium extraction from bones and soft tissues, potentially causing bone weakening and mineral imbalance if deficient.",
+    "topics": [
+      "vitamin d and calcium",
+      "parathyroid gland",
+      "bone health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d979d7e1-7737-4fd7-a085-13fe9b6a51f9",
+    "content": "K2 acts as a traffic cop for calcium, directing it to the right places such as bones and muscles, preventing it from depositing in arteries and soft tissues, as discussed in the passage.",
+    "topics": [
+      "vitamin k2",
+      "calcium distribution",
+      "arteries and soft tissues"
+    ],
+    "embed": []
+  }
+]

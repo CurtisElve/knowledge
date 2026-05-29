@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "92134e75-fcd5-48c4-b57d-590e90706637",
+    "content": "Monounsaturated fats have one unsaturated carbon bond, making them less saturated than fully saturated fats. Examples include avocados, olive oil, nuts, and nut oils.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f9481045-8ad7-4e81-9409-67777b664e64",
+    "content": "Omega 9s (also known as Alayich acid) help reduce blood pressure by working on adrenal centers to dilate and constrict blood vessels. They also act as antioxidants by replacing omega-3s and omega-6s in cell membranes.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "509dac2a-28ba-402c-a2a1-d2026adb4e7b",
+    "content": "A study by the Cleveland Clinic showed that 220 milligrams of Omega 7s daily reduced C reactive protein levels by 444%. Omega7s protect Omega3s from becoming toxic and damaging cells.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b0bf7b52-f070-45eb-8538-b24e46f2a3db",
+    "content": "Polyunsaturated fats are unstable and can oxidize easily. They are important for metabolism and health. Omega-3s are anti-inflammatory and Omega-6s are pro-inflammatory.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fbcb57f1-d392-4f2c-8019-9ac06cf2ed43",
+    "content": "Saturated fats are fully saturated with hydrogen molecules. They are stable and best to cook with. No saturated fats are bad they are needed for myelin sheath production.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c2af53ed-f84c-4cd5-a038-4c49b6dd9c1d",
+    "content": "Trans fats are made by artificially saturating unsaturated fats. They take a long time to break down and cause more body fat storage. They promote prostaglandin2 which causes more inflammation.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  }
+]

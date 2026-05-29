@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "d15b5bfc-ebf3-40dc-88c2-9b6689f064c3",
+    "content": "Millet is a grain historically consumed in large amounts by poor, rural populations in Sudan, India, Pakistan, and Africa.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "242aea99-4b34-4242-b7b0-512e766b5dc1",
+    "content": "Millet contains goitrogens, compounds that negatively affect the thyroid gland, leading to goiter and thyroid enlargement.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "93301d67-95b1-482a-b0f7-1a8b7dc30b2f",
+    "content": "In 1981, investigators found a strong association between high millet consumption and high goiter prevalence in Sudanese schoolchildren.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7f97105f-f609-4f4d-9500-7941e1f84a81",
+    "content": "Traditional processing methods, such as de-hulling and fermentation, can increase the goitrogenic effects of millet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e67dd0de-763e-4fb2-b08a-7c48ddccc494",
+    "content": "Semi-wet milling is the only method shown to reduce the goitrogenicity of millet, but it requires specialized equipment.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7cf136d7-ad07-4e56-a4e6-fad5494345e7",
+    "content": "People consuming gluten-free breads, especially those containing millet, may inadvertently consume excessive millet without realizing it.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

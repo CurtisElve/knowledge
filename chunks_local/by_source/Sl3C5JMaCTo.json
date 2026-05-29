@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "425f7e5c-0a4b-447d-9af5-d05fc10345b3",
+    "content": "Sodium is crucial for extracellular fluid balance and tissue perfusion, affecting the circulatory system and heart function.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "168df53e-1922-4708-8a4c-af01d2477ee1",
+    "content": "Sodium is essential for neural function, allowing proper neuron signaling and preventing cramping after intense exercise.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5397d65b-b418-438c-85b9-445feb961cf4",
+    "content": "Salt aids in digestion by helping the transfer of chloride ions into hydrochloric acid in the stomach, which is vital for proper digestion and preventing foodborne illnesses.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2cf9c6c1-b9ef-4158-9f73-a01aaf8f0791",
+    "content": "A 2010 study found that individuals consuming less than 1500 milligrams of sodium per day experienced a significant decrease in mood compared to those consuming more.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dadbe791-180e-459e-8327-40a996247c1f",
+    "content": "Good quality salts like Himalayan pink salt contain trace minerals such as chromium and iodine, which support various metabolic functions and overall health.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  }
+]

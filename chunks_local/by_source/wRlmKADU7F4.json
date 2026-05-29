@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "2c0ebeea-b62d-470a-a97b-741927ba71fa",
+    "content": "Methylcobalamin is a form of vitamin B12 that can be found in small amounts in dairy products.",
+    "topics": [
+      "nutrition",
+      "vitamin_b12"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c5dcdb32-f5b6-4fa8-83fa-712f458d2010",
+    "content": "The amount of methylcobalamin in dairy is considered insignificant compared to other sources of B12.",
+    "topics": [
+      "nutrition",
+      "vitamin_b12"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dfa6e383-7a0b-4f30-8442-2a05a7cd3502",
+    "content": "Anita Morgan suggests that over-methylation symptoms may be due to insufficient glycine rather than excessive methylcobalamin intake.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "67821c34-86c1-4336-b8c9-760b8506523a",
+    "content": "Titration of methylated supplements, including those from dairy, should be done slowly to avoid overwhelming the methylation cycle.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "05064462-67c5-4616-acc4-40845a326621",
+    "content": "For individuals who react negatively to methylcobalamin from dairy, the levels are extremely low and unlikely to cause significant issues.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

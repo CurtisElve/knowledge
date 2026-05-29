@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "4ef7438c-9d29-4dfc-b05a-65a5dd16542c",
+    "content": "A recent study by Dr. Kevin Hall and colleagues found that a reduced fat (RF) diet versus a reduced carbohydrate (RC) diet impacts neural reward signaling differently.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dc127b2f-0fb1-4afe-863a-535b6215b189",
+    "content": "Participants on RF diets exhibited reduced activity in response to food cues relative to baseline in the caudate nucleus and putamen, two areas of the brain known for their involvement in reward processing.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b5795300-3b1c-4fa1-8e26-b7b7bfee9f83",
+    "content": "Dietary fat may have a greater effect on neural reward circuitry than dietary carbohydrate, which might explain why low-fat diets are often difficult to stick to.",
+    "topics": [
+      "nutrition",
+      "foodscience",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8c9a7ee8-1fcf-47ad-ac26-0909260e2dc1",
+    "content": "Total calorie consumption during the ad-libitum phase was equivalent following RF and RC diets.",
+    "topics": [
+      "nutrition",
+      "food",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f999930c-58d6-48f9-812e-23dac7b97b7f",
+    "content": "Fats and carbohydrates are metabolized on different timescales, and their respective downstream effects on neural signaling are thus also likely to occur on different timescales.",
+    "topics": [
+      "nutrition",
+      "foodscience",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

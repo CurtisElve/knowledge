@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "becc7141-b461-4a3f-a798-9e860a43c5dd",
+    "content": "To get a half gram to a gram of protein per pound of bodyweight, diversify among meat, fish, shellfish, insects, eggs, and dairy products.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "protein"
+    ],
+    "embed": []
+  },
+  {
+    "id": "76cd0b74-02ed-4353-ae95-f0aa06ac3d86",
+    "content": "For optimal health, aim for 1,000 milligrams to 1.5 grams of calcium daily by consuming three servings of dairy products or edible bones.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "calcium"
+    ],
+    "embed": []
+  },
+  {
+    "id": "05e1c629-7520-4f6a-8139-2b945aebe8be",
+    "content": "Eat a variety of carbohydrates including whole grains, legumes, starchy tubers, and fruits, and consider cutting out whole grains if needed.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "carbohydrates"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d0c73fce-e382-45a8-b2ae-08b62a75f1dc",
+    "content": "Consume several cups of diverse vegetables daily, focusing on dark greens, and vary colors to ensure a wide range of nutrients.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "vegetables"
+    ],
+    "embed": []
+  },
+  {
+    "id": "114d3eb8-8b4a-4f9a-bfe6-c25753ccc8ea",
+    "content": "Include digestive aids like ginger, fermented foods, and enzymes in your meals to enhance nutrient absorption.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "digestion"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "e661b1f9-e487-4a24-83ea-1897596fc9d6",
+    "content": "Alcohol is converted to acetaldehyde in the mouth by enzymes, which is highly toxic.",
+    "topics": [
+      "nutrition",
+      "alcohol metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a78f294d-b1bf-4ed0-8b54-b5b22baa0982",
+    "content": "The liver converts acetaldehyde into acetate, but it can only do so quickly, leading to a buildup of acetaldehyde in the system.",
+    "topics": [
+      "nutrition",
+      "alcohol metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4853fee7-ea05-4317-b717-2e7ce9b37d42",
+    "content": "Acetaldehyde affects kidney function, causing dehydration and a hangover-like effect due to reduced water reabsorption.",
+    "topics": [
+      "nutrition",
+      "alcohol metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "64b8abe6-4ec0-4deb-870c-36fc15210872",
+    "content": "Drinking distilled alcohol, such as vodka, reduces the liver's workload by removing impurities and making it easier for the liver to metabolize the alcohol.",
+    "topics": [
+      "nutrition",
+      "alcohol metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fc93076c-bffe-4d09-8052-58162114ee44",
+    "content": "Limiting alcohol intake to one type per night helps the liver focus on metabolizing one substance at a time, reducing confusion and improving overall liver function.",
+    "topics": [
+      "nutrition",
+      "alcohol metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e08891bd-e76e-4e1b-816a-30077ed5c2d6",
+    "content": "Eating foods rich in healthy fats, such as eggs and bacon, can help replenish brain fats and improve cognitive function after a night of drinking.",
+    "topics": [
+      "nutrition",
+      "post-drinking recovery"
+    ],
+    "embed": []
+  }
+]

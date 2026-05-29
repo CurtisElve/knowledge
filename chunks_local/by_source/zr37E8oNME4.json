@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": "6feed320-60f9-4397-b2a6-55a308c25167",
+    "content": "Finugreek has been shown to lower blood sugar significantly when taken in 500 milligram intervals twice daily.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bae4e277-be30-4330-9b43-2221917a2e1e",
+    "content": "Eating carbohydrates after proteins, vegetables, and fats results in a lower postmeal blood sugar compared to eating them with or before proteins and vegetables.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "bd4ee3bb-5751-40e2-a6f3-2674ea931aa6",
+    "content": "High-intensity interval training (HIIT) can lower blood sugar in the short term and up to three days later.",
+    "topics": [
+      "nutrition",
+      "exercise",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

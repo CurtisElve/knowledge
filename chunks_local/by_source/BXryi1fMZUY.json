@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "31a1b0e3-3f5d-44ee-b393-4f426d65de44",
+    "content": "Blending beef liver in a Vitamix may reduce some sensitive compounds like glutathione.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6dfbb149-76fb-44e6-bc00-4ffde9a7bb24",
+    "content": "Minerals in liver are generally considered safe to consume regardless of preparation method.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9398a37c-3a02-4785-95c5-02835cc0a4d7",
+    "content": "Glutathione, a sensitive compound in liver, may be reduced by blending.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "10f399d9-d2b7-48c9-b8dc-8ffd2f29cd54",
+    "content": "Douglas suggests freezing liver for at least two weeks before consumption to reduce risk.",
+    "topics": [
+      "nutrition",
+      "food safety"
+    ],
+    "embed": []
+  }
+]

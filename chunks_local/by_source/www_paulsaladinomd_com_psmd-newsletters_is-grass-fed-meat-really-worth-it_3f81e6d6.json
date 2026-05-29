@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "df249388-f3cb-4b13-95ac-c0cf35eb1119",
+    "content": "Grass-fed beef is generally higher in vitamins C, E, A, and CoQ10 compared to grain-fed beef.",
+    "topics": [
+      "nutrition",
+      "vitamins"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f426c142-0373-4a24-a724-da8319c74e12",
+    "content": "Grass-fed beef may contain lower levels of pesticides such as glyphosate, atrazine, dioxins, and mold toxins.",
+    "topics": [
+      "nutrition",
+      "toxins"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "cf8c4199-52cc-47a8-9cff-c42e991bc27a",
+    "content": "Green tea catechins can stabilize blood glucose when taken with glucose, leading to a more stable blood glucose level.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7176455c-b739-44b3-a2ae-e0a41c8d4585",
+    "content": "Green tea catechins block glucose absorption in the intestines and cells, potentially interfering with nutrient absorption.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7f08272a-ff87-4b8d-b364-fb235f068663",
+    "content": "In China, there is no clear tradition regarding the timing of green tea consumption with meals, as various practices exist.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8298e204-eaa3-47e4-b36c-c424a42611d3",
+    "content": "In Korea, traditional green tea consumption has been replaced by energy drinks containing EGCG, which are widely available.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3904c72a-63ec-47ed-b02f-5d751af9a2f8",
+    "content": "For blood sugar control, it is recommended to take green tea with a meal to prevent a hyperglycemic spike.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "314f04e0-a333-4f61-a7a4-f2be700b831c",
+    "content": "To avoid interference with nutrient absorption, green tea should be spaced at least an hour away from meals.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

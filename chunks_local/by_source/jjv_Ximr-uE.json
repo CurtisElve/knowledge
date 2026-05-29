@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "647abf80-23c0-4120-b2e0-710b744bdc08",
+    "content": "To make bone broth quickly, roast a whole chicken in an Instant Pot with 1 cup of water and 45 minutes of pressure cooking.",
+    "topics": [
+      "bone broth",
+      "nutrition",
+      "cooking"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e8f7aca1-cfe8-415b-983e-4f94d83a8dd9",
+    "content": "After cooking, separate the meat from the bones and cartilage, and return the meat to the refrigerator. Add the remaining ingredients to the Instant Pot and cook for 120 minutes at maximum setting or 4 hours for better gelation.",
+    "topics": [
+      "bone broth",
+      "nutrition",
+      "cooking"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d79e97d2-049f-4e25-ada7-b0a290e0e7cd",
+    "content": "For easier reheating, cool the broth rapidly by placing it in a sink with cold water and ice, then refrigerate it immediately. Avoid leaving it at room temperature for extended periods to prevent bacterial growth.",
+    "topics": [
+      "bone broth",
+      "nutrition",
+      "cooking"
+    ],
+    "embed": []
+  },
+  {
+    "id": "db00db1d-c198-4ffd-9204-cece1c8c88ba",
+    "content": "Dr. Chris Masterjohn suggests using the broth immediately after cooking to prepare mixed starches like sprouted rice, lentils, and diced potatoes, which can be reheated in 2 minutes to create balanced meals.",
+    "topics": [
+      "bone broth",
+      "nutrition",
+      "cooking"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a0b4fcac-59d1-4471-990f-4b674fbfb8ea",
+    "content": "Dr. Masterjohn recommends using Kettle and Fire bone broth as a backup, noting its traditional 24-hour simmering process and shelf-stable packaging, while still making his own bone broth for economic reasons and personal preference.",
+    "topics": [
+      "bone broth",
+      "nutrition",
+      "cooking"
+    ],
+    "embed": []
+  }
+]

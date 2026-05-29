@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "cf489097-171f-4cfd-abef-c54b7d7f9a5c",
+    "content": "GABA is an inhibitory neurotransmitter that slows down neuronal activity in the brain.",
+    "topics": [
+      "nutrition",
+      "dietary_supplements",
+      "neurotransmitters"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cd870eac-33d0-47c4-92a2-1847b2c30832",
+    "content": "A study found that 100 milligrams of GABA reduced anxiety and helped people face their fears with less impact on stress response.",
+    "topics": [
+      "facing_fears",
+      "anxiety_reduction",
+      "GABA_study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c5653f16-12de-41c8-ba23-f779bcf14e84",
+    "content": "After taking 100 milligrams of GABA, volunteers had a brainwave pattern indicating lower effort focus and less anxiety compared to a placebo.",
+    "topics": [
+      "brainwave_pattern",
+      "anxiety_reduction",
+      "GABA_study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cc479b9e-d499-47ad-87d4-53455cc40ae0",
+    "content": "Volunteers who took GABA while crossing a suspension bridge had higher levels of IgA in their saliva compared to those who took a placebo.",
+    "topics": [
+      "immune_system",
+      "saliva_IgA",
+      "GABA_study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c5bbbac7-4db0-4be3-8132-7202a9203822",
+    "content": "Higher IgA levels in saliva suggest a stronger immune system and less activation of the stress response during fear-inducing situations.",
+    "topics": [
+      "immune_strength",
+      "stress_response",
+      "GABA_study"
+    ],
+    "embed": []
+  },
+  {
+    "id": "62327d96-2a20-4903-bb94-005cc3a5f8f3",
+    "content": "Based on the study, GABA supplementation might help manage fear responses and prevent stress-induced immune system suppression.",
+    "topics": [
+      "fear_management",
+      "stress_prevention",
+      "GABA_study"
+    ],
+    "embed": []
+  }
+]

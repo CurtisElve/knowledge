@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "bd7a375f-492e-4a44-aa55-89acb786bd9c",
+    "content": "Frozen storage significantly reduces folate levels in vegetables, with peas losing 20% after 3 months and 96% after 6 months.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "588aa13d-0c26-4d23-af28-0cec38c63b0d",
+    "content": "Spinach retains 20% of its folate after 6 months of freezing but loses 80% after 12 months, making it nearly useless as a folate source.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1dd7f0b8-9f0e-4193-8271-b0e42ab56cae",
+    "content": "Broccoli loses 93% of its folate within 3 months of freezing, while cauliflower loses 98% within the same period.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e1bb5d95-8113-4821-9eaf-36f2873cd2b5",
+    "content": "Green beans are more stable, retaining 80% of their folate after 6 months and 20% after 9-12 months of freezing.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2276e8a9-be8d-4650-8a65-168875249d17",
+    "content": "Liver maintains 80% of its folate after 6 months of freezing, making it a reliable source of folate despite storage.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f26cd6a9-8e2b-4dca-84be-725a6acbb7c8",
+    "content": "Cooking methods often reduce folate levels, but liver sausage retains its folate content during cooking due to the matrix and enzymes in the tissue.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  }
+]

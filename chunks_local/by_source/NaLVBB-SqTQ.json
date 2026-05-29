@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "a3a708b3-4510-4f56-b6d9-46902c2ab787",
+    "content": "About 40 to 50% of Americans are already deficient in vitamin D according to the National Library of Medicine.",
+    "topics": [
+      "vitamin D deficiency",
+      "public health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "009fa7ed-2895-4dbb-b0b9-4dfbcbb16f18",
+    "content": "Serotonin is a neurotransmitter responsible for feelings of well-being and calmness, and its production involves tryptophan, which requires protein consumption and carbohydrate intake.",
+    "topics": [
+      "neurotransmitters",
+      "serotonin synthesis",
+      "tryptophan"
+    ],
+    "embed": []
+  },
+  {
+    "id": "baeab585-4207-406e-a195-4d9ec4e8060b",
+    "content": "Vitamin D plays a critical role in the conversion process of tryptophan to serotonin, assisting in the metabolism and creation of serotonin.",
+    "topics": [
+      "vitamin D function",
+      "tryptophan to serotonin conversion",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6dbfd7b6-45db-4cd8-ba24-cad4edad8afe",
+    "content": "A study by Oregon State University found a direct relationship between low vitamin D levels and increased symptoms of depression and mood disorders in 185 female college students over the course of a year.",
+    "topics": [
+      "vitamin D and mood disorders",
+      "study findings",
+      "depression and mood disorders"
+    ],
+    "embed": []
+  }
+]

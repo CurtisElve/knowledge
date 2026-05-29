@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "id": "62c7e686-572a-4bad-9372-71ef3ca41855",
+    "content": "Anti-catabolic effects of ketones include attenuation of glycolysis, hepatic glucose output, and adipose tissue lipolysis.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d6132c82-05ac-4a5d-8274-48a118174b1d",
+    "content": "Higher beta-hydroxybutyrate (BHB) levels in water-only fasting may prevent muscle loss greater than hypocaloric states without high ketone levels.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "49ee78fe-dc98-460f-af56-1107a459dcfb",
+    "content": "Peter Attia hosts _The Peter Attia Drive_ podcast, focusing on health, longevity, and applying principles of Medicine 3.0 to increase lifespan and healthspan.",
+    "topics": [
+      "podcast",
+      "nutrition",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "933c3109-6619-405a-89a1-52b9e05d7f67",
+    "content": "Peter Attia's podcast includes detailed responses to subscriber questions, often on single topics, offering clarity and detail.",
+    "topics": [
+      "podcast",
+      "nutrition",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "03370979-ff40-465e-b549-59b5284f9303",
+    "content": "Peter Attia is the host of _The Peter Attia Drive_ and founder of _Early Medical_, a medical practice aiming to extend lifespan and increase healthspan.",
+    "topics": [
+      "podcast",
+      "nutrition",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9fe215ac-04a5-42a5-a515-e02ffaf7345f",
+    "content": "Peter Attia discloses potential conflicts of interest and believes in transparency for those in positions of influence.",
+    "topics": [
+      "podcast",
+      "nutrition",
+      "health"
+    ],
+    "embed": []
+  }
+]

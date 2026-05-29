@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "d9f6923b-114b-4662-8fd9-a134a2219219",
+    "content": "The recommended protein intake for teenage boys is between 0.5 to 1 gram of protein per pound of body weight, or 1 to 2 grams per kilogram of body weight.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a1d472fe-a220-43e4-be3a-4500d434c5f0",
+    "content": "Eating a mix of foods is essential to get all vitamins and minerals and minerals, focusing on protein intake first.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7ac8cd9e-7262-4c4d-a2ab-f7751ba5fc33",
+    "content": "There is no cap on the number of eggs a teenage boy can eat per day, as long as he is willing to eat them.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "ec2fe4be-5cd0-403f-ac08-9c9847f99b35",
+    "content": "Protein powder is safe for teenage boys, but not recommended as a main source of protein.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b9e49bc6-22ad-4fd6-b556-af930af34421",
+    "content": "Using legumes as a major staple in the diet will help get you to a good place with vitamins and minerals, and towards a higher protein than you would get with other carby foods and with cheap junk food.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "foodscience"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "cdffead9-5552-494b-aa09-7a52bfc4267e",
+    "content": "Chickens and pigs are monogastric animals that cannot convert polyunsaturated fatty acids (PUFAs) into saturated fatty acids.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b077aa9f-9a4b-4f61-8016-98cd84fc3f95",
+    "content": "When fed an evolutionarily-inappropriate diet high in PUFAs, these animals accumulate them in their fat tissue.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b65c2cd4-a7ee-44ed-8ba5-c5561f41b422",
+    "content": "Most pigs and chickens are raised on diets high in corn and soy, which are sources of PUFAs.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4aace344-a33a-4c7e-af02-b8c9b56a8239",
+    "content": "Ruminants like cattle, deer, and bison are raised on grass, keeping PUFAs in their fat at less than 2%.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "f8c43ccc-24de-472b-904f-a352f87bfd6a",
+    "content": "Historically, human ancestors consumed meat and organs from large, grazing ruminants, suggesting an optimal diet for humans may include lower PUFA levels.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "397b9c9f-f030-48af-b469-14b86fe257ba",
+    "content": "Avoiding species with high metal content in fish, such as tuna and swordfish, is recommended on an animal-based diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

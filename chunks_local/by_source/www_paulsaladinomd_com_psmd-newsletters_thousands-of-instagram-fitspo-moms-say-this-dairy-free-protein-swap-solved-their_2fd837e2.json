@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "9a5f76c5-d944-4ae8-a63f-0c73de2c4ed9",
+    "content": "Protein powders often contain low bioavailability ingredients like pea, rice, or soy protein, which can be difficult to digest.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "fdd2b3dd-b33d-43e7-8929-6ac563635630",
+    "content": "Plant-based protein powders frequently include gums, fillers, and emulsifiers such as guar gum and xanthan gum that can irritate the gut.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d1ee1374-0121-4aa5-9872-899297b9f705",
+    "content": "Beef protein isolates, derived from grass-fed cows, are rich in collagen, gelatin, and complete amino acids, supporting gut repair and muscle recovery.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "aabeab93-f469-415d-b9b9-2445ba6f3f26",
+    "content": "Beef protein isolates are free from lactose, fillers, gums, and fake sweeteners that commonly cause bloating and digestive issues.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d60ebce9-8518-4d22-818a-f7d08f6794a3",
+    "content": "Consuming beef-based protein can lead to improved digestion, reduced bloating, and enhanced overall gut health compared to plant-based alternatives.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1c486acd-24f9-4148-8b36-5b9451007846",
+    "content": "Women experiencing bloating, inconsistent digestion, or gut-related issues should consider switching to a clean, beef-based protein alternative.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

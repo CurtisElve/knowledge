@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "998805dc-4b2e-43b3-9d0a-8ba1e56943d2",
+    "content": "Oystermax provides 29% of the daily value for zinc per serving.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "92d2115b-a511-4274-9fb1-13482d050614",
+    "content": "Each serving of Oystermax provides 32% of the daily value for copper.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9ee56e0d-df3d-4179-a158-a32131176df9",
+    "content": "Oystermax undergoes batch testing to ensure equal zinc and copper content.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "5135eff9-5c42-4fb9-8d4f-f599503aaadf",
+    "content": "To prevent brain fog and energy crashes, eating carbohydrates in the evening is recommended instead of midday.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8cea674a-ee43-4fd6-9d55-30dfaf5720d1",
+    "content": "Eating carbohydrates in the evening allows for a gradual rise and fall in blood sugar, which is beneficial for brain function and energy levels.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2b39a192-7fc6-4de6-a7d7-d606838ffb42",
+    "content": "Consuming carbohydrates around 5 or 6 p.m. helps condition the body to run on fats for fuel in the morning, reducing the risk of midday energy crashes.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7064f8a6-5645-4022-8482-d802416ce213",
+    "content": "Carbohydrates consumed in the evening increase tryptophan uptake by the brain, leading to higher levels of serotonin and improved sleep quality.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "eca19037-17df-4079-8ffe-0694b7a3d60f",
+    "content": "A recommended carbohydrate intake before bed is approximately 50 grams for a 200-pound individual, providing a gentle rise and fall in blood sugar during sleep.",
+    "topics": [
+      "diet",
+      "metabolism",
+      "food science"
+    ],
+    "embed": []
+  }
+]

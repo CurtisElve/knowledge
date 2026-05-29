@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "eb388ec4-1075-478f-9362-ec6cd7ebe781",
+    "content": "Alpha-lipoic acid is a powerful antioxidant found naturally in every cell of the body.",
+    "topics": [
+      "nutrition",
+      "antioxidants",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8fd8d8f1-cee8-48b6-9ca5-791de0cae6e5",
+    "content": "Alpha-lipoic acid is both water and fat soluble, making it effective in breaking down waste products during cellular metabolism.",
+    "topics": [
+      "nutrition",
+      "antioxidants",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e47b3a94-af93-4c74-bdc7-3cbc179c1b86",
+    "content": "A study on obese diabetic patients found that 600 mg of alpha-lipoic acid daily led to a significant decrease in body mass index and fat mass.",
+    "topics": [
+      "nutrition",
+      "antioxidants",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3ab0372e-cf13-4578-9fce-aaceb6c9b298",
+    "content": "Alpha-lipoic acid helps improve insulin signaling and glucose uptake, potentially aiding in fat loss and muscle building.",
+    "topics": [
+      "nutrition",
+      "antioxidants",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8b0c6607-901b-47e9-8b1f-8ecb13986cd3",
+    "content": "Alpha-lipoic acid is more bioavailable in supplement form compared to food sources due to its sensitivity to cooking and processing.",
+    "topics": [
+      "nutrition",
+      "antioxidants",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "53f53c7a-fa73-441a-a974-bd22a3f6be55",
+    "content": "The recommended dosage of alpha-lipoic acid is 600 mg per day to enhance glucose uptake and insulin signaling, according to available research and expert opinion.",
+    "topics": [
+      "nutrition",
+      "antioxidants",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "c6af8714-e92b-4d34-8a0c-a01f08c860c5",
+    "content": "To reduce immune reactions to food, Pamela Schoenfeld suggests lowering intake of EPA while increasing arachidonic acid.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "immune_reactions"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8b06fa00-117c-4648-9b2b-57c4654fb373",
+    "content": "For someone intolerant of eggs and liver, desiccated liver capsules could be helpful, though the exact dosage is uncertain.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "immune_reactions"
+    ],
+    "embed": []
+  },
+  {
+    "id": "15988014-d8fa-42df-8b65-b0f590ee0d80",
+    "content": "GLA supplements may help, but arachidonic acid supplements are more directly effective for reducing immune reactions.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "immune_reactions"
+    ],
+    "embed": []
+  },
+  {
+    "id": "281299c2-e6a4-4b35-b88e-9196a3d5f408",
+    "content": "Egg yolks contain 8 mg of choline, which is sufficient for someone with celiac disease following a strict gluten-free diet.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "choline"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2332d93f-7a68-4615-a78e-26ac18081f78",
+    "content": "A high need for choline can contribute to immune reactions, and betaine (TMG) is an alternative to choline.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "immune_reactions",
+      "choline"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d29ab2e3-9a7a-414e-84dc-42af85e21346",
+    "content": "Arachidonic acid supplements are difficult to obtain from food sources, and GLA supplements can provide precursors to arachidonic acid.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "arachidonic_acid",
+      "gluconate"
+    ],
+    "embed": []
+  }
+]

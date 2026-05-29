@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "id": "3462e0bd-02ed-49d6-804e-4759c24e0d23",
+    "content": "The body's fluid balance is regulated by two broad categories of processes: those that control water coming in (thirst) and those that control water going out.",
+    "topics": [
+      "nutrition",
+      "hydration",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "5fc7469e-04e7-4644-b834-03d6ade48b91",
+    "content": "As we become more dehydrated or volume-depleted, we experience a conscious, increasing drive to consume more fluids, and by satisfying that drive, we counteract the fluid loss.",
+    "topics": [
+      "hydration",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dee5c1b8-35a9-41a4-b138-ee13774ffea2",
+    "content": "Urine becomes darker in color when we drink, which is a sign that the kidneys are reabsorbing some water to limit further loss.",
+    "topics": [
+      "hydration",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a5bb1a41-1367-4ca7-8002-5b57a02853a3",
+    "content": "Lean mass typically decreases while fat mass increases with aging, resulting in a substantial reduction of total body water.",
+    "topics": [
+      "nutrition",
+      "hydration",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6c1835d0-9ee8-4bf5-8f0b-7ae1f10675b7",
+    "content": "Even mild water deprivation can cause clinically significant dehydration in older adults, making them more susceptible to dehydration.",
+    "topics": [
+      "nutrition",
+      "hydration",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "eaa0ee8b-a1f9-495d-9b27-12faafd698d3",
+    "content": "To maintain adequate hydration, older adults should be more deliberate in their fluid intake as a means of reducing the impact of dehydration on healthspan and longevity.",
+    "topics": [
+      "nutrition",
+      "hydration",
+      "metabolism"
+    ],
+    "embed": []
+  }
+]

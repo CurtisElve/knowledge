@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "4d38b610-85ea-4c2f-b3ad-136d3ef45713",
+    "content": "A single layer of epithelial cells lines the entire digestive tract, facilitating nutrient exchange.",
+    "topics": [
+      "nutrition",
+      "intestinal epithelium"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4de86924-c126-477e-824e-9132499e8bd2",
+    "content": "Intestinal permeability is involved in the pathogenesis of many conditions affecting gut health and non-gut-related disorders.",
+    "topics": [
+      "nutrition",
+      "intestinal permeability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7632f21c-45db-4b02-8dad-72e87484084e",
+    "content": "LPS injections in participants increase circulating levels of proinflammatory cytokines, including interleukin-6 and tumor necrosis factor-alpha.",
+    "topics": [
+      "nutrition",
+      "intestinal permeability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e6aba742-9708-4916-9e21-2ec60dd8ee51",
+    "content": "Intestinal permeability has implications for accelerated aging, allowing bacterial components to enter the bloodstream and trigger the innate immune system.",
+    "topics": [
+      "nutrition",
+      "intestinal permeability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "07854fb9-0192-4f87-a193-c71b90b0cf46",
+    "content": "Fiber, polyphenols, and probiotics are under investigation for their health benefits, including strengthening the gut barrier and preventing leaky gut.",
+    "topics": [
+      "nutrition",
+      "intestinal permeability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3abaa57e-c278-4b07-9fe9-88c3360e612c",
+    "content": "Oats contain a protein called avenin similar to gluten, but there is no evidence to suggest oats cause leaky gut.",
+    "topics": [
+      "nutrition",
+      "intestinal permeability"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2fb082bc-5334-4937-bea3-37cc70c4e84d",
+    "content": "Conditions of the gut often seem to have an impact on cognitive and mood qualities due to the complex interactions between humans and their gut microbiomes.",
+    "topics": [
+      "nutrition",
+      "gut microbiota"
+    ],
+    "embed": []
+  }
+]

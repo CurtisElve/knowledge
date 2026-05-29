@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "5567e9d0-f388-41b6-aab3-4e544478da47",
+    "content": "Whey protein is rapidly absorbed and releases amino acids quickly, leading to a high insulin spike.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4c23b1e6-78a5-4341-a762-92867f947484",
+    "content": "Consuming whey protein after a meal can help lower blood sugar levels in individuals with diabetes.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "de10cd25-53d6-4147-95c9-3d115b993d2c",
+    "content": "High-quality whey protein isolates are recommended for optimal absorption and minimal additives.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "supplements"
+    ],
+    "embed": []
+  }
+]

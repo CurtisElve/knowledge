@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "229acafa-ec8b-4097-af41-d7b967c02c27",
+    "content": "Black beans are high in antioxidants, which help fight free radicals and improve nutrient absorption.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "antioxidants"
+    ],
+    "embed": []
+  },
+  {
+    "id": "aa8f45c0-a747-4668-8be6-c388133e18c0",
+    "content": "Black beans are rich in fiber, which reduces levels of C-reactive protein (CRP) and helps reduce inflammation.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "fiber",
+      "inflammation"
+    ],
+    "embed": []
+  },
+  {
+    "id": "98e64507-1028-4886-b10f-9b6da458dd4c",
+    "content": "Black beans have a starchy texture that provides satiety and helps level blood sugar due to their high fiber content.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "blood sugar",
+      "fiber"
+    ],
+    "embed": []
+  },
+  {
+    "id": "9faec742-9366-4d2c-91c2-859dc200c144",
+    "content": "To mitigate the impact of the lectin inhibitor in black beans, consume foods that digest quickly before black beans.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "lectins",
+      "digestion"
+    ],
+    "embed": []
+  },
+  {
+    "id": "0d5949bd-7720-48f8-9577-be29649f6d2f",
+    "content": "Eating protein-rich foods first followed by slower-digesting black beans can help avoid the inhibition caused by lectins in black beans.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "lectins",
+      "digestion"
+    ],
+    "embed": []
+  }
+]

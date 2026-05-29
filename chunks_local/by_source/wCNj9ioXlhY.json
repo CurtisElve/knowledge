@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "936b6024-26a8-4b3e-b389-256df784ee07",
+    "content": "For a 35-year-old woman with hypothyroidism and low zinc levels, increasing zinc intake is recommended. Sources include oysters, beef, and cheese, with oysters being the best source.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7afe550e-b6ad-4f57-be89-d26c6e8c308b",
+    "content": "A vegan with poor zinc levels should consider supplementation, starting with 7-15 mg of zinc. Zinc supplements should be taken on an empty stomach if tolerated, or with non-grain-containing foods if stomach issues arise.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "food science",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "331f693a-8130-4d7d-9352-2e0f9ffa4db8",
+    "content": "Vegan diets may be deficient in protein, which is crucial for thyroid hormone production and glutathione synthesis. Vegans often have lower protein intakes compared to omnivores, and may need to consume more protein to meet their needs.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "foodscience",
+      "health"
+    ],
+    "embed": []
+  },
+  {
+    "id": "97fbb5c3-4d60-402c-8e05-dcfb279ce593",
+    "content": "Selenium plays a protective role in the thyroid gland by acting as a co-factor in glutathione peroxidase. Selenium deficiency may lead to increased hydrogen peroxide production, which is harmful to thyrocyte.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism",
+      "supplements",
+      "foodscience",
+      "health"
+    ],
+    "embed": []
+  }
+]

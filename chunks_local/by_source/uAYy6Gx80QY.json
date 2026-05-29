@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "07887348-dec2-4387-a224-92ccc0a68f29",
+    "content": "Juice fasting results in significantly lower calorie intake compared to true fasting, as it does not trigger the full hormonal response.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "31f008ed-f26a-4862-9d13-e277a1f5387c",
+    "content": "Protein consumption during juice fasting leads to increased hunger and reduced satiavation, as it does not provide sufficient protein to inhibit appetite.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "67a808b5-95e1-4b32-8802-2abca1dce203",
+    "content": "Fiber in fruits provides both digestive benefits and antioxidant effects, however, the antioxidants are primarily bound to the fiber and not released during juicing.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "063097bf-6dc0-4272-9d23-39cb1abdd979",
+    "content": "Fructose metabolism in the liver is different from glucose, leading to increased weight gain and metabolic disorders due to its unique transport mechanism.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "e9daa4b3-7a80-4707-a0c8-4f5b11dd6ca8",
+    "content": "Recent studies show that fructose consumption leads to more weight gain and sedentiy compared to glucose, highlighting the importance of moderation in fructose intake.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "59172a9f-0e71-46ac-9b29-012250a84329",
+    "content": "Juice fasting involves a unique fructose metabolism pathway, requiring special transport systems and storage of excess fructose as fat, making it less effective for weight loss.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "food science"
+    ],
+    "embed": []
+  }
+]

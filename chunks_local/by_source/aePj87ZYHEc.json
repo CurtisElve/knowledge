@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "a29dd917-f399-4f3b-b7e7-55cfee5feafd",
+    "content": "Acetylcholine levels drop to zero during deep sleep, supporting proper sleep stages.",
+    "topics": [
+      "nutrition",
+      "sleep",
+      "acetylcholine"
+    ],
+    "embed": []
+  },
+  {
+    "id": "13b22be0-2bed-43e3-a55b-c3926d2b1728",
+    "content": "Taking acetylcholinesterase inhibitors like alpha-GPC may interfere with deep sleep, according to a study.",
+    "topics": [
+      "nutrition",
+      "sleep",
+      "acetylcholinesterase inhibitors"
+    ],
+    "embed": []
+  },
+  {
+    "id": "646043fc-e89b-4bbf-89fd-a669a6801c84",
+    "content": "Dr. Chris Masterjohn suggests taking alpha-GPC in the morning and afternoon, avoiding late afternoon doses.",
+    "topics": [
+      "nutrition",
+      "dosage",
+      "alpha-GPC"
+    ],
+    "embed": []
+  },
+  {
+    "id": "45c368ab-3825-42c8-8640-7cae298364ae",
+    "content": "Ginkgo biloba may interfere with deep sleep due to its acetylcholinesterase inhibitory effects.",
+    "topics": [
+      "nutrition",
+      "ginkgo",
+      "deep sleep"
+    ],
+    "embed": []
+  },
+  {
+    "id": "389e53fe-f42a-4de7-ac4a-72dcaeeac90d",
+    "content": "Dr. Masterjohn recommends experimenting with alpha-GPC before bedtime if REM sleep is low, based on sleep tracking data.",
+    "topics": [
+      "nutrition",
+      "sleep",
+      "experimentation"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b20c6402-3714-43a6-9b43-a733caac220f",
+    "content": "Ancestral Supplements offers Living Collagen, a nose-to-tail supplement line supporting ancestral dietary beliefs.",
+    "topics": [
+      "nutrition",
+      "supplements",
+      "ancestral diet"
+    ],
+    "embed": []
+  }
+]

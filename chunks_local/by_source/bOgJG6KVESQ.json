@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "2cc7ee88-a0bc-48c5-8b86-2ee998326a2f",
+    "content": "Tilapia is primarily farmed, with less than 5% coming from the United States, mostly from China or Latin America.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  },
+  {
+    "id": "efe6b62a-96e8-46c0-ab9b-eb0ac4ef2e99",
+    "content": "Tilapia is raised in small, confined areas, leading to high antibiotic usage in both water and food.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  },
+  {
+    "id": "dd09c468-5f67-4f78-826e-c6ee503f7621",
+    "content": "Antibiotics used in tilapia farming contribute to antibiotic resistance and disrupt gut microbiota.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  },
+  {
+    "id": "540eb95c-72a5-4351-8ff2-af4817e12710",
+    "content": "Tilapia has the lowest omega-3 content of any fish, resulting in an omega-3 to omega-6 ratio that promotes inflammation.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  },
+  {
+    "id": "b2263f2d-8305-4225-9515-06a0b289e0a7",
+    "content": "Alternative white fish options include us-hack, California or Pacific halibut, and Alaskan cod.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8822f641-2861-4d9e-b750-ae61fc57299e",
+    "content": "Us-hack is sustainably caught, providing similar protein density and vitamin A levels to tilapia.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  },
+  {
+    "id": "0cacd0ce-72aa-4140-a59a-25dca0825e99",
+    "content": "California or Pacific halibut has higher levels of vitamin A and a more balanced omega-3 to omega-6 ratio, making it an anti-inflammatory option.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  },
+  {
+    "id": "681e4897-cea9-4117-8fd0-c9768078dfce",
+    "content": "Alaskan cod is lower on the food chain, reducing mercury absorption, and maintains its nutritional value when frozen.",
+    "topics": [
+      "nutrition",
+      "fish"
+    ],
+    "embed": []
+  }
+]

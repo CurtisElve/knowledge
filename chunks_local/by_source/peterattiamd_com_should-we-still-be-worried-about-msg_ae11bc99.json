@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "390d9cc9-66db-4124-8e00-9f0d73e1a5b5",
+    "content": "Monosodium glutamate (MSG) is the sodium salt of glutamic acid, an amino acid that our bodies can produce.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4123d647-411e-4aa7-86b1-5812408690a5",
+    "content": "A carboxyl group in glutamic acid becomes negatively charged when it loses its hydrogen atom and can bond with a positively charged ion, forming MSG.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c4d33885-9173-431c-bea5-03c21df065b8",
+    "content": "There is a widely held belief that MSG is harmful, despite its structure being similar to naturally occurring glutamic acid in the body.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "080ac3c3-7add-4557-89db-358b54888d52",
+    "content": "The scientific method was observed in the context of MSG, confirming or refuting a hypothesis about its safety without empirical evidence.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  },
+  {
+    "id": "de98ee00-f692-4ed8-83dd-24f9666388b8",
+    "content": "Study replicability is crucial for accepting conclusions, as conclusions can change based on new studies and research.",
+    "topics": [
+      "nutrition",
+      "food science"
+    ],
+    "embed": []
+  }
+]

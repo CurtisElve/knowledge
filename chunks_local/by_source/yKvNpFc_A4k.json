@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "c9a0d0fc-d532-42a9-b2fc-244775fbff67",
+    "content": "When consuming starch, salivary amylase begins breaking it down into sugar in the mouth.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3335112d-6c92-4427-bb96-00191ad07eca",
+    "content": "Some individuals have higher levels of salivary amylase, leading to incomplete starch breakdown in the mouth.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a8704050-9ffd-4bfa-9c94-da106fb93eba",
+    "content": "Incomplete starch breakdown in the mouth causes the body to not recognize carbohydrate intake until digestion has begun.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1150c88f-0686-43b3-9773-97598e20c95c",
+    "content": "This unpreparedness during digestion can lead to rapid spikes and crashes in blood sugar levels.",
+    "topics": [
+      "nutrition",
+      "metabolism"
+    ],
+    "embed": []
+  },
+  {
+    "id": "cbf24ff1-7be2-485f-9ae8-b19cb4e2d2ef",
+    "content": "A simple experiment involves comparing the tolerance of sugar and starch by measuring blood glucose responses or logging symptoms.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "682ca08d-d91a-4d77-af1e-7ec5caee35b5",
+    "content": "For the experiment, equal amounts of carbohydrate from sugar (dextrose) and starch (potato starch) are weighed and consumed in random order.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  },
+  {
+    "id": "d62f2d5b-52f1-4fbc-a6ac-efaa16901098",
+    "content": "To determine the minimal dose of natural sugar needed to tolerate starch-rich meals, one might add a teaspoon of honey before the meal.",
+    "topics": [
+      "nutrition",
+      "diet"
+    ],
+    "embed": []
+  }
+]

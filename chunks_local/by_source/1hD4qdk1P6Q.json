@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "85ac6165-fe2c-4e57-9591-c34582fa4b75",
+    "content": "Protein consumption at night could decrease neurotransmitter production, potentially making it harder to fall asleep.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "sleep"
+    ],
+    "embed": []
+  },
+  {
+    "id": "c94eae61-2d4e-4588-afd3-7d71d16afa89",
+    "content": "Acetylcholine levels are low during sleep, and protein-derived neurotransmitters are shut down in deep sleep stages.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "sleep"
+    ],
+    "embed": []
+  },
+  {
+    "id": "01ba0346-ad1f-4536-b1d5-e019cc79534e",
+    "content": "Hypocretin levels, regulated by orxidipine, are increased by protein and decreased by carbohydrates, suggesting a higher carb, lower protein meal before bed may improve sleep.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "sleep"
+    ],
+    "embed": []
+  },
+  {
+    "id": "2948cdb2-cd25-4574-80e3-ff1b1ef0f197",
+    "content": "For muscle building, a high-protein meal every 4-5 hours is recommended, including the last meal of the day.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "muscle building"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6fae3692-b208-47dd-8730-8d65fbf5be2f",
+    "content": "If not focused on muscle building, a lower protein, higher carbohydrate meal before bed may help improve sleep quality.",
+    "topics": [
+      "nutrition",
+      "diet",
+      "sleep"
+    ],
+    "embed": []
+  }
+]

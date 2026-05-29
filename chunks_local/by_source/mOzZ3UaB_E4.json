@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "4e5f6d81-14e7-43d6-a1ff-55126ac940d4",
+    "content": "The thyroid is a butterfly-shaped gland located at the front of the neck that helps convert calories and oxygen into energy, supporting metabolism.",
+    "topics": [
+      "thyroid",
+      "metabolism",
+      "endocrinology"
+    ],
+    "embed": []
+  },
+  {
+    "id": "a857ded5-60ed-4bd0-a4ab-d2b749bef93e",
+    "content": "Iodine is crucial for thyroid function, required for the thyroid to work properly and convert calories into energy. Iodine combines with tyrosine to form thyroid hormones T4 and T3, with T3 being four times more potent than T4.",
+    "topics": [
+      "thyroid",
+      "iodine",
+      "thyroid hormones"
+    ],
+    "embed": []
+  },
+  {
+    "id": "db00ea97-5379-428e-afe3-b8f7987da6bb",
+    "content": "Kelp and seaweed are rich sources of iodine due to their growth in the ocean, providing a natural way to boost thyroid function. Seaweed snacks are low-calorie and can satisfy a savory craving.",
+    "topics": [
+      "iodine",
+      "thyroid",
+      "seaweed"
+    ],
+    "embed": []
+  },
+  {
+    "id": "1cf08ed8-deba-466b-a94e-7d5badd72f25",
+    "content": "It is recommended to consume no more than 5000 micrograms of iodine per day, as excessive intake can have negative effects similar to insufficient intake. Potassium iodide is the easiest to absorb by the body.",
+    "topics": [
+      "iodine",
+      "supplements",
+      "thyroid"
+    ],
+    "embed": []
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "30db281a-6b6e-4ca7-a443-7cf86ab1f8ef",
+    "content": "Zinc deficiency is one of the most common reasons for dry skin, especially when trying to build muscle mass.",
+    "topics": [
+      "nutrition",
+      "skin health",
+      "zinc deficiency"
+    ],
+    "embed": []
+  },
+  {
+    "id": "842cff32-5eff-45f9-a852-bb62b45ee20b",
+    "content": "Biotin deficiency can lead to dry skin due to the presence of avidin in egg whites, which binds to biotin and reduces its absorption.",
+    "topics": [
+      "nutrition",
+      "skin health",
+      "biotin deficiency"
+    ],
+    "embed": []
+  },
+  {
+    "id": "4f9aee49-7f3d-48f1-aa3a-ea489abf960f",
+    "content": "Eating egg whites without the yolks can lead to biotin deficiency because the yolk contains biotin while the white contains avidin.",
+    "topics": [
+      "nutrition",
+      "skin health",
+      "egg consumption"
+    ],
+    "embed": []
+  },
+  {
+    "id": "74589747-84b7-4bae-af90-3c9972ac698d",
+    "content": "Essential fatty acid deficiencies can cause dry skin, particularly during periods of tissue expansion such as pregnancy or muscle growth.",
+    "topics": [
+      "nutrition",
+      "skin health",
+      "essential fatty acids"
+    ],
+    "embed": []
+  },
+  {
+    "id": "3c9b41d9-ff27-4f28-a18d-13978a4e6f69",
+    "content": "Arachidonic acid, an omega-6 fatty acid, is crucial for preventing dry skin and is best obtained from liver and egg yolks.",
+    "topics": [
+      "nutrition",
+      "skin health",
+      "arachidonic acid"
+    ],
+    "embed": []
+  },
+  {
+    "id": "7e9a5ecb-072a-4bee-ae22-064942aa9679",
+    "content": "Liver and egg yolks are the best sources of biotin and arachidonic acid, respectively, to help prevent dry skin.",
+    "topics": [
+      "nutrition",
+      "skin health",
+      "food sources"
+    ],
+    "embed": []
+  }
+]

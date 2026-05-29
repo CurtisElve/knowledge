@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "abbf8cb1-4214-42c6-8346-abd12a4ddf49",
+    "content": "Coffee consumption is associated with reduced risk of Alzheimer's disease and other neurodegenerative processes, but the effect may be more than a matter of caffeine.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "neurodegeneration"
+    ],
+    "embed": []
+  },
+  {
+    "id": "08a77ddb-7f0e-45f2-842d-5f69371df24a",
+    "content": "Trigonelline has yet to be investigated in humans, but preclinical studies suggest it may have beneficial effects on cognition.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "cognition"
+    ],
+    "embed": []
+  },
+  {
+    "id": "8132c228-b7bc-4221-9eb0-f0f349b818ba",
+    "content": "Observational studies investigating 'coffee' can refer to non-uniform beverages consisting of any number of relative concentrations of compounds.",
+    "topics": [
+      "nutrition",
+      "epidemiology",
+      "coffeecomponents"
+    ],
+    "embed": []
+  },
+  {
+    "id": "becc08f1-f857-4d86-bcba-c3aea63c6524",
+    "content": "Randomized, interventional studies may impose some uniformity on the coffee consumed, but the intrinsic heterogeneity of the beverage means no two trials will ever be exactly identical in their treatments.",
+    "topics": [
+      "nutrition",
+      "epidemiology",
+      "coffeecomponents"
+    ],
+    "embed": []
+  },
+  {
+    "id": "6dff12e8-20ed-4965-83d3-de1e3937246d",
+    "content": "Caffeine does not appear fully responsible for the 'magic' of a daily brew, and the effects of each individual component on cognition remain poorly understood.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "cognitivefunction"
+    ],
+    "embed": []
+  },
+  {
+    "id": "24ceb3d6-b997-4995-82e0-4d7540ca0dcd",
+    "content": "Turning investigative attention toward coffee itself comes with its own headaches, largely reflecting the heterogeneity of coffee beans and preparation styles.",
+    "topics": [
+      "nutrition",
+      "food science",
+      "coffeecomponents"
+    ],
+    "embed": []
+  }
+]
